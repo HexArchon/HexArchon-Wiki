@@ -7,6 +7,8 @@ slug: /
 
 I don't know Javascript or html nor any other web stuff
 
+This is a test commit
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
