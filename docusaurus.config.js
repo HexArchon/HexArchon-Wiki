@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'HexArchon',
+  tagline: 'The wiki for the HexArchon Minecraft server.',
   url: 'http://newwiki.hexarchon.net/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -39,8 +39,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   '',
         },
         blog: false,
         // blog: {
@@ -60,10 +60,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
-        title: 'My Site',
+        title: 'HexArchon',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'HexArchon Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -75,7 +80,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/hexarchon/hexarchon-wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -124,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HexArchon. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

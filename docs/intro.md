@@ -5,7 +5,17 @@ slug: /
 
 # HexArchon Wiki
 
-I don't know Javascript or html nor any other web stuff
+Welcome to the HexArchon Wiki! Click on the categories to the left to navigate around the wiki. For any questions not answered by the wiki, you can always ask us on our [Discord!](https://discord.hexarchon.net/)
+
+Are you new? [Click me to get started!](getting-started/getting-started.md)
+
+## Introduction to HexArchon
+
+HexArchon offers a variety of custom gameplay mechanics for a unique survival experience. Themed based on magic and spells, we offer mechanics such as Custom Items, Enchants, Mobs, Boss Fights, Quests, Terrains, and much more.
+
+We are a new server looking forward to the future with our community! We are very open to any suggestions and other comments.
+
+<!-- I don't know Javascript or html nor any other web stuff
 
 This is a test commit
 
@@ -49,4 +59,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->
