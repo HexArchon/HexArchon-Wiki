@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://HexArchon.github.io',
-  baseUrl: '/Hexarchon-Wiki/',
+  baseUrl: '/HexArchon-Wiki/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
