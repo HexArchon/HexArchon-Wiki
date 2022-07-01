@@ -7,7 +7,7 @@ slug: /
 
 Welcome to the HexArchon Wiki! Click on the categories to the left to navigate around the wiki. For any questions not answered by the wiki, you can always ask us on our [Discord!](https://discord.hexarchon.net/)
 
-Are you new? [Click me to get started!](getting-started/getting-started.md)
+Are you new? [Click me to get started!](getting-started.md)
 
 ## Introduction to HexArchon
 
