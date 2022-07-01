@@ -31,3 +31,7 @@ A menu of all your claims will pop up. From here, select the claim you wish to s
 ![Claim Settings Menu](./img/getting-started-claim-settings-menu.png)
 
 A settings menu for the claim you selected will pop up. Click Per Player Settings. Then, select the player you wish to grant your claim permissions to.
+
+
+
+Test
