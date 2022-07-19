@@ -90,6 +90,11 @@ Depending on the weapon, the skill may use mana or have a cooldown. Every skill 
 
 Items can be upgraded up to 5 levels at the Blacksmith using item essence and a portion of the item's crafting materials. Different item types also have different stat scaling per level. More information on item essence can be read below.
 
+## Upgrade Scalings
+
+The scales of upgrades can be read over at the [Upgrade Scalings](upgrade-scalings.md) page.
+
+
 ## Item Essence
 
 ![Essence Crafting](./img/essence-crafting.png)
