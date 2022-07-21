@@ -22,19 +22,45 @@ You can quickly open the Custom Enchants menu with `/shop ce`.
 
 Custom Enchants can be applied to items by using an anvil, similar to vanilla Minecraft.
 
+:::warning
+Some enchants may be incompatible with another enchant, preventing you from applying them together on one item. You can check if an enchant has any incompatibilities using the `/whatis <enchantment>` command.
+:::
+:::warning
+Mending, Power, Indestructibility, and Repairing cannot be applied on custom items!
+:::
+
 ## Combining Custom Enchants
+
+![Combining Enchants](./img/ce-combine.gif)
 
 Custom Enchants can be combined together, following the exact vanilla Minecraft rules. For example, if you had two Dodge I books, the result would be one Dodge II book.
 
 ## Types of Custom Enchants
 
+![Enchant Types](./img/ce-types.png)
+
 Below are the various types of Custom Enchants.
 
-Normal (Gray) - Normal enchant.
-Special (Pink) - A powerful, rare enchant.
-Spell (Blue) - Enchants that require manual activation.
-Artifact (Orange) - Enchants that produce a particle on use.
-Curse (Red) - Similar to the vanilla Curse enchantments.
+Normal (Gray) - Normal enchant. <br />
+Special (Pink) - A powerful, rare enchant. <br />
+Spell (Blue) - Enchants that require manual activation. <br />
+Artifact (Orange) - Enchants that produce a particle on use. <br />
+Curse (Red) - Similar to the vanilla Curse enchantments. <br />
+
+## Special Enchants
+
+![Special Enchant](./img/ce-special-enchant.png)
+
+Special enchants (Pink) are powerful, rare enchants.
+:::warning
+Beware that you can only apply one special enchant on an item!
+:::
+
+## Spell Enchants
+
+![Spell Enchant](./img/ce-spell-enchant.png)
+
+Spell enchants (Blue) are enchants that require manual activation (right-click). They have a cooldown upon activation.
 
 ## Rarities
 
