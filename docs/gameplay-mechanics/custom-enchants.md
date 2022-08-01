@@ -28,9 +28,6 @@ Some enchants may be incompatible with another enchant, preventing you from appl
 :::warning
 Mending, Power, Indestructibility, and Repairing cannot be applied on custom items!
 :::
-:::warning
-You can only apply up to 12 vanilla/custom enchantments on an item!
-:::
 
 ## Combining Custom Enchants
 

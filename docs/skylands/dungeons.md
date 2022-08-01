@@ -1,11 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: Dungeons
 title: Dungeons
 ---
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Dungeons
 
@@ -17,42 +14,34 @@ Dungeons can be joined in the `/dungeons` menu. You can choose to either play so
 
 ## Dungeons
 
-<Tabs>
-  <TabItem value="runictemple" label="Runic Temple" default>
-    Add a picture here <br />
-    <br />
-    Mobs: <br />
-    * Temple Ghoul <br />
-    * Unstable Temple Ghoul <br />
-    * Runic Shaman <br />
-    * Undead Worshipper <br />
-    * Temple Guard <br />
-    * Holy Skirmisher <br />
-    * Explosive Ghoul <br />
-    <br />
-    Bosses: <br />
-    * Runic Revenant <br />
-    * Posessed Treasure <br />
-    * Runic King <br />
-    There are some undisclosed hidden mobs as well :)
-  </TabItem>
-  <TabItem value="ancientdesert" label="Ancient Desert">
-    TODO: Add a picture here <br />
-    <br />
-    Mobs: <br />
-    * Treasure Hunter <br />
-    * Hyperion's Archer <br />
-    * Hyperion's Knight <br />
-    * Undead Fury <br />
-    * Mummy <br />
-    * Fallen Knight <br />
-    <br />
-    Bosses: <br />
-    * Sandstone Guardian <br />
-    * Seth <br />
-    * Warrior Hyperion <br />
-    * The Ancient Titan <br />
-    <br />
-    There are some undisclosed hidden mobs as well :) <br />
-  </TabItem>
-</Tabs>
+### Runic Temple
+![Runic Temple](./img/runictemple.png)
+
+**Difficulty:** Medium
+
+Bosses:
+- Runic Revenant (Mini-Boss)
+- Posessed Treasure
+- Runic King (Final Boss)
+
+### Feriah Farlands
+![Feriah Caverns](./img/feriahcaverns.png)
+
+**Difficulty:** Very Difficult
+
+Bosses:
+- Lava Gatekeeper (Mini-Boss)
+- Fire Broodmother
+- Frost King Servant
+- Ruined Frost King (Final Boss)
+
+### Ancient Desert
+![Ancient Desert](./img/ancientdesert.png)
+
+**Difficulty:** Ludicrously Difficult
+
+Bosses:
+- Fallen Knight (Mini-Boss)
+- Seth: The Rejected
+- Warrior Hyperion
+- The Ancient Titan (Final Boss)

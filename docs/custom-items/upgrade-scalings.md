@@ -110,16 +110,19 @@ Critical Strike Power: +6% per level <br />
 #### Common - Uncommon:
 Durability: 4% per level <br />
 Attack Damage: 4% per level <br />
+Attack Speed: 1% per level <br />
 Critical Strike Chance: +0.5% per level <br />
 Critical Strike Power: +0.5% per level <br />
 #### Rare - Epic:
 Durability: 5% per level <br />
 Attack Damage: 8% per level <br />
+Attack Speed: 2% per level <br />
 Critical Strike Chance: +0.75% per level <br />
 Critical Strike Power: +0.75% per level <br />
 #### Legendary - Mythical:
 Durability: 6% per level <br />
 Attack Damage: 12% per level <br />
+Attack Speed: 3% per level <br />
 Critical Strike Chance: +1% per level <br />
 Critical Strike Power: +1% per level <br />
 
