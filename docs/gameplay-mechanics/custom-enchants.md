@@ -10,7 +10,7 @@ Custom Enchants are all new, unique enchants that you can apply to armor and too
 
 ## Obtaining Custom Enchants
 
-![Custom Enchants](./img/ce-categories.png)
+![Custom Enchants](./img/ce/ce-categories.png)
 
 Custom Enchants can be purchased with money from `/shop` under Custom Enchants. They can also be obtained at random from Enchanting Tables, Villagers, Dungeons, Crates, Fishing, Drops, Daily Rewards, and Events.
 
@@ -31,13 +31,13 @@ Mending, Power, Indestructibility, and Repairing cannot be applied on custom ite
 
 ## Combining Custom Enchants
 
-![Combining Enchants](./img/ce-combine.gif)
+![Combining Enchants](./img/ce/ce-combine.gif)
 
 Custom Enchants can be combined together, following the exact vanilla Minecraft rules. For example, if you had two Dodge I books, the result would be one Dodge II book.
 
 ## Types of Custom Enchants
 
-![Enchant Types](./img/ce-types.png)
+![Enchant Types](./img/ce/ce-types.png)
 
 Below are the various types of Custom Enchants.
 
@@ -49,7 +49,7 @@ Curse (Red) - Similar to the vanilla Curse enchantments. <br />
 
 ## Special Enchants
 
-![Special Enchant](./img/ce-special-enchant.png)
+![Special Enchant](./img/ce/ce-special-enchant.png)
 
 Special enchants (Pink) are powerful, rare enchants.
 :::warning
@@ -58,7 +58,7 @@ Beware that you can only apply one special enchant on an item!
 
 ## Spell Enchants
 
-![Spell Enchant](./img/ce-spell-enchant.png)
+![Spell Enchant](./img/ce/ce-spell-enchant.png)
 
 Spell enchants (Blue) are enchants that require manual activation (right-click). They have a cooldown upon activation.
 

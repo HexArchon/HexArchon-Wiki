@@ -6,13 +6,13 @@ title: Stats
 
 # Stats
 
-Stats are a passive upgrade to your character, providing upgrades to complement your Custom Items and Abilities.
+![Stats](./img/stats/stats.png)
 
-Abilities play a huge role in progress as they grant special passive and active skills. The abilities menu can be accessed with `/abilities`.
+Stats are a passive upgrade to your character, providing upgrades to complement your Custom Items and Abilities.
 
 ## Upgrading Stats
 
-//TODO: Add a picture here
+![Stats Menu](./img/stats/stats-menu.png)
 
 Stats can be accessed with the command `/stats`. Here are all the stats available to upgrade:
 
@@ -26,6 +26,6 @@ Stats can be accessed with the command `/stats`. Here are all the stats availabl
 
 ## Obtaining Stat Points
 
-//TODO: Add a picture here
+![Stats Buy](./img/stats/stats-buy.png)
 
 Upgrading Stats require Stat Points, which can be purchased in the menu by using XP.

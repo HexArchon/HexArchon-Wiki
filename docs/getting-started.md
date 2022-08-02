@@ -5,9 +5,7 @@ sidebar_position: 2
 # Getting Started
 All about getting started on HexArchon.
 
-:::note
-This page of the wiki is currently under construction. Some details may be missing.
-:::
+## Welcome
 
 Welcome! On HexArchon, players can explore the wilderness, interact with other players, fight unique custom mobs, challenge various dungeons, and gear up on custom items and equipments to survive in a unique environment.
 
@@ -23,7 +21,7 @@ To claim land, first type the command `/claim`. Then, right-click two corners (b
 
 ### Giving other players access to your claim
 
-![Claim Player Grant Build Permission](./img/getting-started-claims-grant-build-permission.gif)
+![Claim Player Grant Build Permission](./img/getting-started/claims-grant-build-permission.gif)
 
 You can give access of your claim to other players, such as a friend. To do this, type the command `/claims`. Select the claim you wish to share, then click Per Player Settings. Select the player you wish to add, and under the build permission, click Enable. If you want, you can also grant them the permission to open chests, interact with mobs, blocks, and more!
 
@@ -33,7 +31,7 @@ The player that you want to add to your claim to must be in the same world for t
 
 ## Jobs
 
-![Jobs](./img/getting-started-jobs.png)
+![Jobs](./img/getting-started/jobs.png)
 
 Jobs are a good way to earn money as they grant money for certain actions. You can join up to 3 jobs by using the command `/jobs`, and left-clicking on any 3 jobs you want.
 To leave jobs, right-click on a job, or click the barrier in the bottom-right corner to leave all jobs.
@@ -44,7 +42,7 @@ Leaving a job will cost you 15% of the experience in the job you left!
 
 ## Shop
 
-//TODO: Add a picture here
+![Jobs](./img/getting-started/shop.png)
 
 The shop is crucial to the server as it can be used to purchase various things. To open the shop, type the command `/shop`.
 
@@ -56,7 +54,7 @@ In addition, most items can be sold in the shop to earn money using the command 
 
 ## Warps
 
-//TODO: Add a picture here
+![Scoreboard](./img/getting-started/warps.png)
 
 Warps can be used to quickly teleport to a public location of interest. To open the warps menu, use the command `/warp`.
 
@@ -87,19 +85,19 @@ The player auctions can be accessed by using /ah. From there, you can buy from o
 
 ## Map
 
-//TODO: Add a picture here
+![Map](./img/getting-started/map.png)
 
 The Server Map offers a real-time 2D view of the entire Overworld! You can view it by using the command `/map` or by visiting [map.hexarchon.net](https://map.hexarchon.net/).
 
 ## Tree Feller
 
-//TODO: Add a GIF here
+![Tree Feller](./img/getting-started/treefeller.gif)
 
 You can easily cut down trees using the tree feller! Note that it will only work on smaller trees.
 
 ## Scoreboard
 
-//TODO: Add a picture here
+![Scoreboard](./img/getting-started/scoreboard.png)
 
 The Scoreboard is the section that is located on the right side of the screen. While it contains various useful information, if you wish to remove this display, you can do so in the `/settings`.
 

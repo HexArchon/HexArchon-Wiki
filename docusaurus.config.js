@@ -76,7 +76,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Main Page',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -93,8 +93,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Getting Started',
+                to: '/getting-started',
               },
             ],
           },
@@ -119,12 +119,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Portal',
+                href: 'https://hexarchon.net/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Map',
+                href: 'https://map.hexarchon.net/',
+              },
+              {
+                label: 'Store',
+                href: 'https://store.hexarchon.net/',
               },
             ],
           },

@@ -9,6 +9,8 @@ title: Quests
 Quests are certain tasks that you can do to earn money, XP, skill levels, and tags. They can be accessed by using `/quests`.
 
 ## Quest Categories
+![Quests](./img/quests.png)
+
 Quests are divided into three categories:
 - Daily - Quests that refresh every day at 12:01 AM CST. Daily Quests are divided into three categories.
   - Daily (Easy) - $2,000 bonus upon all daily quests completion.

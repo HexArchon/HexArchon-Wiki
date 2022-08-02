@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 sidebar_label: Vanilla Modifications
 title: Vanilla Modifications
 ---
@@ -9,7 +9,7 @@ title: Vanilla Modifications
 The list of small modifications to vanilla Minecraft.
 
 #### Keep Inventory
-* Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, and The End. You lose 15% in the Skylands. You don't lose any in boss arenas.
+* Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
 
 #### Enchantments
 * Infinity can be put on crossbows.
@@ -58,3 +58,29 @@ The list of small modifications to vanilla Minecraft.
 * **Special:** 48-64 Emeralds, 4-10 Netherite Ingots, profession level 5 <br />
 * **Very Special:** 48-64 Emeralds, 8-14 Netherite Ingots, profession level 5 <br />
 * Enchantments that do not follow these pricing rules include: Proximity, Dullness, End Infusion, First Strike, Vitalize, Valor, Obsidian Shield, and Prosperity.
+
+#### Mob Limits
+Sadly, mob limits are necessary, either to prevent abuse, lag, and/or for balancing. Below are the mob limits.
+
+Below descriptions represent the actions that will be taken when one "group" of entities surpasses the specified counts. A group of entities are determined by their distance away from the same category.
+
+For instance, all chickens within 24 blocks of each other will be counted as one group, and if that group surpasses 25 chickens, the collisions and movements will be disabled.
+
+**Animals**
+* Count: 25, Distance: 24 -> Collisions & Movements Disabled.
+* Count: 35, Distance: 24 -> Collisions & Movements & Awareness Disabled.
+* Count: 50, Distance: 24 -> Removed.
+**Monsters:**
+* Count: 10, Distance: 7 -> Removed.
+**Iron Golems:**
+* Count: 1, Distance: 96 -> Removed.
+**Enderman:**
+* Count: 5, Distance: 32 -> Removed.
+**Villagers**
+* Count: 6, Distance: 120 -> Collisions & Movements Disabled.
+* Count: 11, Distance: 120 -> Collisions & Movements & Awareness Disabled.
+* Count: 16, Distance: 120 -> Removed.
+
+:::info
+Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on. This is vanilla behavior.
+:::
