@@ -72,18 +72,38 @@ const config = {
           src: 'img/hexarchon.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Main Page',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Main Page',
+          // },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/hexarchon/hexarchon-wiki',
-            label: 'GitHub',
-            position: 'right',
+            href: 'https://hexarchon.net/',
+            label: 'Portal',
+            position: 'left',
           },
+          {
+            href: 'https://store.hexarchon.net/',
+            label: 'Store',
+            position: 'left',
+          },
+          {
+            href: 'https://map.hexarchon.net/',
+            label: 'Map',
+            position: 'left',
+          },
+          {
+            href: 'https://discord.hexarchon.net/',
+            label: 'Discord',
+            position: 'left',
+          },
+          // {
+          //   href: 'https://github.com/hexarchon/hexarchon-wiki',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -123,12 +143,12 @@ const config = {
                 href: 'https://hexarchon.net/',
               },
               {
-                label: 'Map',
-                href: 'https://map.hexarchon.net/',
-              },
-              {
                 label: 'Store',
                 href: 'https://store.hexarchon.net/',
+              },
+              {
+                label: 'Map',
+                href: 'https://map.hexarchon.net/',
               },
             ],
           },
