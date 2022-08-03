@@ -24,3 +24,6 @@ You can fuel auto farms by left-clicking on them to bring up the managing menu. 
 
 ## Destroying Auto Farms
 Auto farms can be destroyed by shift-left-clicking on them. They will drop as an auto farm item, and all upgrades will be kept.
+
+## Ore Farms
+Diamond, Emerald, and Coal ores **cannot** be collected by ore farms!
