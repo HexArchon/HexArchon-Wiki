@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HexArchon',
   tagline: 'The wiki for the HexArchon Minecraft server.',
-  url: 'http://newwiki.hexarchon.net/',
+  url: 'http://wiki.hexarchon.net/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
