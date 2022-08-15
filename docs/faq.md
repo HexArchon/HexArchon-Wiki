@@ -32,17 +32,17 @@ There will be a Nether/End reset once in a few months.
 There will never be a server reset, unless the majority of the community wants it.
 
 ### How do I fix issues with connection lag?
-First, check that it is not your internet. Are websites loading at normal speeds? Are you able to play on other servers fine?
+First, check that it is not your internet. Are websites loading at normal speeds? Are you able to play on other servers fine? <br />
 
-If the answer to both of the above is yes, it may mean that your "route" to the server has some faults.
+If the answer to both of the above is yes, it may mean that your "route" to the server has some faults. <br />
 
-Every server is hosted at a different location. When you connect to a server, your internet jumps from your house to multiple locations, called a "hop", to finally reach the server. If you are experiencing issues with lag only on this server, that likely means that the "hops" your internet takes from your house to the server has some faults.
+Every server is hosted at a different location. When you connect to a server, your internet jumps from your house to multiple locations, called a "hop", to finally reach the server. If you are experiencing issues with lag only on this server, that likely means that the "hops" your internet takes from your house to the server has some faults. <br />
 
-This depends on your internet configuration, your geographical location, and your physical distance away from the server.
-**This is not a fault of the server. The server has no way of controlling where your internet hops through; therefore, this is an issue on every servers.**
+This depends on your internet configuration, your geographical location, and your physical distance away from the server. <br />
+**This is not a fault of the server. The server has no way of controlling where your internet hops through; therefore, this is an issue on every servers.** <br />
 
 **How do you fix this?**
-You can try using [Cloudflare Warp](https://1.1.1.1/). This will take your internet through a series of different hops in an attempt to avoid the bad hops. Most of the times, this may improve and/or fix issues with your connections.
+You can try using [Cloudflare Warp](https://1.1.1.1/). This will take your internet through a series of different hops in an attempt to avoid the bad hops. Most of the times, this may improve and/or fix issues with your connections. <br />
 
 **Still having issues?**
-You can open a support ticket on our [Discord](https://discord.hexarchon.net/), and we will be glad to help you out.
+You can open a support ticket on our [Discord](https://discord.hexarchon.net/), and we will be glad to help you out. <br />
