@@ -66,20 +66,20 @@ Below descriptions represent the actions that will be taken when one "group" of 
 
 For instance, all chickens within 24 blocks of each other will be counted as one group, and if that group surpasses 25 chickens, the collisions and movements will be disabled.
 
-**Animals**
-* Count: 25, Distance: 24 -> Collisions & Movements Disabled.
-* Count: 35, Distance: 24 -> Collisions & Movements & Awareness Disabled.
-* Count: 50, Distance: 24 -> Removed.
-**Monsters:**
-* Count: 10, Distance: 7 -> Removed.
-**Iron Golems:**
-* Count: 1, Distance: 96 -> Removed.
-**Enderman:**
-* Count: 5, Distance: 32 -> Removed.
-**Villagers**
-* Count: 6, Distance: 120 -> Collisions & Movements Disabled.
-* Count: 11, Distance: 120 -> Collisions & Movements & Awareness Disabled.
-* Count: 16, Distance: 120 -> Removed.
+**Animals** <br />
+* Count: 25, Distance: 24 -> Collisions & Movements Disabled. <br />
+* Count: 35, Distance: 24 -> Collisions & Movements & Awareness Disabled. <br />
+* Count: 50, Distance: 24 -> Removed. <br />
+**Monsters:** <br />
+* Count: 12, Distance: 7 -> Removed. <br />
+**Iron Golems:** <br />
+* Count: 1, Distance: 96 -> Removed. <br />
+**Enderman:** <br />
+* Count: 5, Distance: 32 -> Removed. <br />
+**Villagers** <br />
+* Count: 14, Distance: 120 -> Collisions & Movements Disabled. <br />
+* Count: 19, Distance: 120 -> Collisions & Movements & Awareness Disabled. <br />
+* Count: 25, Distance: 120 -> Removed. <br />
 
 :::info
 Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on. This is vanilla behavior.
