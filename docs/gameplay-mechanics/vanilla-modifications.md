@@ -70,12 +70,16 @@ For instance, all chickens within 24 blocks of each other will be counted as one
 * Count: 25, Distance: 24 -> Collisions & Movements Disabled. <br />
 * Count: 35, Distance: 24 -> Collisions & Movements & Awareness Disabled. <br />
 * Count: 50, Distance: 24 -> Removed. <br />
+
 **Monsters:** <br />
 * Count: 12, Distance: 7 -> Removed. <br />
+
 **Iron Golems:** <br />
 * Count: 1, Distance: 96 -> Removed. <br />
+
 **Enderman:** <br />
 * Count: 5, Distance: 32 -> Removed. <br />
+
 **Villagers** <br />
 * Count: 14, Distance: 120 -> Collisions & Movements Disabled. <br />
 * Count: 19, Distance: 120 -> Collisions & Movements & Awareness Disabled. <br />
