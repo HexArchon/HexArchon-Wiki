@@ -19,9 +19,9 @@ The list of small modifications to vanilla Minecraft.
 * Milk Buckets will clear the bad omen effect.
 * Totem of Undying will activate even if you do not have it equipped on hand.
 * Elytras take 3x higher durability loss.
-* Diamond Items require more Netherite Ingots to upgrade. The amount depends on their crafting recipe.
-* Redstone components are not craftable, and can only be obtained from the shop.
+* Diamond Items require more Netherite Ingots to upgrade. The amount depends on their crafting recipe. For example, Chestplates require 8 ingots, pickaxes require 3 ingots, etc.
 * Tridents thrown from the offhand will return to the offhand.
+* Redstone components are not craftable, and can only be obtained from the shop. 
 * Tridents with Loyalty cannot be thrown through portals to avoid losing them.
 * Tridents with Loyalty will still return to the player after getting thrown into the void.
 **Note: You will need to get close to where the trident was thrown for this to work (< 32 Blocks)**
@@ -60,7 +60,7 @@ The list of small modifications to vanilla Minecraft.
 * Enchantments that do not follow these pricing rules include: Proximity, Dullness, End Infusion, First Strike, Vitalize, Valor, Obsidian Shield, and Prosperity.
 
 #### Mob Limits
-Sadly, mob limits are necessary, either to prevent abuse, lag, and/or for balancing. Below are the mob limits.
+Unfortunately, mob limits are necessary for balancing and to prevent abuse or lag.
 
 Below descriptions represent the actions that will be taken when one "group" of entities surpasses the specified counts. A group of entities are determined by their distance away from the same category.
 
@@ -88,3 +88,14 @@ For instance, all chickens within 24 blocks of each other will be counted as one
 :::info
 Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on. This is vanilla behavior.
 :::
+
+#### Block Limits Per Chunk
+Unfortunately, block limits are necessary for balancing automations and to prevent abuse or lag. Below are the block limits per chunk. <br />
+
+* Hoppers: 8/chunk
+* All other redstone items: 32/chunk
+* Tiles: 128/chunk
+* Tiles (Player shops): 192/chunk
+* Cactus: 160/chunk
+* Beds: 64/chunk
+

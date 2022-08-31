@@ -79,10 +79,3 @@ Ancient Silver: Obtained from killing mobs in the Ancient Desert dungeon. <br />
 Ancient Tome: Obtained from Chests or Loot Enderman in the Ancient Desert dungeon. <br />
 Archonic Gold: Obtained from Chests or Loot Enderman in the Ancient Desert dungeon. <br />
 Harmony of Delusion: Obtained from defeating the Ancient Titan boss in the Ancient Desert dungeon. <br />
-
-## Armor Tiers
-Here are all the full armor sets ordered by the amount of defense from least to greatest. <br />
-
-Vanilla Iron Armor -> Orc Set -> Vanilla Netherite Armor -> Evergreen Set -> Geo Set -> Scorched Set -> Glacial Set -> Infernal Set -> Slate Set -> Desert Assassin Set -> Void Warrior's Set -> Cryohex Set -> Volcanic Set -> Blizzard Set -> Titanic Set <br />
-
-**Note that this order does NOT take full set bonuses, skills, items, or enchantments which can all affect total defense greatly.**

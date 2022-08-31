@@ -9,6 +9,16 @@ About and how to summon World Bosses.
 
 World Bosses are bosses that can be fought in any of the survival worlds but require a specific method of summoning. World Bosses often require a lot more players to defeat as they have a lot of health and may be more difficult than some Bossses.
 
+## Warden Anomaly
+![Warden Anomaly](./img/wardenanomaly.png)
+
+**Location:** Overworld <br />
+**Drops:** Warden's Tribute.
+
+### Summoning Steps
+
+Craft the Warden's Call to Archon from the Sorcerer. Upon crafting the item, you will be sent a coordinate in the chat. Navigate to the coordinate, enter the underground city, and locate the Warden's Well. While holding the Warden's Call to Archon, right-click next to the Warden's Well. Summon a Warden as usual, and while the Warden's Call to Archon is active, it will summon the Warden Anomaly.
+
 ## The Voidkeeper
 ![Voidkeeper](./img/voidkeeper.png)
 

@@ -5,27 +5,31 @@ title: Custom Items
 ---
 
 # Custom Items
-All about crafting, upgrading, and repairing custom items.
-
-:::note
-This page of the wiki is currently under construction. Some details may be missing.
-:::
+All about using, crafting, upgrading, and repairing custom items.
 
 ## Crafting Custom Items
 
 ![Blacksmith](./img/blacksmith.png)
 
-The Blacksmith can craft and upgrade materials, weapons, repair stones/artifacts, and armor. The Blacksmith can be located at spawn or at `/warp crafting`.
+The Blacksmith can craft and upgrade materials, weapons, repair stones/artifacts, and armor. The Blacksmith is located at spawn or at `/warp crafting`.
 
 ![Sorcerer](./img/sorcerer.png)
 
-The Sorcerer can craft potions, staffs, wands, catalysts, tomes, runes, and item essence. The Sorcerer can be located next to the Blacksmith at spawn.
+The Sorcerer can craft potions, staffs, wands, catalysts, tomes, runes, and item essence. The Sorcerer is located next to the Blacksmith at spawn.
+
+## Types of Custom Items
+
+There are a variety of Custom Item types, which each corresponding to different attributes. For instance, Daggers have a fast attack speed but low attack damage, and Greatswords have a slow attack speed and are two-handed but have a high attack damage.
+
+:::warning
+Magic Items cannot be enchanted!
+:::
 
 ## Attributes
 
-All Custom Items have attributes assigned to them. This can be seen when you hover your mouse cursor over the item.
-
 ![Attributes](./img/attributes.png)
+
+All Custom Items have various attributes assigned to them. This can be seen when you hover your mouse cursor over the item.
 
 ### All Attributes for Weapons
 
@@ -52,16 +56,11 @@ All Custom Items have attributes assigned to them. This can be seen when you hov
 * Health - The amount of extra health given. <br />
 * Movement Speed - The amount of extra movement speed given. <br />
 * Defense - The amount of defense points the item grants. <br />
-
+<br />
 * Max Mana - The amount of extra mana the item can grant to your total mana. <br />
 * Mana Regeneration - The speed of the mana regeneration. <br />
 * Skill Cooldown Reduction - The percentage of the cooldown timer for item skills. <br />
-
-* Elemental Damage - See below.
-
-Below is the list of all possible attributes for any items.
-
-* Durability - The durability of the item.
+* Elemental Damage - See below. <br />
 
 ## Elemental Damage
 
@@ -80,36 +79,42 @@ Custom Items can have an Elemental Damage attribute. Elemental Damage (%) repres
 
 ![Skills](./img/skills.png)
 
-All Custom Items have their own **special skills**. This can be seen when you hover your mouse cursor over the item.
-
-Depending on the weapon, the skill may use mana or have a cooldown. Every skill is unique, so try it out for yourself!
+All Custom Items have their own **special skills**. This can be seen when you hover your mouse cursor over the item. Depending on the weapon, the skill may use mana or have a cooldown. Every skill is unique, so try it out for yourself!
 
 ## Upgrading Items
 
-![Skills](./img/upgrade-station.png)
+![Upgrade](./img/upgrade-station.png)
 
-Items can be upgraded up to 5 levels at the Blacksmith using item essence and a portion of the item's crafting materials. Different item types also have different stat scaling per level. More information on item essence can be read below.
+Upgrading an item from the Blacksmith will increase stats on a Custom Item. Items can be upgraded up to 5 times (stars) at the Blacksmith, using item essence and a portion of the item's crafting materials.
 
 ## Upgrade Scalings
 
-The scales of upgrades can be read over at the [Upgrade Scalings](upgrade-scalings.md) page.
-
+Depending on the type and rarity of the item you are trying to upgrade, the results may be different. For instance, daggers get a 4% attack damage and 2.5% attack speed increase per level, while swords get a 6% attack damage and no attack speed increase per level. All scalings of upgrades can be read over at the [Upgrade Scalings](upgrade-scalings.md) page.
 
 ## Item Essence
 
 ![Essence Crafting](./img/essence-crafting.png)
 
-Item essence can be crafted at the Sorcerer using Essence Powder, which can be obtained by killing any normal or custom hostile mobs. Item essence can be used for upgrading items or repairing items. 
+Item essence is used for upgrading items or repairing items. They can be crafted at the Sorcerer using Essence Powder, which is obtained by killing any normal or custom mobs.
 
 ## Repairing Custom Items
 
 ![Essence Crafting](./img/repairing.png)
 
-Items can be repaired using Repair Stones and Artifacts based on their rarity. Repair Stones only repair a certain amount of durability, while Repair Artifacts can fully repair an item. Repair items can be crafted in the Blacksmith.
+Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones only repair a certain amount of durability, while Repair Artifacts fully repair an item. Repair items can be crafted in the Blacksmith.
 
 ## Runes
 
 ![Rune Crafting](./img/rune-crafting.png)
 
-Runes can be used to upgrade stats to Custom Items depending on its rune type. They can be crafted in the Sorcerer.
+Runes are used to upgrade stats to Custom Items. Depending on the type of the Rune, it may increase the amount of damage, critical strike chances, and more. Runes are crafted in the Sorcerer.
 
+## Armor Tiers
+Here are all the full armor sets ordered by the amount of defense from least to greatest. <br />
+
+Vanilla Iron Armor -> Orc Set -> Vanilla Netherite Armor -> Evergreen Set -> Geo Set -> Scorched Set -> Glacial Set -> Warden Set -> Infernal Set -> Slate Set -> Desert Assassin Set -> Void Warrior's Set -> Cryohex Set -> Volcanic Set -> Blizzard Set -> Titanic Set <br />
+
+**Note that this order does NOT take full set bonuses, skills, items, or enchantments which can all affect total defense greatly.**
+
+## Slate Armor Set
+Skipping from an Overworld armor set to the Slate armor set is **STRONGLY DISCOURAGED** due to the difficulty of the Basalt Deltas. You **WILL** suffer. **You have been warned!**

@@ -9,13 +9,13 @@ This page lists all the upgrade scalings for all the different types of items. S
 #### Armors with Armor Attribute
 Durability: 3% per level <br />
 #### Common - Uncommon:
-Durability: 4% per level <br />
+Durability: 6% per level <br />
 Defense: 1.5% per level <br />
 #### Rare - Epic:
-Durability: 8% per level <br />
+Durability: 10% per level <br />
 Defense: 3% per level <br />
 #### Legendary - Mythical:
-Durability: 12% per level <br />
+Durability: 14% per level <br />
 Defense: 4.5% per level <br />
 
 ### Daggers
@@ -74,17 +74,17 @@ Critical Strike Power: +1.5% per level <br />
 
 ### Bows
 #### Common - Uncommon:
-Durability: 2% per level <br />
+Durability: 3% per level <br />
 Attack Damage: 8% per level <br />
 Critical Strike Chance: +2% per level <br />
 Critical Strike Power: +4% per level <br />
 #### Rare - Epic:
-Durability: 3% per level <br />
+Durability: 4% per level <br />
 Attack Damage: 12% per level <br />
 Critical Strike Chance: +3% per level <br />
 Critical Strike Power: +5% per level <br />
 #### Legendary - Mythical:
-Durability: 4% per level <br />
+Durability: 5% per level <br />
 Attack Damage: 16% per level <br />
 Critical Strike Chance: +4% per level <br />
 Critical Strike Power: +6% per level <br />
@@ -196,13 +196,13 @@ Range: 3% per level <br />
 
 ### Shield
 #### Common - Uncommon:
-Durability: 2% per level <br />
+Durability: 4% per level <br />
 Defense: 2% per level <br />
 #### Rare - Epic:
-Durability: 4% per level <br />
+Durability: 7% per level <br />
 Defense: 3% per level <br />
 #### Legendary - Mythical:
-Durability: 6% per level <br />
+Durability: 10% per level <br />
 Defense: 4% per level <br />
 
 ### Greatstaff

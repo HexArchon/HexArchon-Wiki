@@ -11,6 +11,10 @@ How to use and upgrade Auto Farms.
 
 Auto Farms can be bought in the `/shop`. Farms are fully automatic, do not require a water source, and will replant/replace/pick up any crops/ores in its radius.
 
+:::warning
+Auto farms require the chunk to be loaded to function!
+:::
+
 ## Accessing the Storage
 The farm storage can be accessed by right-clicking on the farm.
 
