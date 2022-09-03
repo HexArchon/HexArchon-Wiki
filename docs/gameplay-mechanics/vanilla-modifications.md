@@ -107,7 +107,7 @@ The activity index is calculated using your playtime for the last 3 weeks using 
 
 Only raw playtime are counted towards the activity index - time spent AFK are not counted towards the activity index. <br />
 
-Every few minutes, if you are detected as being AFK, an AFK point will be assigned to you. You can lower your AFK points to 0 by simply playing. There is a cap of 100 AFK points, so even if you AFK for a very long time, you won't have to play for the same amount of time to lower your AFK points back to 0. <br />
+Every few minutes, if you are detected as being AFK near a spawner, an AFK point will be assigned to you. You can lower your AFK points to 0 by simply playing. There is a cap of 100 AFK points, so even if you AFK for a very long time, you won't have to play for the same amount of time to lower your AFK points back to 0. <br />
 
 The spawner efficiency is calculated as a combination of your activity index and the amount of AFK points. The activity index is translated to a raw percentage with an 80% max efficiency of vanilla spawners. With 0 being the lowest index and 5 being the highest, this means that having an activity index of 5 equates to an 80% spawner efficiency. After this calculation, the amount of your AFK points will be translated to deduct from the calculated previous percentage. The formula is as follows: `3.06(1.094)^((1/2)*x+6.4)`, with x being the amount of AFK points you have. The function of this equation (percentage) will be subtracted from the previous calculated percentage, which will be the new spawner efficiency. A spawner cannot have below 10% efficiency. <br />
 
