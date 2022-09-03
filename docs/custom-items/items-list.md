@@ -41,38 +41,38 @@ Tomato: Dropped by destroying Oak and Dark Oak leaves. <br />
 Toughstone: Dropped by killing Stone Golems in caves in the Overworld, or by mining ores. <br />
 
 ### Mid Game Materials
-Aether Crust: Dropped by Aether Guards in the End. <br />
+Aether Crust: Dropped by Aether Guards in the outer End. <br />
 Ancient Stormland Debris: Obtained from chests in the Feriah Caverns dungeon. <br />
 Arcane Fragment: Dropped by killing the Arcane Shadowmage mini-boss or the Voidkeeper world-boss. <br />
 Arctic Crystal: Dropped by killing Arctic Sorcerers in Snow Biomes in the Overworld. <br />
 Ash: Dropped by killing Magma Spirits in the Nether Wastes. <br />
-Bewitched Eye: Dropped by Hexed Eyes in the End. <br />
+Bewitched Eye: Dropped by Hexed Eyes in the outer End. <br />
 Boreal Crystal: Crafted from the Blacksmith at `/warp blacksmith`, or dropped by the Ruined Frost King in the Feriah Caverns dungeon. <br />
-Bottled Spell: Dropped by Ether Witches in the End. <br />
+Bottled Spell: Dropped by Ether Witches in the outer End. <br />
 Broodmother Fang: Dropped by defeating the Fire Broodmother in the Feriah Caverns dungeon. <br />
 Chilled Slimeball: Dropped by killing Chilled Slimes in Snow Biomes in the Overworld. <br />
-Corrupted Eye: Dropped by killing Corrupted Enderman in the End. <br />
-Cosmic Twilight: Dropped by Cosmic Delucions in the End. <br />
+Corrupted Eye: Dropped by killing Corrupted Enderman anywhere in the End. <br />
+Cosmic Twilight: Dropped by Cosmic Delucions in the outer End. <br />
 Crimson Essence: Dropped by killing Crimson Golem in Crimson Forests in the Nether. <br />
 Cryo Fragment: Dropped by defeating the Ruined Frost King in the Feriah Caverns dungeon. <br />
 End Stone Crystal: Dropped by mining End Stone. <br />
-Etheric Shell: Dropped by Etheric Shulkers in the End. <br />
+Etheric Shell: Dropped by Etheric Shulkers in the outer End. <br />
 Feria Dust: Dropped by mobs in the Feriah Farlands. <br />
 Galestone: Crafted from the Blacksmith at `/warp crafting`. <br />
-Glowing Eye: Dropped by Enderweavers in the End. <br />
+Glowing Eye: Dropped by Enderweavers in the outer End. <br />
 Heart of the Void: Dropped by defeating the VoidKeeper world-boss. <br />
 Hematite: Dropped by Obsidian Warriors in the Feriah Caverns dungeon. <br />
 Hoarfrost Crystal: Dropped by mobs in the Feriah Caverns dungeon. <br />
 Intertwined Crystal: Dropped by killing Warped Golems in the Warped Forest in the Nether. <br />
 Magma Core: Dropped by fire mobs in the Feriah Caverns dungeon. <br />
-Seeker Heart: Dropped by Seekers in the End. <br />
-Shining Star: Dropped by killing Starlight Fairies in the End. <br />
+Seeker Heart: Dropped by Seekers anywhere in the End. <br />
+Shining Star: Dropped by killing Starlight Fairies in the outer End. <br />
 Skeleton Shaman Soul: Dropped by killing the Skeleton Shaman mini-boss in the Soul Sand Valley in the Nether. <br />
 Snowland Soul: Dropped by Snowland Spirits in the Feriah Farlands. <br />
 Stellar Core: Dropped from an extremely rare Fading Star event in the End. <br />
-Unstable Fragment: Dropped from Cosmic Delusions and Corrupted Enderman in the End. <br />
-Unstable Matter: Crafted from the Matter Station in the End, spawns on a rare occasion. <br />
-Void Essence: Dropped by Ender Revenants and Void Archers in the End. <br />
+Unstable Fragment: Dropped from Cosmic Delusions and Corrupted Enderman in the outer End. <br />
+Unstable Matter: Crafted from the Matter Station in the outer End, spawns on a rare occasion. <br />
+Void Essence: Dropped by Ender Revenants and Void Archers anywhere in the End. <br />
 
 ### Late Game Materials
 Ancient Silver: Obtained from killing mobs in the Ancient Desert dungeon. <br />
