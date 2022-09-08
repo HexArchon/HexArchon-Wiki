@@ -8,7 +8,7 @@ title: Rules
 
 ### Rule 1.1 - Cheat Clients.
 Any usage of cheat, hack clients, and other Unauthorized Modifications are not allowed. This includes but is not limited to Fly, Killaura, speed, and Xray.
-The list of Allowed and Prohibited Modifications can be found here.
+The list of Allowed and Prohibited Modifications can be found [here](modifications.md).
 
 ### Rule 1.2 - Autoclickers and automatic farms.
 Any usage of autoclickers or macros are not allowed. This includes but is not limited to automatic fishing and mob farms.
