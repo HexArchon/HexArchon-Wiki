@@ -42,10 +42,10 @@ The list of small modifications to vanilla Minecraft.
 ### Other Mechanics
 * End Portals exhibit safer teleporting.
 * Beds only require 30% of all active players to sleep to skip the night.
+* Flying Machines are disabled, as such a powerful automation cannot be balanced with the economy.
 
 ### Villagers
 * Villagers may act slower to preserve ticks (technical: 4 brain-ticks).
-* Any villagers within a distance of 120 blocks are counted as one group. More than 6 villagers in a group will have their collisions and random movements removed. More than 11 villagers in a group will have their awareness removed. More than 16 villagers in a group will be removed.
 * Villager curing mechanism has been disabled.
 
 #### Custom Enchantments from Villagers
@@ -93,7 +93,7 @@ Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on.
 Unfortunately, block limits are necessary for balancing automations and to prevent abuse or lag. Below are the block limits per chunk. <br />
 
 * Hoppers: 8/chunk
-* All other redstone items: 32/chunk
+* All redstone items: 32/chunk
 * Tiles: 128/chunk
 * Tiles (Player shops): 192/chunk
 * Cactus: 160/chunk
