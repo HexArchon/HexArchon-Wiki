@@ -18,5 +18,11 @@ Type these into the chat for various functions!
 `[balance]` `[money]` - Showcases your balance.
 `[teleport]` `[tp]` - Allows others to teleport to you.
 
+## Invisible Item Frames
+You can toggle an item frame's invisibility by facing it and using the command `/itf toggle`. To scan for nearby item frames, use `/itf scan <block radius>`.
+
+## Waypoints
+You can use the command `/warpoint <x> <y> <z>` to set a waypoint for your compass to face to.
+
 ## Achievements
 Various achievements in additions to vanilla achievements are available. The list of all achievements can be viewed with `/ach`.

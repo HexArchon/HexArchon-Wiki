@@ -99,18 +99,18 @@ Unfortunately, block limits are necessary for balancing automations and to preve
 * Cactus: 160/chunk
 * Beds: 64/chunk
 
-### Spawner Modifications
-Spawners have an efficiency (speed) rating, linked to your active playtime ratio. The efficiency of your spawner depends on your activity index and the amount of your internal AFK points. <br />
+### Spawners and Crops Modifications
+Spawners and Crops have an efficiency (speed) rating, linked to your active playtime ratio. The efficiency of your spawners and crops depend on your activity index and the amount of your internal AFK points. <br />
 
 The activity index is calculated using your playtime for the last 3 weeks using this equation: <br />
 `5.0 - (5.0 * ((1.0 / (Π / 2.0 * (weekOneActivePlaytimeMs) + 1.0) + (1.0 / (Π / 2.0 * (weekTwoActivePlaytimeMs) + 1.0) + (1.0 / (Π / 2.0 * (weekThreeActivePlaytimeMs) + 1.0))/ 3.0))` <br />
 
 Only raw playtime are counted towards the activity index - time spent AFK are not counted towards the activity index. <br />
 
-Every few minutes, if you are detected as being AFK near a spawner, an AFK point will be assigned to you. You can lower your AFK points to 0 by simply playing. There is a cap of 100 AFK points, so even if you AFK for a very long time, you won't have to play for the same amount of time to lower your AFK points back to 0. <br />
+If you are AFK and a mob spawns from a spawner or a crop grows near you, a partial AFK point (scaled on the type of event) will be assigned to you. You can lower your AFK points to 0 by simply playing. There is a cap of 100 AFK points, so even if you AFK for a very long time, you won't have to play for the same amount of time to lower your AFK points back to 0. <br />
 
-The spawner efficiency is calculated as a combination of your activity index and the amount of AFK points. The activity index is translated to a raw percentage with an 80% max efficiency of vanilla spawners. With 0 being the lowest index and 5 being the highest, this means that having an activity index of 5 equates to an 80% spawner efficiency. After this calculation, the amount of your AFK points will be translated to deduct from the calculated previous percentage. The formula is as follows: `3.06(1.094)^((1/2)*x+6.4)`, with x being the amount of AFK points you have. The function of this equation (percentage) will be subtracted from the previous calculated percentage, which will be the new spawner efficiency. A spawner cannot have below 10% efficiency. <br />
+The spawner/crop efficiency is calculated as a combination of your activity index and the amount of AFK points. The activity index is translated to a raw percentage with an 80% max efficiency of vanilla spawners/crops. With 0 being the lowest index and 5 being the highest, this means that having an activity index of 5 equates to an 80% spawners/crops efficiency. After this calculation, the amount of your AFK points will be translated to deduct from the calculated previous percentage. The formula is as follows: `3.06(1.094)^((1/2)*x+6.4)`, with x being the amount of AFK points you have. The function of this equation (percentage) will be subtracted from the previous calculated percentage, which will be the new spawner/crop efficiency. Spawners and crops cannot have below 5% efficiency. <br />
 
 :::warning
-Due to how the internal system works, **spawners will NOT function if there is more than two players within the spawner's radius.**
+Since the system will take one player to perform calculations on, **spawners will NOT function and crops will NOT grow if there is more than one player within the activation radius.**
 :::

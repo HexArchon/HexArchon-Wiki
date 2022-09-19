@@ -7,6 +7,8 @@ title: Connection Issues
 # Connection Issues
 Diagnosing connection issues on the server.
 
+## Always High Ping
+
 ### How do I fix issues with connection lag?
 Try using [Cloudflare Warp](https://1.1.1.1/). Make sure to enable it after downloading!
 
