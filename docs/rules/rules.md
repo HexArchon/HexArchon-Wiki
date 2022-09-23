@@ -19,7 +19,7 @@ Any abuse of bugs and exploits are not allowed. If any bugs and exploits are fou
 ## Section 2: Behavior Offenses.
 
 ### Rule 2.1 - Theft and Griefing.
-Theft and Griefing are not allowed anywhere whatsoever. This also applies to regions where it may have not been claimed. Destroying land around claimed areas without permission are not allowed.
+Theft and Griefing are not allowed anywhere whatsoever, including regions where it is not claimed. This also applies within claims if you have not been given verbal permission to do so. Destroying land around claimed areas without permission are not allowed.
 
 ### Rule 2.2 - Intentional Harm to the server.
 Any intentional harm to the server are not allowed. This includes lag machines or any other contraptions or blocks that cause an unnecessary amount of lag. In addition, builds that significantly lower the FPS of others causing a player to lag are not allowed.
