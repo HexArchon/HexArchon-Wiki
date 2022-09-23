@@ -28,6 +28,12 @@ Claims may be interfering with the flow of your water or lava. By default, liqui
 ### Is Infernal Touch and Fortune compatible?
 Yes, Infernal Touch will smelt all items multiplied from Fortune.
 
+### Why do treasure maps not work?
+Treasure maps are disabled as they cause severe lag spikes. Treasure maps load infinite chunks until it finds a structure - basically, imagine flying at light speed until it finds a treasure or the server crashes.
+
+### How do I use fancy colors in commands such as /nick, /rename, etc?
+Use these [color codes](https://i.redd.it/yldfhnb4xp411.png), or if you want to use gradients and hex colors, [use this website!](https://www.simplymc.art/Gradients)
+
 ### What is the World Size?
 **Overworld** - 24,000 x 24,000 <br />
 **Nether** - 8,000 x 8,000 <br />

@@ -196,13 +196,13 @@ Range: 3% per level <br />
 
 ### Shield
 #### Common - Uncommon:
-Durability: 4% per level <br />
+Durability: 6% per level <br />
 Defense: 2% per level <br />
 #### Rare - Epic:
-Durability: 7% per level <br />
+Durability: 9% per level <br />
 Defense: 3% per level <br />
 #### Legendary - Mythical:
-Durability: 10% per level <br />
+Durability: 12% per level <br />
 Defense: 4% per level <br />
 
 ### Greatstaff
