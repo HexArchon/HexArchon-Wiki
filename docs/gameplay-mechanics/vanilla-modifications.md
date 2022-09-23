@@ -96,8 +96,6 @@ Unfortunately, block limits are necessary for balancing automations and to preve
 * All redstone items: 32/chunk
 * Tiles: 128/chunk
 * Tiles (Player shops): 192/chunk
-* Cactus: 160/chunk
-* Beds: 64/chunk
 
 ### Spawners and Crops Modifications
 Spawners and Crops have an efficiency (speed) rating, linked to your active playtime ratio. The efficiency of your spawners and crops depend on your activity index and the amount of your internal AFK points. <br />
