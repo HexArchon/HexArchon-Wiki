@@ -25,6 +25,9 @@ You can submit those on our [Discord](https://discord.hexarchon.net/). Please re
 ### Why is my water or lava not flowing?
 Claims may be interfering with the flow of your water or lava. By default, liquids cannot move across claim borders. To fix this, you can enlarge your claim, or allow liquid to flow across your borders in the `/claims` menu.
 
+### Why is my sheep not regrowing wool?
+You may have to enable the "Mob Griefing" global permission in your claim. To do this, stand in your claim and type `/claimsettings`. Click "Global Claim Settings", and navigate to "Advanced Configuration" (bottom right corner). Click the "Misc" option (crafting table), and under the Mob Griefing option, select Enable.
+
 ### Is Infernal Touch and Fortune compatible?
 Yes, Infernal Touch will smelt all items multiplied from Fortune.
 
