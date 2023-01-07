@@ -7,7 +7,7 @@ title: Player Shops
 # Player Shops
 How to create player shops.
 
-Player shops can be visited in the `/warp` menu. From there, players may choose to purchase items and create their own shop. This can be a good alternative to auctions as there are no item list limits, and may catch other players' attention more effectively with your shop plot.
+You can choose to either create a player shop anywhere in the main overworld, or at `/warp playershops`. This can be a good alternative to auctions as there are no item list limits, and may catch other players' attention more effectively with your shop builds. <br />
 
 ## Purchasing an Item
 ![Player Shop](./img/playershop/playershop.png)

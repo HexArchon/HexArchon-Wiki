@@ -16,6 +16,7 @@ Due to the sheer complexity of HexArchon and crossplay in general, **full Bedroc
 * Repeatable quests category cannot be opened.
 * Hardcore quests category cannot be opened.
 * Abilities cannot be used.
+* Enchantments and Item descriptions may not always show properly.
 * Mobs are invisible in certain uncommon cases. Their nametag will still show though.
 * You may not receive items from certain events.
 * Certain item functions may not work.

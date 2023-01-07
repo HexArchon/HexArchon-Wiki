@@ -17,7 +17,7 @@ Ancient Trident Fragment: Dropped by defeating Poseidon in `/boss`. <br />
 Archaic Monolith: Obtained from defeating the Runic King Boss in the Runic Temple dungeon. <br />
 Bandit Sigil: Dropped by killing Bandits in the Desert in the Overworld. <br />
 Block of Steel: Crafted from the Blacksmith at `/warp crafting`. <br />
-Bottle of Wind: Obtained by capturing wind (right-clicking in a windy environment while holding an Empty Wind Bottle, crafted from the sorcerer). <br />
+Bottle of Wind: Obtained by capturing wind (right-clicking holding an Empty Wind Bottle crafted from the sorcerer, in a snowy biome when it is windy with white particles and wind sound). <br />
 Chalkstone: Dropped by killing Blackstone Golems in the Basalt Deltas in the Nether. <br />
 Cheese: Crafted from the Food Vendor at `/warp food`. <br />
 Condensed Flesh: Crafted from the Sorcerer at `/warp crafting`, or dropped by Rotting Zombies. <br />
@@ -39,6 +39,7 @@ Spider Silk: Dropped by killing Poison, Wither, Frost, and Fire spiders in the O
 Steel Ingot: Crafted from the Blacksmith at `/warp crafting`.
 Tomato: Dropped by destroying Oak and Dark Oak leaves. <br />
 Toughstone: Dropped by killing Stone Golems in caves in the Overworld, or by mining ores. <br />
+Warden's Tribute: Dropped by killing the [Warden Anomaly](../custom-mobs/world-bosses.md) world-boss.
 
 ### Mid Game Materials
 Aether Crust: Dropped by Aether Guards in the outer End. <br />
