@@ -22,7 +22,7 @@ Chalkstone: Dropped by killing Blackstone Golems in the Basalt Deltas in the Net
 Cheese: Crafted from the Food Vendor at `/warp food`. <br />
 Condensed Flesh: Crafted from the Sorcerer at `/warp crafting`, or dropped by Rotting Zombies. <br />
 Crystalized Obsidian Fragment: Dropped by chance from mining Obsidian. <br />
-Decaying Flesh: Drops from Decaying Drowneds in Oceans in the Overworld.
+Decaying Flesh: Drops from Decaying Drowneds in Oceans in the Overworld. <br />
 Enchanted Shard: Obtained from Chests or Loot Enderman in the Runic Temple dungeon. <br />
 Hardened Diamond: Crafted from the Blacksmith at `/warp crafting`. <br />
 Hoglin Meat: Dropped by killing Raged Hoglins in the Nether. <br />
@@ -36,7 +36,7 @@ Salt Crystal: Dropped by killing Salt Golems in Salt Flats in the Overworld. <br
 Sharpening Flint: Crafted from the Blacksmith at `/warp crafting`. <br />
 Soul Bone: Crafted from the Blacksmith at `/warp crafting`, or dropped by killing Reaper Skeletons in the Overworld. <br />
 Spider Silk: Dropped by killing Poison, Wither, Frost, and Fire spiders in the Overworld. <br />
-Steel Ingot: Crafted from the Blacksmith at `/warp crafting`.
+Steel Ingot: Crafted from the Blacksmith at `/warp crafting`. <br />
 Tomato: Dropped by destroying Oak and Dark Oak leaves. <br />
 Toughstone: Dropped by killing Stone Golems in caves in the Overworld, or by mining ores. <br />
 Warden's Tribute: Dropped by killing the [Warden Anomaly](../custom-mobs/world-bosses.md) world-boss.
