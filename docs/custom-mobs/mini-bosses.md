@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Mini Bosses
+sidebar_label: 🧟 Mini Bosses
 title: Mini Bosses
 ---
 

@@ -1,16 +1,16 @@
 ---
 sidebar_position: 2
-sidebar_label: Connection Issues
+sidebar_label: 🌐 Connection Issues
 title: Connection Issues
 ---
 
 # Connection Issues
 Are you having extremely high ping? Random ping spikes making you unable to play? Random disconnections? Read below to fix it!
 
-### Why is my ping always high (100-300 ping)?
-If you have a __high, but steady__ ping ranging from __100-300__, it most likely means you *physically* live far away from the server. This is a US-East hosted server. There is no way to decrease this ping, unless you *physically* move closer to the server. However, if you are experiencing any other issues (such as ping over 300, random ping spikes and disconnections), make sure to continue reading below.
+### Why is my ping always high, but steady (100-300 ping)?
+If you have a high, but __STEADY__ ping ranging from __100-300__, it most likely means you *physically* live far away from the server. This is a US-East hosted server. There is no way to decrease this ping, unless you *physically* move closer to the server. However, if you are experiencing any other issues (such as ping over 300, random ping spikes and disconnections), make sure to continue reading below.
 
-### How do I fix connection issues? (i.e. extremely high ping of 300+, random ping spikes, disconnections)
+### How do I fix connection issues? (i.e. extremely high inconsistent 300+ ping, random ping spikes, disconnections)
 Tl;dr - give us a ping on our [Discord](https://discord.hexarchon.net/) to whitelist your account, and try using [Cloudflare Warp](https://1.1.1.1/). Make sure to enable it after downloading! Read below on why Cloudflare Warp could resolve your issue.
 
 ### Why am I getting connection issues?

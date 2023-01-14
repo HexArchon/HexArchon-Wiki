@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-sidebar_label: Item Skills List
+sidebar_label: 📜 Item Skills List
 title: Item Skills List
 ---
 

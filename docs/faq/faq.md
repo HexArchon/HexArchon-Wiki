@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: FAQ
+sidebar_label: ❓ FAQ
 title: FAQ
 ---
 
@@ -10,14 +10,17 @@ Frequently asked Questions and the answers.
 ### Is Keep Inventory on?
 Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
 
+### How do I obtain this item?
+Visit the [Items List](../custom-items/items-list.md) section of the wiki.
+
+### What is Item Essence used for?
+Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section of the wiki.
+
 ### Is Fire Tick on?
-Fire Tick is disabled, as they can be abused.
+Fire Tick is disabled, as they it be abused for griefing.
 
 ### What is the vanilla difficulty of the server?
 The vanilla difficulty of the server is normal.
-
-### How do I obtain an item?
-Visit the [Items List](custom-items/items-list.md) section of the wiki.
 
 ### How do I submit a Suggestion or a Bug Report?
 You can submit those on our [Discord](https://discord.hexarchon.net/). Please report bugs on the Discord! **Chat** is **NOT** the right place to report bugs! As much as we would love to read chat, we cannot always do so. <br />

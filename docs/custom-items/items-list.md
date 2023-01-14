@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Items List
+sidebar_label: 📃 Items List
 title: Items List
 ---
 

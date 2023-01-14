@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Custom Enchants
+sidebar_label: 📔 Custom Enchants
 title: Custom Enchants
 ---
 
@@ -26,7 +26,7 @@ Custom Enchants can be applied to items by using an anvil, similar to vanilla Mi
 Some enchants may be incompatible with another enchant, preventing you from applying them together on one item. You can check if an enchant has any incompatibilities using the `/whatis <enchantment>` command.
 :::
 :::warning
-Mending, Power, Indestructibility, and Repairing cannot be applied on custom items!
+Mending, Power, Indestructibility, and Repairing cannot be applied on custom items! This is due to the codebase being incompatible.
 :::
 
 ## Combining Custom Enchants
@@ -73,3 +73,7 @@ You can stack enchantments for greater effects. For instance, stacking the Prosp
 ## Look up Enchantments
 
 You can easily look up all about an enchantment by using the command `/whatis <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
+
+## Get the list of Enchantments
+
+Are enchantments not showing (Rare Bedrock Edition issue)? Use the command `/enchantslist` to view the list of enchantments that are applied to the item that you are currently holding.

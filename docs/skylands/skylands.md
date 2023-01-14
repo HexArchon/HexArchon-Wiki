@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Skylands
+sidebar_label: 🏝️ Skylands
 title: Skylands
 ---
 
@@ -13,4 +13,4 @@ Some dungeons may be paired with a skylands island. Skylands are an island-based
 
 **Difficulty:** Very Difficult
 
-**Counterpart of Dungeon:** [Feriah Caverns](dungeons.md)
+**Counterpart of Dungeon:** [Feriah Caverns](dungeons.md/#feriah-farlands)

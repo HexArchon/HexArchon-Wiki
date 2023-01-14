@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Lotteries
+sidebar_label: 🎫 Lotteries
 title: Lotteries
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-sidebar_label: Furnaces
+sidebar_label: 🔥 Furnaces
 title: Furnaces
 ---
 
@@ -11,7 +11,7 @@ How to obtain upgraded furnaces.
 
 ![Furnaces](./img/furnaces.png)
 
-Upgraded Furnaces can be obtained by enchanting them from an enchanting table. Various enchantments provide various upgrades.
+Upgraded Furnaces can be obtained by enchanting a furnace from an enchanting table. Various enchantments provide various upgrades.
 
 ## Enchantments
 - Efficiency: Increases the smelting speed, and uses more fuel.

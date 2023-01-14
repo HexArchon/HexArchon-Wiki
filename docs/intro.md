@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 slug: /
+sidebar_label: 📘 HexArchon Wiki
+title: HexArchon Wiki
 ---
 
 # HexArchon Wiki

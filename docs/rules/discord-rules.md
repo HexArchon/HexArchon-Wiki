@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Discord Rules
+sidebar_label: 💬 Discord Rules
 title: Discord Rules
 ---
 

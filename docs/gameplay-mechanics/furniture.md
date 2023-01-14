@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-sidebar_label: Furniture
+sidebar_label: 🪑 Furniture
 title: Furniture
 ---
 

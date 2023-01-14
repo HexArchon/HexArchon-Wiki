@@ -1,21 +1,32 @@
 ---
 sidebar_position: 9
-sidebar_label: Player Shops
+sidebar_label: 🛍️ Player Shops
 title: Player Shops
 ---
 
 # Player Shops
 How to create player shops.
 
-You can choose to either create a player shop anywhere in the main overworld, or at `/warp playershops`. This can be a good alternative to auctions as there are no item list limits, and may catch other players' attention more effectively with your shop builds. <br />
+Player Shops let you sell and buy items with other players. They can be a good alternative to auctions as there are no item list limits, and can catch other players' attention more effectively with your shop builds. <br />
 
 ## Purchasing an Item
 ![Player Shop](./img/playershop/playershop.png)
 ![Type in Chat](./img/playershop/playershop-type.png)
 To purchase an item from a shop plot, it's simple! Just left-click a shop sign, and type the amount you want to buy in the chat. You can also preview enchantments and attributes of the item being sold as well.
 
-## Getting Whitelisted
-To build and create your own shop, you need to be whitelisted in the player shops world. To get whitelisted, you must meet the following requirements:
+## Creating a Shop
+You can choose to either create a player shop anywhere in the main overworld, or at `/warp playershops` if you are whitelisted. If you decide to create a player shop somewhere other than `/warp playershops`, make sure to create a player warp (`/pwarp`) so let other players know that your shop exists.
+
+To create a shop chest, follow the steps below.
+
+1. Place down a chest.
+2. Face the chest.
+3. Hold the item you want to sell in your hand.
+4. Type `/pshop create <price>` (Will reference the item in your hand), or `/pshop create <price> <item> <amount>`.
+5. Your shop is now created!
+
+## Getting Whitelisted (Player Shops World)
+If you would like to build and create your own shop at `/warp playershops`, you need to be whitelisted. To get whitelisted, you must meet the following requirements:
 - Minimum of one week since the first join date on the server.
 - Minimum playtime of 20 hours.
 - No history of any rule violations.
@@ -32,26 +43,21 @@ Using excessive amounts of space (>40x40x40) in the player shops world is prohib
 Shop chests will be protected from any players. However, any non-shop chests in the player shops world are **not protected.**
 :::
 
-## Creating a Shop
-Once you are whitelisted, you can follow the steps below to create a shop.
+:::warning
+If you are making a claim on your player shop, make sure to enable the "Interactions" permission in your Global Claim Settings (`/claimsettings`). Otherwise, no one will be able to use your shop!
+:::
 
-1. Place down a chest.
-2. Face the chest.
-3. Hold the item you want to sell in your hand.
-4. Type `/pshop create <price>`, or `/pshop create <price> <item> <amount>`.
-5. Your shop is now created!
+## Managing a Shop
+![Player Control](./img/playershop/playershop-control.png)
+
+To manage an already made shop, right-click on the shop sign. From there, you can change the shop mode (selling items/buying items), change the price, and more!
 
 ## Removing a Shop
 To remove a shop, face a player shop sign and type `/pshop remove`.
 
 ## Other Commands 
-`/pshop buy` - Change the shop you are facing to buy items.
-`/pshop sell` - Change the shop you are facing to sell items.
-`/pshop transfer <name>` - Transfer the shop you are facing to another player.
-`/pshop item` - Change the item of the shop.
-`/pshop find <item name>` - Find a nearby shop that matches the item name specified.
-
-## Manage Shop
-![Player Control](./img/playershop/playershop-control.png)
-
-To manage an already made shop, right-click on the shop sign. From there, you can change the shop mode (selling/buying), change the price, and more!
+`/pshop buy` - Change the shop you are facing to buy items. <br />
+`/pshop sell` - Change the shop you are facing to sell items. <br />
+`/pshop transfer <name>` - Transfer the shop you are facing to another player. <br />
+`/pshop item` - Change the item of the shop. <br />
+`/pshop find <item name>` - Find a nearby shop that matches the item name specified. <br />

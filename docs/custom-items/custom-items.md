@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Custom Items
+sidebar_label: 🪄 Custom Items
 title: Custom Items
 ---
 
@@ -22,7 +22,7 @@ The Sorcerer can craft potions, staffs, wands, catalysts, tomes, runes, and item
 There are a variety of Custom Item types, which each corresponding to different attributes. For instance, Daggers have a fast attack speed but low attack damage, and Greatswords have a slow attack speed and are two-handed but have a high attack damage.
 
 :::warning
-Magic Items cannot be enchanted!
+Magic Items (from the Sorcerer) cannot be enchanted!
 :::
 
 ## Attributes
@@ -87,7 +87,11 @@ All Custom Items have their own **special skills**. This can be seen when you ho
 
 Upgrading an item from the Blacksmith will increase stats on a Custom Item. Items can be upgraded up to 5 times (stars) at the Blacksmith, using item essence and a portion of the item's crafting materials.
 
-## Upgrade Scalings
+:::info
+If an item has a rune applied to it, upgrading will also increase stats of the rune(s).
+:::
+
+### Upgrade Scalings
 
 Depending on the type and rarity of the item you are trying to upgrade, the results may be different. For instance, daggers get a 4% attack damage and 2.5% attack speed increase per level, while swords get a 6% attack damage and no attack speed increase per level. All scalings of upgrades can be read over at the [Upgrade Scalings](upgrade-scalings.md) page.
 
@@ -107,7 +111,7 @@ Items are repaired using Repair Stones and Artifacts based on their rarity. Repa
 
 ![Rune Crafting](./img/rune-crafting.png)
 
-Runes are used to upgrade stats to Custom Items. Depending on the type of the Rune, it may increase the amount of damage, critical strike chances, and more. Runes are crafted in the Sorcerer.
+Runes are used to upgrade stats to Custom Items. Depending on the type of the Rune, it may increase the amount of damage, critical strike chances, and more. Runes are crafted from the Sorcerer.
 
 ## Armor Tiers
 Here are all the full armor sets ordered by the amount of defense from least to greatest. <br />

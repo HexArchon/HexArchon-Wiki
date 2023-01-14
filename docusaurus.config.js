@@ -69,7 +69,7 @@ const config = {
         title: 'HexArchon',
         logo: {
           alt: 'HexArchon Logo',
-          src: 'img/hexarchon.svg',
+          src: 'img/docusaurus.png',
         },
         items: [
           // {
@@ -108,6 +108,13 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'HexArchon Logo',
+          src: 'img/hexarchon-200.png',
+          href: 'https://hexarchon.net',
+          width: 280,
+          height: 165,
+        },
         links: [
           {
             title: 'Docs',
@@ -116,6 +123,10 @@ const config = {
                 label: 'Getting Started',
                 to: '/getting-started',
               },
+              {
+                label: 'Custom Items',
+                to: '/custom-items',
+              }
             ],
           },
           {
@@ -153,7 +164,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HexArchon. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} HexArchon. All rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,

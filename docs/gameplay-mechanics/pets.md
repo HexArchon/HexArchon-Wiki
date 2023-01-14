@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-sidebar_label: Pets
+sidebar_label: 🐕 Pets
 title: Pets
 ---
 

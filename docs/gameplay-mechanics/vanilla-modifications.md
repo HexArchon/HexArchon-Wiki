@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-sidebar_label: Vanilla Modifications
+sidebar_label: ⚙️ Vanilla Modifications
 title: Vanilla Modifications
 ---
 
@@ -42,7 +42,7 @@ The list of small modifications to vanilla Minecraft.
 ### Other Mechanics
 * End Portals exhibit safer teleporting.
 * Beds only require 30% of all active players to sleep to skip the night.
-* Flying Machines are disabled, as such a powerful automation cannot be balanced with the economy.
+* Flying Machines are disabled, as such a powerful automation tool cannot be balanced.
 
 ### Villagers
 * Villagers may act slower to preserve ticks (technical: 4 brain-ticks).
@@ -60,42 +60,58 @@ The list of small modifications to vanilla Minecraft.
 * Enchantments that do not follow these pricing rules include: Proximity, Dullness, End Infusion, First Strike, Vitalize, Valor, Obsidian Shield, and Prosperity.
 
 ### Mob Limits
-Unfortunately, mob limits are necessary for balancing and to prevent abuse or lag.
+Mob limits are necessary to balance gameplay and to prevent abuse and lag.
 
 Below descriptions represent the actions that will be taken when one "group" of entities surpasses the specified counts. A group of entities are determined by their distance away from the same category.
 
-For instance, all chickens within 24 blocks of each other will be counted as one group, and if that group surpasses 25 chickens, the collisions and movements will be disabled.
+For instance, all chickens within 24 blocks of each other will be counted as one group, and if that group surpasses 50 chickens, the collisions and movements will be disabled.
 
 **Animals** <br />
-* Count: 50, Distance: 24 -> Collisions & Movements Disabled. <br />
-* Count: 70, Distance: 24 -> Collisions & Movements & Awareness Disabled. <br />
-* Count: 100, Distance: 24 -> Removed. <br />
+* Count: 51, Distance: 24 -> Collisions & Movements Disabled. <br />
+* Count: 71, Distance: 24 -> Collisions & Movements & Awareness Disabled. <br />
+* Count: 101, Distance: 24 -> Removed. <br />
 
 **Monsters:** <br />
-* Count: 36, Distance: 7 -> Removed. <br />
+* Count: 37, Distance: 7 -> Removed. <br />
 
 **Iron Golems:** <br />
-* Count: 1, Distance: 96 -> Removed. <br />
+* Count: 2, Distance: 96 -> Removed. <br />
 
 **Enderman:** <br />
-* Count: 5, Distance: 32 -> Removed. <br />
+* Count: 6, Distance: 32 -> Removed. <br />
 
 **Villagers** <br />
-* Count: 14, Distance: 120 -> Collisions & Movements Disabled. <br />
-* Count: 19, Distance: 120 -> Collisions & Movements & Awareness Disabled. <br />
-* Count: 25, Distance: 120 -> Removed. <br />
+* Count: 15, Distance: 120 -> Collisions & Movements Disabled. <br />
+* Count: 20, Distance: 120 -> Collisions & Movements & Awareness Disabled. <br />
+* Count: 26, Distance: 120 -> Removed. <br />
 
 :::info
 Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on. This is vanilla behavior.
 :::
 
 ### Block Limits Per Chunk
-Unfortunately, block limits are necessary for balancing automations and to prevent abuse or lag. Below are the block limits per chunk. <br />
+Block limits are necessary for balancing automations and to prevent abuse and lag. Below are the block limits per chunk. <br />
 
 * Hoppers: 8/chunk
 * All redstone items: 32/chunk
-* Tiles: 128/chunk
-* Tiles (Player shops): 192/chunk
+* [Tiles (Block Entities)](https://minecraft.fandom.com/wiki/Block_entity): 192/chunk
 
 ### Spawners and Crops Modifications
-Spawners will spawn mobs slower and crops will grow slower the longer you AFK. 
+Efficiency rates of crops growing and spawners spawning will go down the longer you AFK (ONLY if you are AFK near growing crops/spawners). This was done to keep the sandbox nature of Minecraft and to balance gameplay.
+
+The Efficiency rating __cannot__ go below 10%. Additionally, there is a cap to the efficiency score, so even if you AFK for multiple days at a time, you can recover your efficiency score back to 100% by playing just for 2-3 hours.
+
+You can check what your current efficiency score of crops and spawners are by using the command `/score`.
+
+:::warning
+If there are multiple players near a spawner/crop, the lowest efficiency score from nearby players will be taken.
+:::
+
+#### Why this system was implemented
+This system was implemented to encourage building large farms while also balancing the output of large farms.
+
+Before this system was implemented, there was no penalty for being AFK. It was ridiculously easy to exploit the shop by simply being AFK next to a bunch of animal and crop farms. You could earn millions easily by just having your game open in the background, not actually playing - the "meta" was to just AFK next to farms. That's not very fun.
+
+Therefore, we had to introduce extremely low mob caps (so that mobs were deleted just after there were a few in close range), along with abysmal sell prices and low allowed blocks per chunk build limits. Now that's not fun either. People who play would be largely inconvenienced as you couldn't have farms that had more than a few animals, and sell prices were so low that you had to build mega farms just to earn back a tiny fraction of your investment cost of time and money. You couldn't even place more than a few crops and hoppers per chunk. Now that's not fun for builders either, as that limits freedom and the sandbox aspect of Minecraft.
+
+With this, we had to find a middle ground - something that would be fair and balanced to both active players and also those who like to build farms and AFK. That's why this system was implemented. You can now build big arms without any restrictions, and the output is now more balanced as growth rates will gradually slow down as you AFK (ONLY if you are near active farms). There is an exponential curve to the slowdown so you wouldn't even notice this system if you AFK for small amounts at a time, as that would just be annoying. This system really only takes into place once you AFK for a while, which makes sense as that would mean you're idling instead of simply being away from your computer for a short amount of time. Additionally, there is a cap to the amount of AFK score you can obtain, so that even if you AFK for multiple days at a time, you could recover it all by playing just for 2-3 hours. You're still able to build big farms and grasp benefits from it; you're not strictly limited in building in any way; it's just that it wouldn't guide you to the point where you would be so overpowered compared to players who would actually play in the same amount of time.

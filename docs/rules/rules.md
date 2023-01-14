@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Rules
+sidebar_label: 📜 Rules
 title: Rules
 ---
 

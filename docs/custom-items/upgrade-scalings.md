@@ -1,22 +1,36 @@
 ---
 sidebar_position: 2
-sidebar_label: Upgrade Scalings
+sidebar_label: ⬆️ Upgrade Scalings
 title: Upgrade Scalings
 ---
-This page lists all the upgrade scalings for all the different types of items. Select the item type you wish to view from the right.
 
-### Armor
-#### Armors with Armor Attribute
-Durability: 3% per level <br />
-#### Common - Uncommon:
-Durability: 6% per level <br />
-Defense: 1.5% per level <br />
-#### Rare - Epic:
-Durability: 10% per level <br />
-Defense: 3% per level <br />
-#### Legendary - Mythical:
-Durability: 14% per level <br />
-Defense: 4.5% per level <br />
+# Upgrade Scalings
+This page lists all the upgrade scalings for all the different types of items.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="armor" label="Armor" default>
+    <b>Armors with Armor Attribute</b> <br />
+    - Durability: 3% per level <br />
+    <b>Common - Uncommon:</b> <br />
+    - Durability: 6% per level <br />
+    - Defense: 1.5% per level <br />
+    <b>Rare - Epic:</b> <br />
+    - Durability: 10% per level <br />
+    - Defense: 3% per level <br />
+    <b>Legendary - Mythical:</b> <br />
+    - Durability: 14% per level <br />
+    - Defense: 4.5% per level <br />
+  </TabItem>
+  <TabItem value="daggers" label="Daggers">
+    Test
+  </TabItem>
+  <TabItem value="swords_catanas" label="Swords & Katanas">
+    Test
+  </TabItem>
+</Tabs>
 
 ### Daggers
 #### Common - Uncommon:

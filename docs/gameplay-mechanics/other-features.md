@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-sidebar_label: Other Features
+sidebar_label: 🎣 Other Features
 title: Other Features
 ---
 
@@ -11,12 +11,12 @@ Other features which don't belong to other categories.
 Fishing can be very interesting on HexArchon! Just try it and see... :)
 
 ## Chat Features
-Type these into the chat for various functions!
-`[item]` - Showcases an item you are holding.
-`[inv]` - Showcases your entire inventory.
-`[ender]` - Showcases your ender chest.
-`[balance]` `[money]` - Showcases your balance.
-`[teleport]` `[tp]` - Allows others to teleport to you.
+Type these into the chat for various functions! <br />
+`[item]` - Showcases an item you are holding. <br />
+`[inv]` - Showcases your entire inventory. <br />
+`[ender]` - Showcases your ender chest. <br />
+`[balance]` `[money]` - Showcases your balance. <br />
+`[teleport]` `[tp]` - Allows others to teleport to you. <br />
 
 ## Invisible Item Frames
 You can toggle an item frame's invisibility by facing it and using the command `/itf toggle`. To scan for nearby item frames, use `/itf scan <block radius>`.
