@@ -8,7 +8,7 @@ title: Boss Fights
 
 ![Bosses](./img/bosses/bosses.png)
 
-Bosses are challenges that you can take. As you unlock new bosses, they will get progressively harder, with each having their unique abilities and skills. The rewards include money, points, and XP. The ff Up to 4 players can join a single boss arena, in which the amount of rewards will be dependent on the first/repeat completion divided by the amount of players.
+Bosses are challenges that you can take. As you unlock new bosses, they will get progressively harder, with each having their unique abilities and skills. The rewards include money, points, and XP. Up to 4 players can join a single boss arena, in which the amount of rewards will be dependent on the first/repeat completion divided by the amount of players. The health of bosses will increase by half of the boss' base HP per additional player.
 
 ## Starting a Boss Fight
 To start a boss fight, open the boss menu using `/boss`. Select a boss to fight. Click "Start Arena" to start the boss fight solo, or co-op with up to 4 players _(must have a party setup before starting)._

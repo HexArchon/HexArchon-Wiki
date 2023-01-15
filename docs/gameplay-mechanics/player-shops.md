@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 sidebar_label: 🛍️ Player Shops
 title: Player Shops
 ---
@@ -28,7 +28,7 @@ To create a shop chest, follow the steps below.
 ## Getting Whitelisted (Player Shops World)
 If you would like to build and create your own shop at `/warp playershops`, you need to be whitelisted. To get whitelisted, you must meet the following requirements:
 - Minimum of one week since the first join date on the server.
-- Minimum playtime of 20 hours.
+- Minimum playtime of 20 hours (can be seen in `/settings` -> click your head at the top)
 - No history of any rule violations.
 
 If you meet these requirements and would like to apply for the whitelist, you can do so by opening a ticket on our [Discord.](https://discord.hexarchon.net/)

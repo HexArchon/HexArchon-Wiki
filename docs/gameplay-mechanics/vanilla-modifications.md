@@ -1,12 +1,12 @@
 ---
-sidebar_position: 12
+sidebar_position: 13
 sidebar_label: ⚙️ Vanilla Modifications
 title: Vanilla Modifications
 ---
 
 # Vanilla Modifications
 
-The list of small modifications to vanilla Minecraft.
+The list of smaller modifications to vanilla Minecraft.
 
 ### Keep Inventory
 * Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
@@ -21,10 +21,10 @@ The list of small modifications to vanilla Minecraft.
 * Elytras take 3x higher durability loss.
 * Diamond Items require more Netherite Ingots to upgrade. The amount depends on their crafting recipe. For example, Chestplates require 8 ingots, pickaxes require 3 ingots, etc.
 * Tridents thrown from the offhand will return to the offhand.
-* Redstone components are not craftable, and can only be obtained from the shop. 
+* Redstone components are not craftable and can only be obtained from the shop, as they are extremely powerful tools of automation.
 * Tridents with Loyalty cannot be thrown through portals to avoid losing them.
-* Tridents with Loyalty will still return to the player after getting thrown into the void.
-**Note: You will need to get close to where the trident was thrown for this to work (< 32 Blocks)**
+* Tridents with Loyalty will still return to the player after getting thrown into the void. **Note: You will need to get close to where the trident was thrown for this to work (< 32 Blocks)**
+* Pickaxes deal much more damage to Stone and Blackstone Golems.
 
 ### Blocks
 * Spawners will drop using a silk touch pickaxe.
@@ -46,10 +46,11 @@ The list of small modifications to vanilla Minecraft.
 
 ### Villagers
 * Villagers may act slower to preserve ticks (technical: 4 brain-ticks).
-* Villager curing mechanism has been disabled.
+* Villager curing mechanism has been disabled due to balancing and technical limitations.
+* Villager trades have been nerfed (you need more items to trade for emeralds) as villagers can be used to obtain powerful custom items at huge discounts.
 
 #### Custom Enchantments from Villagers
-* Custom Enchantments may be obtained from villagers. Below are the ranges of trade pricing and the required profession level for each rarity of Custom Enchantments. <br />
+Custom Enchantments may be obtained from villagers. Below are the ranges of trade pricing and the required profession level for each rarity of Custom Enchantments. <br />
 * **Common:** 5-12 Emeralds, profession level 1-5 <br />
 * **Uncommon:** 12-20 Emeralds, profession level 2-5 <br />
 * **Rare:** 20-32 Emeralds, profession level 3-5 <br />
