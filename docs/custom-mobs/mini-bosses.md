@@ -9,7 +9,6 @@ Mini Bosses and where to find them.
 
 Mini Bosses can be found in all parts of the world and are much harder to kill than normal mobs. Mini bosses drop much more money, XP, and Points than normal mobs.
 
-## List of Mini Bosses
 ## Overworld
 ### Esgand
 
@@ -24,7 +23,7 @@ Mini Bosses can be found in all parts of the world and are much harder to kill t
 ![Orc War Mage](./img/orcwarmage.png)
 
 **Spawn Locations:** Temperate Biomes <br />
-**Difficulty:** Medium <br />
+**Difficulty:** Easy <br />
 **Drops:** $400 - $500 & 100 XP, 50 Points, 3-6 Essence Powder, 1-2 Orc Tooth, War Mage Staff (Rare) <br />
 
 ### Necromancer
@@ -32,7 +31,7 @@ Mini Bosses can be found in all parts of the world and are much harder to kill t
 ![Necromancer](./img/necromancer.png)
 
 **Spawn Locations:** Ocean Biomes <br />
-**Difficulty:** Hard <br />
+**Difficulty:** Medium <br />
 **Drops:** $800 - 900 & 200 XP, 75 Points, 5-7 Essence Powder <br />
 
 ### Leviathan
@@ -40,7 +39,7 @@ Mini Bosses can be found in all parts of the world and are much harder to kill t
 ![Leviathan](./img/leviathan.png)
 
 **Spawn Locations:** Ocean Biomes <br />
-**Difficulty:** Insane <br />
+**Difficulty:** Medium <br />
 **Drops:** $1,200 - $1,500 & 300 XP, 100 Points, 8-9 Essence Powder, 1 Leviathan Tail <br />
 
 ## Nether
@@ -49,8 +48,16 @@ Mini Bosses can be found in all parts of the world and are much harder to kill t
 ![Skeleton Shaman](./img/skeletonshaman.png)
 
 **Spawn Locations:** Soul Sand Valley <br />
-**Difficulty:** Insane <br />
+**Difficulty:** Hard <br />
 **Drops:** $1,300 - $1,600 & 300 XP, 100 Points, 1 Skeleton Shaman Soul, 8-9 Essence Powder <br />
+
+### Wildfire
+
+![Wildfire](./img/wildfire.png)
+
+**Spawn Location:** Nether Fortresses <br />
+**Difficulty:** Hard <br />
+**Drops:** $1,200 - $1,500 & 300 XP, 100 Points, 4-8 Blaze Rods
 
 ## End
 ### Arcane Shadowmage
