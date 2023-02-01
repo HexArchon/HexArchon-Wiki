@@ -19,6 +19,9 @@ Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section 
 ### Is Fire Tick on?
 Fire Tick is disabled, as they it be abused for griefing.
 
+### Do claims include blocks above and below?
+Yes, claims will protect your region all the way from bedrock to world height limit.
+
 ### What is the vanilla difficulty of the server?
 The vanilla difficulty of the server is normal.
 
