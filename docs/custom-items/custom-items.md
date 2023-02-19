@@ -91,7 +91,7 @@ All Custom Items have their own **special skills**. This can be seen when you ho
 Upgrading an item from the Blacksmith will increase stats on a Custom Item. Items can be upgraded up to 5 times (stars) at the Blacksmith, using item essence and a portion of the item's crafting materials.
 
 :::info
-If an item has a rune applied to it, upgrading will also increase stats of the rune(s).
+If an item has a rune applied to it, upgrading will also increase stats of the rune(s) given that the upgrade scales the same stats of the runes. For example: If you have a Keen Rune applied on a dagger and you upgrade it, the rune will also be upgraded. However, if you have a Health Rune applied on an armor, it will not be upgraded since armor upgrades do not increase health stats. Read below to see each weapon types and its upgrades.
 :::
 
 ### Upgrade Scalings

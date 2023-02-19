@@ -117,6 +117,23 @@ import TabItem from '@theme/TabItem';
     - Attack Damage: 12% per level <br />
     - Attack Speed: 3% per level <br />
   </TabItem>
+  <TabItem value="greatstaff" label="Greatstaffs">
+    <b>Common - Uncommon:</b> <br />
+    - Durability: 8% per level <br />
+    - Attack Damage: 8% per level <br />
+    - AOE Damage: +2% per level <br />
+    - AOE Radius: 3% per level <br />
+    <b>Rare - Epic:</b> <br />
+    - Durability: 8% per level <br />
+    - Attack Damage: 12% per level <br />
+    - AOE Damage: +4% per level <br />
+    - AOE Radius: 4% per level <br />
+    <b>Legendary - Mythical:</b> <br />
+    - Durability: 8% per level <br />
+    - Attack Damage: 18% per level <br />
+    - AOE Damage: +6% per level <br />
+    - AOE Radius: 5% per level <br />
+  </TabItem>
   <TabItem value="hammer" label="Hammers">
     <b>Common - Uncommon:</b> <br />
     - Durability: 6% per level <br />
@@ -154,23 +171,6 @@ import TabItem from '@theme/TabItem';
     - Attack Damage: 16% per level <br />
     - Critical Strike Chance: +4% per level <br />
     - Critical Strike Power: +6% per level <br />
-  </TabItem>
-  <TabItem value="greatstaff" label="Greatstaffs">
-    <b>Common - Uncommon:</b> <br />
-    - Durability: 8% per level <br />
-    - Attack Damage: 8% per level <br />
-    - AOE Damage: +2% per level <br />
-    - AOE Radius: 3% per level <br />
-    <b>Rare - Epic:</b> <br />
-    - Durability: 8% per level <br />
-    - Attack Damage: 12% per level <br />
-    - AOE Damage: +4% per level <br />
-    - AOE Radius: 4% per level <br />
-    <b>Legendary - Mythical:</b> <br />
-    - Durability: 8% per level <br />
-    - Attack Damage: 18% per level <br />
-    - AOE Damage: +6% per level <br />
-    - AOE Radius: 5% per level <br />
   </TabItem>
   <TabItem value="greatbow" label="Greatbows">
     <b>Common - Uncommon:</b> <br />
