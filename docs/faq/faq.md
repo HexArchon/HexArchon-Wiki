@@ -19,6 +19,9 @@ Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section 
 ### Is Fire Tick on?
 Fire Tick is disabled, as they it be abused for griefing.
 
+### How do you pick up spawners?
+You can pick up spawners using a pickaxe with Silk Touch. You don't need any ranks or other enchantments.
+
 ### Do claims include blocks above and below?
 Yes, claims will protect your region all the way from bedrock to world height limit.
 

@@ -16,8 +16,9 @@ You can imagine two people speaking completely different languages, attempting t
 * All custom textures don't show due to Bedrock limitations. This includes every item textures, armor textures, GUI textures, symbol textures, head textures, pet textures, mana bar... etc.
 * Custom HUD elements don't show (Bedrock deals with rendering completely differently from Java).
 * There is no tab completion for commands (this functionality does not exist on Bedrock Edition).
-* Certain particles don't show. This may introduce difficulties with mobs.
+* Certain particles don't show. This may introduce difficulties with mob skills.
 * Certain sounds are broken (sound does not play or is wrong).
+* There are issues with visual indicators while mining in the Miner's Mountain. You may have to continue to break ores after it appears as broken.
 * Auctions cannot be opened (you can still sell though).
 * Repeatable quests category cannot be opened.
 * Hardcore quests category cannot be opened.

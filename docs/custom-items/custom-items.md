@@ -140,8 +140,8 @@ Here are all the full armor sets ordered by the amount of defense from least to 
 |Evergreen|N/A
 |Geo|11
 |Scorched|22
-|Gemstone|66
 |Glacial|45
+|Gemstone|66
 |Warden|77
 |Infernal|91
 |Reaper|103

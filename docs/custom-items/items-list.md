@@ -20,6 +20,7 @@ Archaic Monolith|Obtained from defeating the Runic King Boss in the Runic Temple
 Bandit Sigil|Dropped by killing Bandits in the Desert in the Overworld.
 Block of Steel|Crafted from the Blacksmith at `/warp crafting`.
 Bottle of Wind|Obtained by capturing wind in a snowy biome in windy weather (white particles, wind sounds). To capture wind, right-click while holding an Empty Wind Bottle crafted from the sorcerer.
+Blue Jewel|Dropped from Blue Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Chalkstone|Dropped by killing Blackstone Golems in the Basalt Deltas in the Nether.
 Cheese|Crafted from the Food Vendor at `/warp food`.
 Condensed Flesh|Crafted from the Sorcerer at `/warp crafting`, or dropped by Rotting Zombies.
@@ -30,9 +31,12 @@ Hardened Diamond|Crafted from the Blacksmith at `/warp crafting`.
 Hoglin Meat|Dropped by killing Raged Hoglins in the Nether.
 Infernal Soul|Dropped by killing Fire Mages and Infernal Husks in the Nether Wastes.
 Leviathan Tail|Drops from the Leviathan mini-boss in Oceans in the Overworld.
+Limestone|Dropped from Limestone Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Mana Dust|Crafted from the Sorcerer at `/warp crafting`.
 Mystical Branch|Dropped by killing Tree Spirits in Jungle/Forest biomes in the Overworld.
 Orc Tooth|Dropped by killing Orcs in the Overworld.
+Purple Jewel|Dropped from Purple Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
+Red Jewel|Dropped from Red Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Runic Fragment|Obtained from Chests or Loot Enderman in the Runic Temple dungeon.
 Salt Crystal|Dropped by killing Salt Golems in Salt Flats in the Overworld.
 Sharpening Flint|Crafted from the Blacksmith at `/warp crafting`.
@@ -40,7 +44,7 @@ Soul Bone|Crafted from the Blacksmith at `/warp crafting`, or dropped by killing
 Spider Silk|Dropped by killing Poison, Wither, Frost, and Fire spiders in the Overworld.
 Steel Ingot|Crafted from the Blacksmith at `/warp crafting`.
 Tomato|Dropped by destroying Oak and Dark Oak leaves.
-Toughstone|Dropped by killing Stone Golems in caves in the Overworld, or by mining ores.
+Toughstone|Dropped by mining ores, killing Stone Golems in caves in the Overworld, or crafted from Toughstone Chips dropped from Rich/Pure/Toughstone Ores in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Warden's Tribute|Dropped by killing the [Warden Anomaly](../custom-mobs/world-bosses.md) world-boss.
 
 ### Mid Game Materials

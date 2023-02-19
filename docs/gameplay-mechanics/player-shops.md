@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 sidebar_label: 🛍️ Player Shops
 title: Player Shops
 ---
