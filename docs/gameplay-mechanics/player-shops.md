@@ -36,15 +36,19 @@ If you meet these requirements and would like to apply for the whitelist, you ca
 After being whitelisted, you will be free to do any modifications in the player shops world. However, note that the standard no-theft/griefing rules still apply. Failure to obey the rules will result in permanent suspension from trust and further consequences.
 
 :::caution
-Using excessive amounts of space (>40x40x40) in the player shops world is prohibited, unless the community deems it acceptable.
+Using excessive amounts of space (>40x40x40) in the player shops region is prohibited, unless the community deems it acceptable.
 :::
 
 :::warning
-Shop chests will be protected from any players. However, any non-shop chests in the player shops world are **not protected.**
+Shop chests will be protected from any players. However, any non-shop chests in the player shops region (600x600) are **not protected.**
 :::
 
 :::warning
 If you are making a claim on your player shop, make sure to enable the "Interactions" permission in your Global Claim Settings (`/claimsettings`). Otherwise, no one will be able to use your shop!
+:::
+
+:::warning
+If you are inactive for over 30 days and the community wants your shop to be removed, **your shop may be removed.**
 :::
 
 ## Managing a Shop
