@@ -48,7 +48,7 @@ If you are making a claim on your player shop, make sure to enable the "Interact
 :::
 
 :::warning
-If you are inactive for over 30 days and the community wants your shop to be removed, **your shop may be removed.**
+If you are inactive for over 30 days (Index score of less than 1.5 in /help -> about) and the community wants your shop to be removed, **your shop may be removed.**
 :::
 
 ## Managing a Shop
