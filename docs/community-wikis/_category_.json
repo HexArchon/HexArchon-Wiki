@@ -1,0 +1,8 @@
+{
+    "label": "📒 Community Wikis",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "The list of Wikis written by community members."
+    }
+  }

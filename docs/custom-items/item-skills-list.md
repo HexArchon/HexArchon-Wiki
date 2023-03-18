@@ -48,6 +48,8 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Magma Fissure|Casts a targeted magma fissure dealing *magic* damage.|Range
 |Magic Bolt|Casts a projectile that deals *magic* damage on hit.|Range
 |Mighty Jump|Jump in the air and smash the ground dealing AOE *magic* damage.|AOE Damage
+|Minor Explosion|Creates an explosion at the location dealing *magic* damage.|AOE Damage, Crowd Control
+|Nether Strike|Strike a line slightly knocking up, igniting, and dealing *magic* damage to entities it passes through.|Range
 |Overgrow|Casts a projectile volley of vines dealing *magic* damage on hit.|Horde Clearing, Range
 |Permafrost|Slows and deals *magic* damage to hit entity.|Damage Multiplier
 |Radar|Causes nearby entities to glow for a duration.|Vision
@@ -67,6 +69,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Sweeping Storm|Casts a tornado towards target direction, pulling nearby entities and dealing *magic* damage.|Crowd Control, Horde Clearing
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
 |Thrust|Thrust your weapon forward, dealing *physical* damage.|Range
+|Tidal Wave|Send a tidal wave dealing *magic* damage to entities it passes through.|AOE Damage
 |Tomahawk Throw|Throw your axe dealing *physical* damage on hit.|Range
 |Transcendence|Begin to spin, slashing and throwing enemies in a radius dealing *physical* and *magic* damage. Additionally, grants an aura of 3 obitals that deals 10% bonus *magic* damage on hit and through basic attacks.|AOE Damage, Damage Multiplier, Ramping Damage
 |Vampirism|Drains and steals health.|Sustain
