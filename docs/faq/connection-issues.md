@@ -18,6 +18,8 @@ If you have a high, but __STEADY__ ping ranging from __100-300__, it most likely
 4. Enable Cloudflare Warp.
 5. Join the server.
 
+There is a chance that you'll be seeing a little "higher" average ping. This is normal. Consistent higher ping leads to a much more playable experience compared to inconsistent lower ping.
+
 Read below on why Cloudflare Warp could resolve your issue.
 
 ### Why am I getting connection issues?
