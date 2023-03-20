@@ -26,6 +26,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Dancing Fire|Casts a flurry of fire dealing *magic* damage to random entities in front of you.|Range
 |Deadly Poison|Deal *magic* damage to target entity over a few seconds.|Damage Multiplier
 |Deafening Impact|Dash toward a crosshair entity, jumping then smashing the ground dealing AOE *magic* damage.|AOE Damage, Mobility
+|Descending Storm|Casts a descending projectile, once it lands, calls a lightning strike dealing AOE *magic* damage. The radius increases with bonus Magic Damage.|AOE Damage
 |Divine Strike|Powerfully jump in the air, then dash toward a target on crosshair dealing AOE *magic damage* on impact. Additionally, your next attack sends a damaging wave of ice *(Not affected by magic/skill damage)*.|AOE Damage, Mobility
 |Double Strike|Deals extra *physical* damage after a delay.|Damage Multiplier
 |Enchanted Parry|Upon taking damage within 0.5 seconds of activating, deal *physical* damage to the damager and heal for 4 HP.|Sustain
@@ -62,9 +63,11 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Solidified Diversion|Slows surrounding entities in radius.|Crowd Control
 |Sonic Blaster|Shoots a projectile piercing through entities dealing *magic* damage.|Horde Clearing, Range
 |Sonic Boom|Casts a warden's sonic boom piercing through entities dealing *magic* and giving you speed on impact.|Mobility, Range
+|Soul Devourer|Grants an aura causing attacks to heal for a percentage of your max HP.|Sustain
 |Spikes|Deals *physical* damage to entities within a short radius when hit.|AOE Damage
 |Spirit Shot|Lunge backwards, then shoot 2 projectile volleys dealing *magic* damage, then a shoot a ghost that explodes on impact dealing AOE *magic* damage.|AOE Damage, Range
 |Starfall|Casts a falling star on hit target dealing *magic* damage.|Damage Multiplier
+|Summon Wolf|Summons an Ally Firewolf that fights alongside in battle and can cast AOE fire slashes.|AOE Damage
 |Sweeping Slashes|Casts a projectile of slashes dealing *physical* damage.|Horde Clearing, Range
 |Sweeping Storm|Casts a tornado towards target direction, pulling nearby entities and dealing *magic* damage.|Crowd Control, Horde Clearing
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
