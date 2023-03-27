@@ -98,6 +98,8 @@ If an item has a rune applied to it, upgrading will also increase stats of the r
 
 Depending on the type and rarity of the item you are trying to upgrade, the results may be different. For instance, daggers get a 4% attack damage and 2.5% attack speed increase per level, while swords get a 6% attack damage and no attack speed increase per level. All scalings of upgrades can be read over at the [Upgrade Scalings](upgrade-scalings.md) page.
 
+Upgrade scaling is compounding, increasing based on its current value. For example: Lets have an item with 10 base Attack Damage with a scaling of 15% per level. The next level would be ```10 * 1.15 = 11.5```, then the next level would be ```11.5 * 1.15 ≈ 13.2``` and so on.
+
 ## Item Essence
 
 ![Essence Crafting](./img/essence-crafting.png)
