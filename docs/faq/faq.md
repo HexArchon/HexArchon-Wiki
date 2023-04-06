@@ -10,8 +10,9 @@ Frequently asked Questions and the answers.
 ### Is Keep Inventory on?
 Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
 
-### How do I obtain this item?
-Visit the [Items List](../custom-items/items-list.md) section of the wiki.
+### How do I obtain X item? What is X item used for?
+Use the `/lookup` command to view how to obtain an item, and look up all recipes an item is used in.
+Alternatively, for an in-depth detail on how to obtain an item, visit the [Items List](../custom-items/items-list.md) section of the wiki.
 
 ### What is Item Essence used for?
 Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section of the wiki.
@@ -29,7 +30,7 @@ Yes, claims will protect your region all the way from bedrock to world height li
 The vanilla difficulty of the server is normal.
 
 ### How do I submit a Suggestion or a Bug Report?
-You can submit those on our [Discord](https://discord.hexarchon.net/). Please report bugs on the Discord! **Chat** is **NOT** the right place to report bugs! As much as we would love to read chat, we cannot always do so. <br />
+See the [Suggestions and Bugs](.//suggestions-and-bugs.md) page.
 
 ### Why is my water or lava not flowing?
 Claims may be interfering with the flow of your water or lava. By default, liquids cannot move across claim borders. To fix this, you can enlarge your claim, or allow liquid to flow across your borders in the `/claims` menu.
