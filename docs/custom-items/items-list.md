@@ -32,12 +32,6 @@ Emblem of Ignition|Dropped by defeating the Saok [arena boss](../gameplay-mechan
 Emblem of Flames|Dropped by defeating the Ornan [arena boss](../gameplay-mechanics/boss-fights.md).
 Emblem of The Underworld|Dropped by defeating the Hades [arena boss](../gameplay-mechanics/boss-fights.md).
 Emblem of Thunder|Dropped by defeating the Zeus [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of The Cycle|Dropped by defeating the Anubis [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of The Smith|Dropped by defeating the Hephaistos [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of Magic|Dropped by defeating the Odin [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of Darkness|Dropped by defeating the Aknyzor [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of Time|Dropped by defeating the Chronos [arena boss](../gameplay-mechanics/boss-fights.md).
-Emblem of The Sun|Dropped by defeating the Ra [arena boss](../gameplay-mechanics/boss-fights.md).
 Hardened Diamond|Crafted from the Blacksmith at `/warp crafting`.
 Hoglin Meat|Dropped by killing Raged Hoglins in the Nether in the Crimson Forest or Nether Wastes.
 Infernal Soul|Dropped by killing Fire Mages and Infernal Husks in the Nether Wastes.
@@ -79,6 +73,11 @@ Cosmic Twilight|Dropped by Cosmic Delucions in the outer End.
 Crimson Essence|Dropped by killing Crimson Golem in Crimson Forests in the Nether.
 Cryo Fragment|Dropped by defeating the Ruined Frost King in the Feriah Caverns dungeon.
 End Stone Crystal|Dropped by mining End Stone.
+Emblem of The Cycle|Dropped by defeating the Anubis [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of The Smith|Dropped by defeating the Hephaistos [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of Magic|Dropped by defeating the Odin [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of Darkness|Dropped by defeating the Aknyzor [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of Time|Dropped by defeating the Chronos [arena boss](../gameplay-mechanics/boss-fights.md).
 Etheric Shell|Dropped by Etheric Shulkers in the outer End.
 Feria Dust|Dropped by mobs in the Feriah Farlands.
 Galestone|Crafted from the Blacksmith at `/warp crafting`.
@@ -105,4 +104,5 @@ Void Essence|Dropped by Ender Revenants and Void Archers anywhere in the End.
 Ancient Silver|Obtained from killing mobs in the Ancient Desert dungeon.
 Ancient Tome|Obtained from Chests or Loot Enderman in the Ancient Desert dungeon.
 Archonic Gold|Obtained from Chests or Loot Enderman in the Ancient Desert dungeon.
+Emblem of The Sun|Dropped by defeating the Ra [arena boss](../gameplay-mechanics/boss-fights.md).
 Harmony of Delusion|Obtained from defeating the Ancient Titan boss in the Ancient Desert dungeon.
