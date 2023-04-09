@@ -19,7 +19,7 @@ Ancient Trident Fragment|Dropped by defeating Poseidon in `/boss`.
 Archaic Monolith|Obtained from defeating the Runic King Boss in the Runic Temple dungeon.
 Bandit Sigil|Dropped by killing Bandits in the Desert in the Overworld.
 Block of Steel|Crafted from the Blacksmith at `/warp crafting`.
-Bottle of Wind|Obtained by capturing wind in a snowy biome in windy weather (white particles, wind sounds). To capture wind, right-click while holding an Empty Wind Bottle crafted from the sorcerer.
+Bottle of Wind|Obtained by capturing wind in a snowy biome in windy weather (while there are white particles and wind sounds). To capture wind, right-click in a windy environment while holding an Empty Wind Bottle crafted from the sorcerer.
 Blue Jewel|Dropped from Blue Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Chalkstone|Dropped by killing Blackstone Golems in the Basalt Deltas in the Nether.
 Cheese|Crafted from the Food Vendor at `/warp food`.
@@ -36,8 +36,10 @@ Emblem of The Cycle|Dropped by defeating the Anubis [arena boss](../gameplay-mec
 Emblem of The Smith|Dropped by defeating the Hephaistos [arena boss](../gameplay-mechanics/boss-fights.md).
 Emblem of Magic|Dropped by defeating the Odin [arena boss](../gameplay-mechanics/boss-fights.md).
 Emblem of Darkness|Dropped by defeating the Aknyzor [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of Time|Dropped by defeating the Chronos [arena boss](../gameplay-mechanics/boss-fights.md).
+Emblem of The Sun|Dropped by defeating the Ra [arena boss](../gameplay-mechanics/boss-fights.md).
 Hardened Diamond|Crafted from the Blacksmith at `/warp crafting`.
-Hoglin Meat|Dropped by killing Raged Hoglins in the Nether.
+Hoglin Meat|Dropped by killing Raged Hoglins in the Nether in the Crimson Forest or Nether Wastes.
 Infernal Soul|Dropped by killing Fire Mages and Infernal Husks in the Nether Wastes.
 Large Bottled Spell|Crafted from the Blacksmith at `/warp crafting`.
 Leviathan Tail|Drops from the Leviathan mini-boss in Oceans in the Overworld.
@@ -48,13 +50,13 @@ Orc Tooth|Dropped by killing Orcs in the Overworld.
 Purple Jewel|Dropped from Purple Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Red Jewel|Dropped from Red Jewel Deposits in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Runic Fragment|Obtained from Chests or Loot Enderman in the Runic Temple dungeon.
-Salt Crystal|Dropped by killing Salt Golems in Salt Flats in the Overworld.
+Salt Crystal|Dropped by killing Salt Golems in Salt Flats (white patches of sand in the Desert) in the Overworld.
 Sharpening Flint|Crafted from the Blacksmith at `/warp crafting`.
 Soul Bone|Crafted from the Blacksmith at `/warp crafting`, or dropped by killing Reaper Skeletons in the Overworld.
 Spider Silk|Dropped by killing Poison, Wither, Frost, and Fire spiders in the Overworld.
 Steel Ingot|Crafted from the Blacksmith at `/warp crafting`.
 Tomato|Dropped by destroying Oak and Dark Oak leaves.
-Toughstone|Dropped by mining ores, killing Stone Golems in caves in the Overworld, or crafted from Toughstone Chips dropped from Rich/Pure/Toughstone Ores in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
+Toughstone|Dropped by mining ores (low chance), killing Stone Golems in caves in the Overworld, or crafted from Toughstone Chips dropped from Rich/Pure/Toughstone Ores in the [Miner's Mountain](../gameplay-mechanics/miners-mountain.md).
 Warden's Tribute|Dropped by killing the [Warden Anomaly](../custom-mobs/world-bosses.md) world-boss.
 Wardenite|Dropped by Wardens.
 
@@ -91,7 +93,7 @@ Seeker Heart|Dropped by Seekers anywhere in the End.
 Shining Star|Dropped by killing Starlight Fairies in the outer End.
 Skeleton Shaman Soul|Dropped by killing the Skeleton Shaman mini-boss in the Soul Sand Valley in the Nether.
 Snowland Soul|Dropped by Snowland Spirits in the Feriah Farlands.
-Sonic Shard|Dropped by Sculk Travelers in the Deep Dark biome. 
+Sonic Shard|Dropped by Sculk Travelers in the Deep Dark biome.
 Stellar Core|Dropped from an extremely rare Fading Star event in the End.
 Unstable Fragment|Dropped from Cosmic Delusions and Corrupted Enderman in the outer End.
 Unstable Matter|Crafted from the Matter Station in the outer End, spawns on a rare occasion.
