@@ -20,11 +20,14 @@ Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section 
 ### How do you pick up spawners?
 You can pick up spawners using a pickaxe with Silk Touch. You don't need any ranks or other enchantments.
 
-### Is Fire Tick on?
-Fire Tick is disabled, as they it be abused for griefing.
+### Are TNT Explosions/Fire Tick on?
+TNT Explosions and Fire Tick is disabled, as they are frequently abused for griefing.
 
 ### Do claims include blocks above and below?
 Yes, claims will protect your region all the way from bedrock to world height limit.
+
+### Where do I find an Ancient City?
+**Ancient cities are best found in the `/resource` world.** The main world (`/rtp` world) does not have as many ancient cities, and most of them will be buried. This is due to limitations regarding custom world generators with Minecraft.
 
 ### What is the vanilla difficulty of the server?
 The vanilla difficulty of the server is normal.

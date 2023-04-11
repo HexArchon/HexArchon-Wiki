@@ -21,7 +21,11 @@ To submit a bug report, head over to the #bot-commands channel on the [Discord](
 1. **(Preferred)** Provide a short description of the bug, and add a link to a video/GIF of your game showing how to replicate the bug (Using YouTube, Imgur, Tenor, Gyazo, etc.)
 2. Provide a description of the bug, and an *in-depth step-by-step* description of how to replicate the bug.
 
-#### *Why?* We need to be able to reliably replicate the bug ourselves in order to fix it.
+:::info
+A video is *REALLY* worth a trillion words.
+:::
+
+### *Why?* We need to be able to reliably replicate the bug ourselves in order to fix it.
 
 The bug fixing process (not limited to the server, but **in the entire field of Computer Science**) follows these steps:
 1. Try to replicate the bug reliably. This will help find out *what* is causing the issue, and *where* to look at (in the code) to fix this issue, and help us ensure that a bug is fixed when we implement a fix.
