@@ -8,7 +8,7 @@ title: FAQ
 Frequently asked Questions and the answers.
 
 ### Is Keep Inventory on?
-Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
+Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas or dungeons.
 
 ### How do I obtain X item? What is X item used for?
 Use the `/lookup` command to view how to obtain an item, and look up all recipes an item is used in.
@@ -21,7 +21,10 @@ Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section 
 You can pick up spawners using a pickaxe with Silk Touch. You don't need any ranks or other enchantments.
 
 ### Are TNT Explosions/Fire Tick on?
-TNT Explosions and Fire Tick is disabled, as they are frequently abused for griefing.
+TNT Explosions and Fire Tick is disabled, as they are frequently abused for griefing. However, bed explosions are enabled (only in the Nether).
+
+### Does Looting work for Custom Drops?
+Looting does not apply on custom drops, as currently it is not possible to do so.
 
 ### Do claims include blocks above and below?
 Yes, claims will protect your region all the way from bedrock to world height limit.
