@@ -20,12 +20,8 @@ You can imagine two people speaking completely different languages, attempting t
 * Certain sounds are broken (sound does not play or is wrong).
 * There are issues with visual indicators while mining in the Miner's Mountain. You may have to continue to break ores after it appears as broken.
 * Auctions cannot be opened (you can still sell though).
-* Repeatable quests category cannot be opened.
-* Hardcore quests category cannot be opened.
 * Abilities cannot be used. This is because the swap item mechanic is completely missing in Bedrock Edition, which is necessary for abilities to function.
 * Enchantments and Item descriptions may not always show properly.
 * Mobs are invisible in certain uncommon cases. Their nametag will still show though.
-* You may not receive items from certain events.
-* Certain item functions may not work.
 * Links from chat cannot be clicked (this functionality does not exist on Bedrock Edition).
 * Issues with getting stuck when walking past Bamboo (limitations due to Bedrock Edition handling offset differently).

@@ -17,7 +17,6 @@ The list of smaller modifications to vanilla Minecraft.
 
 ### Items
 * Milk Buckets will clear the bad omen effect.
-* Totem of Undying will activate even if you do not have it equipped on hand.
 * Elytras take 3x higher durability loss.
 * Diamond Items require more Netherite Ingots to upgrade. The amount depends on their crafting recipe. For example, Chestplates require 8 ingots, pickaxes require 3 ingots, etc.
 * Tridents thrown from the offhand will return to the offhand.

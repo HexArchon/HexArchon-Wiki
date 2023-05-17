@@ -65,3 +65,4 @@ To remove a shop, face a player shop sign and type `/pshop remove`.
 `/pshop transfer <name>` - Transfer the shop you are facing to another player. <br />
 `/pshop item` - Change the item of the shop. <br />
 `/pshop find <item name>` - Find a nearby shop that matches the item name specified. <br />
+`/pshop staff <add/clear/del/list>` - Add, remove, or see the list of players that also have admin permissions at the shop you are facing. <br />

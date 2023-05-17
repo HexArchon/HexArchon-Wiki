@@ -48,9 +48,9 @@ Mining ores in the Miner's Mountain grants Relic XP and level up your Relic Disc
 Upon reaching certain levels, you can unlock perks in the Relic Discovery Tree.
 
 ## Important Bedrock Edition Note
-On Bedrock Edition, the block you're mining will "appear" to be broken - in reality, it's still in the process of breaking. Thus, to fully mine the block, you will need to continue mining the block until it finally breaks (the block will disappear and it will drop an item.)
+On Bedrock Edition, the block you're mining will "appear" to be broken (block breaks with particles) - in reality, it's still in the process of breaking. Thus, to fully mine the block, you will need to continue mining the block until it finally breaks (the block will disappear and it will drop an item.)
 
-Unfortunately, this is caused by limitations with Bedrock Edition, as packet manipulation does not get translated onto the client.
+Unfortunately, this is caused by limitations with Bedrock Edition, as packet manipulation does not get translated onto the client. There is no way to make this work on Bedrock Edition until Mojang introduces proper parity.
 
 Here is a video demonstration of how to mine blocks in the Miner's Mountain on Bedrock Edition:
-<iframe width="509" height="286" src="https://www.youtube.com/watch?v=Q_4k2mL3ZQk" title="Miner's Mountain on Bedrock Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_4k2mL3ZQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
