@@ -12,7 +12,7 @@ If you have a high, but __STEADY__ ping ranging from __100-300__, it most likely
 
 ### How do I fix connection issues? (i.e. extremely high inconsistent 300+ ping, random ping spikes, disconnections)
 **In short:**
-1. Type `/whitelistme` on the server. The command will show red, it's normal.
+1. Type `/whitelistme` on the server. The command will show red, it's normal. **DO NOT SKIP THIS STEP! You will get instantly disconnected on join if you skip this step.**
 2. Download [Cloudflare Warp](https://1.1.1.1/).
 3. Open the installer, and install Cloudflare Warp.
 4. Enable Cloudflare Warp.

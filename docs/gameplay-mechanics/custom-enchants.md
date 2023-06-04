@@ -15,7 +15,7 @@ Custom Enchants are all new, unique enchants that you can apply to armor and too
 Custom Enchants can be purchased with money from `/shop` under Custom Enchants. They can also be obtained at random from Enchanting Tables, Villagers, Dungeons, Crates, Fishing, Drops, Daily Rewards, and Events.
 
 :::tip
-You can quickly open the Custom Enchants menu with `/shop ce`.
+You can quickly open the Custom Enchants menu with `/ce`.
 :::
 
 ## Applying Custom Enchants
@@ -44,7 +44,6 @@ Below are the various types of Custom Enchants.
 Normal (Gray) - Normal enchant. <br />
 Special (Pink) - A powerful, rare enchant. <br />
 Spell (Blue) - Enchants that require manual activation. <br />
-Artifact (Orange) - Enchants that produce a particle on use. <br />
 Curse (Red) - Similar to the vanilla Curse enchantments. <br />
 
 ## Special Enchants
@@ -61,10 +60,13 @@ Beware that you can only apply one special enchant on an item!
 ![Spell Enchant](./img/ce/ce-spell-enchant.png)
 
 Spell enchants (Blue) are enchants that require manual activation (right-click). They have a cooldown upon activation.
+:::warning
+Beware that you can only apply one spell enchant on an item!
+:::
 
 ## Rarities
 
-Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, special, and very special. The higher rarity an enchant has, generally the more powerful it is, and the higher the rarity.
+Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, special, and very special. The higher rarity an enchant has, generally the more powerful it is, and more rare it is.
 
 ## Stacking Enchantments
 
@@ -74,6 +76,6 @@ You can stack enchantments for greater effects. For instance, stacking the Prosp
 
 You can easily look up all about an enchantment by using the command `/whatis <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
 
-## Get the list of Enchantments
+## Get the list of Enchantments of Held Item
 
-Are enchantments not showing (Rare Bedrock Edition issue)? Use the command `/enchantslist` to view the list of enchantments that are applied to the item that you are currently holding.
+Are enchantments not showing (issue with shields/Bedrock Edition)? Use the command `/enchantslist` to view the list of enchantments that are applied to the item that you are currently holding.
