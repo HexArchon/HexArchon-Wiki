@@ -18,6 +18,9 @@ Type these into the chat for various functions! <br />
 `[balance]` `[money]` - Showcases your balance. <br />
 `[teleport]` `[tp]` - Allows others to teleport to you. <br /> -->
 
+## Sleep
+Skipping the night (by sleeping) only requires 30% of the players currently in *your world* to sleep.
+
 ## Invisible Item Frames
 You can toggle an item frame's invisibility by facing it and using the command `/itf toggle`. To scan for nearby item frames, use `/itf scan <block radius>`.
 

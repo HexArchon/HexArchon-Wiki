@@ -1,13 +1,13 @@
 ---
-sidebar_position: 1
-sidebar_label: 🧟 Mini Bosses
+sidebar_position: 2
+sidebar_label: 😡 Mini Bosses
 title: Mini Bosses
 ---
 
 # Mini Bosses
 Mini Bosses and where to find them.
 
-Mini Bosses can be found in all parts of the world and are much harder to kill than normal mobs. Mini bosses drop much more money, XP, and Points than normal mobs.
+Mini Bosses can be found in all parts of the world and are harder to kill than regular custom mobs. Mini bosses drop much more money, XP, and points than normal mobs, and some drop exclusive custom materials.
 
 ## Overworld
 ### Esgand

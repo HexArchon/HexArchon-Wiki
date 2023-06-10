@@ -8,9 +8,9 @@ title: Dungeons
 
 Dungeons are objective-based raids that contain main & side objectives, mobs, loot chests, and bosses. Upon defeating the final boss of a dungeon, you can claim 1 of 3 reward chests which contain Runes, Custom Enchantments, Essence Powder, Materials, and Custom Items.
 
-## Starting a Dungeon Raid
+## Starting a Dungeon
 
-To start a dungeon raid, open the dungeon menu using `/dungeons`. Select a dungeon to join. Click "Start Dungeon" to start the dungeon solo, or co-op with up to 4 players _(must have a party setup before starting)._
+To start a dungeon, open the dungeon menu using `/dungeons`. Select a dungeon to join. Click "Start Dungeon" to start the dungeon solo, or co-op with up to 4 players _(must have a party setup before starting)._
 
 ![Arena Party](./img/join_dungeon.png)
 ### Creating a Party
@@ -24,22 +24,22 @@ To create a global broadcast for players to join your party, click the "Recruit 
 
 ## Dungeons
 
-### Runic Temple
+## Runic Temple
 ![Runic Temple](./img/runictemple.png)
 
-**Difficulty:** Medium
+**Difficulty:** ~40 Defense (before enchants, upgrades, runes)
 
-Bosses:
+### Bosses:
 - Runic Revenant (Mini-Boss)
 - Posessed Treasure
 - Runic King (Final Boss)
 
-### Feriah Farlands
+## Feriah Farlands
 ![Feriah Caverns](./img/feriahcaverns.png)
 
-**Difficulty:** Very Difficult
+**Difficulty:** ~220 Defense (before enchants, upgrades, runes)
 
-Bosses:
+### Bosses:
 - Lava Gatekeeper (Mini-Boss)
 - Fire Broodmother
 - Frost King Servant
@@ -47,12 +47,12 @@ Bosses:
 
 **Counterpart of Skylands:** [Feriah Farlands](skylands.md/#feriah-farlands)
 
-### Ancient Desert
+## Ancient Desert
 ![Ancient Desert](./img/ancientdesert.png)
 
-**Difficulty:** Ludicrously Difficult
+**Difficulty:** ~340 Defense (before enchants, upgrades, runes)
 
-Bosses:
+### Bosses:
 - Fallen Knight (Mini-Boss)
 - Seth: The Rejected
 - Warrior Hyperion

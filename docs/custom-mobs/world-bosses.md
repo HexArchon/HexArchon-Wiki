@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 sidebar_label: 👹 World Bosses
 title: World Bosses
 ---
@@ -7,7 +7,7 @@ title: World Bosses
 # World Bosses
 About World Bosses and how to summon them.
 
-World Bosses are bosses that can be fought in any of the survival worlds but require a specific method of summoning. World Bosses often require a lot more players to defeat as they have a lot of health and may be more difficult than some Bossses.
+World Bosses are bosses that can be fought in any of the survival worlds but require a specific method of summoning. World Bosses often require more players to defeat, as they have a lot of health and are much more difficult than typical custom mobs.
 
 ## Warden Anomaly
 ![Warden Anomaly](./img/wardenanomaly.png)

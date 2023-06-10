@@ -16,11 +16,13 @@ You can only have 5 auto farms of any type placed at a time.
 :::
 
 :::warning
-Auto farms require the chunk to be loaded to function!
+Auto farms require the chunk to be loaded to function! And no, there is no artificial way to have a chunk loaded. That would be too overpowered :)
 :::
 
 ## Setting up Auto Farms
 To set up auto farms, simply place valid blocks around the auto farm. Refer to the screenshot above for help.  <br />
+
+![Auto Farm Valid Crops](./img/auto-farm-valid-crops.png)
 
 **Valid Crop Farm Blocks:**
 - Wheat <br />
@@ -34,6 +36,8 @@ To set up auto farms, simply place valid blocks around the auto farm. Refer to t
 - Sugar Cane <br />
 - Cactus <br />
 
+![Auto Farm Valid Ores](./img/auto-farm-valid-ores.png)
+
 **Valid Ore Farm Blocks:** <br />
 - Iron/Deepslate Iron Ore <br />
 - Copper/Deepslate Copper Ore <br />
@@ -45,7 +49,7 @@ To set up auto farms, simply place valid blocks around the auto farm. Refer to t
  <br />
 
 :::warning
-Diamond, Emerald, and Coal ores **cannot** be collected by ore farms.
+To clarify again: Diamond, Emerald, and Coal ores **cannot** be collected by ore farms. It would be too overpowered :)
 :::
 
 ## Accessing the Storage
@@ -57,6 +61,8 @@ The farm storage can be accessed by right-clicking on the farm.
 You can left-click on auto farms to bring up the upgrade/manage menu. From there, you can choose to upgrade the radius, speed, and storage capacity. You can also choose to share access to the auto farm, or to provide more fuel.
 
 ## Fueling Auto Farms
+![Auto Farm Fueling](./img/auto-farm-fueling.png)
+
 You can fuel auto farms by left-clicking on them to bring up the managing menu. From there, select the fuel icon, and place in a valid fuel source to increase the run time. <br />
 
 **Valid Fuel Sources:** <br />

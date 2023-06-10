@@ -6,13 +6,13 @@ title: Custom Enchants
 
 # Custom Enchants
 
-Custom Enchants are all new, unique enchants that you can apply to armor and tools, which play a major role needed to progress.
+Custom Enchants are new, unique enchants that you can apply to armor and tools, which play a major role needed to progress.
 
 ## Obtaining Custom Enchants
 
 ![Custom Enchants](./img/ce/ce-categories.png)
 
-Custom Enchants can be purchased with money from `/shop` under Custom Enchants. They can also be obtained at random from Enchanting Tables, Villagers, Dungeons, Crates, Fishing, Drops, Daily Rewards, and Events.
+Custom Enchants can be purchased with money from `/shop` under Custom Enchants. They can also be obtained at random from enchanting tables, villagers, dungeons, crates, fishing, drops, daily rewards, and events.
 
 :::tip
 You can quickly open the Custom Enchants menu with `/ce`.
@@ -41,38 +41,28 @@ Custom Enchants can be combined together, following the exact vanilla Minecraft 
 
 Below are the various types of Custom Enchants.
 
-Normal (Gray) - Normal enchant. <br />
-Special (Pink) - A powerful, rare enchant. <br />
-Spell (Blue) - Enchants that require manual activation. <br />
-Curse (Red) - Similar to the vanilla Curse enchantments. <br />
+### Normal (Gray)
+A normal Custom/Vanilla enchant. **There is no limit on the amount of enchants of these kinds you can apply on an item.** <br />
+### Special (Pink)
+A more powerful & rare enchant. **You can only apply one special enchant on an item.**<br />
+### Spell (Blue)
+Enchants that require manual activation (usually in the form of shift + right click), with an activation cooldown. **You can only apply one spell enchant on an item.**<br />
 
-## Special Enchants
-
-![Special Enchant](./img/ce/ce-special-enchant.png)
-
-Special enchants (Pink) are powerful, rare enchants.
 :::warning
-Beware that you can only apply one special enchant on an item!
-:::
-
-## Spell Enchants
-
-![Spell Enchant](./img/ce/ce-spell-enchant.png)
-
-Spell enchants (Blue) are enchants that require manual activation (right-click). They have a cooldown upon activation.
-:::warning
-Beware that you can only apply one spell enchant on an item!
+One MORE warning since a lot of people miss this: You can only apply ONE special and ONE spell enchant on an item.
 :::
 
 ## Rarities
 
-Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, special, and very special. The higher rarity an enchant has, generally the more powerful it is, and more rare it is.
+Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, special, and very special. The higher rarity an enchant has, generally the more powerful it is, and more rare it is from enchanting tables, villagers, dungeons, crates, fishing, drops, daily rewards, events... etc.
 
 ## Stacking Enchantments
+![Stacking Enchantments](./img/ce/ce-stacking.gif)
 
 You can stack enchantments for greater effects. For instance, stacking the Prosperity enchantment will grant extra health on top of your other Prosperity enchantments. If the enchantment is chance based, the chance will increase. However, they will all share the same cooldown.
 
 ## Look up Enchantments
+![Lookup Enchantments](./img/ce/ce-whatis.png)
 
 You can easily look up all about an enchantment by using the command `/whatis <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
 

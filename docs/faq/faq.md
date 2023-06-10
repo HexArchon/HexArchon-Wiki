@@ -10,9 +10,17 @@ Frequently asked Questions and the answers.
 ### Is Keep Inventory on?
 Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas or dungeons.
 
+### How do I claim land?
+Use `/claim` to claim land. [Click here for more information such as sharing and managing claim permissions.](../getting-started.md/#claiming-land)
+
 ### How do I obtain X item? What is X item used for?
 Use the `/lookup` command to view how to obtain an item, and look up all recipes an item is used in.
 Alternatively, for an in-depth detail on how to obtain an item, visit the [Items List](../custom-items/items-list.md) section of the wiki.
+
+### Why does my armor texture look glitched?
+![Shaders Armor Texture](./img/shaders.png)
+
+This is caused by using shaders. Unfortunately, this is caused by limitations with [Optifine](https://github.com/sp614x/optifine/issues/6391) and [Iris](https://github.com/IrisShaders/Iris/issues/1042), and cannot be fixed.
 
 ### What is Item Essence used for?
 Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section of the wiki.
@@ -20,8 +28,17 @@ Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section 
 ### How do you pick up spawners?
 You can pick up spawners using a pickaxe with Silk Touch. You don't need any ranks or other enchantments.
 
+### Can I only remove certain enchantments from an item, and/or turn them back into a book?
+No, because that would make things too easy :)
+
+### Is there a bank to store your money so you don't lose it?
+No, because again, that would make things too easy :)
+
 ### Are TNT Explosions/Fire Tick on?
 TNT Explosions and Fire Tick is disabled, as they are frequently abused for griefing. However, bed explosions are enabled (only in the Nether).
+
+### What is the difference between the normal (/rtp) world and the /resource world?
+The resource world is generated using vanilla world generation. It features increased passive mob spawn rates, more structures, and no custom mobs. The resource world resets once every few months.
 
 ### Does Looting work for Custom Drops?
 Looting does not apply on custom drops, as currently it is not possible to do so.
@@ -52,6 +69,9 @@ Treasure maps are disabled as they cause severe lag spikes. Treasure maps load i
 
 ### How do I use fancy colors in commands such as /nick, /rename, etc?
 Use these [color codes](https://i.redd.it/yldfhnb4xp411.png), or if you want to use gradients and hex colors, [use this website!](https://www.simplymc.art/Gradients)
+
+### Are dungeon chests shared?
+Dungeon chests are not shared. They are per-player.
 
 ### Why do my ability slot numbers keep changing?
 The ability slot numbers that appear when you go into ability casting mode depends on your current active slot on your hotbar.

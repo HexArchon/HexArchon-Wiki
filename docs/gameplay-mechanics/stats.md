@@ -28,4 +28,4 @@ Stats can be accessed with the command `/stats`. Here are all the stats availabl
 
 ![Stats Buy](./img/stats/stats-buy.png)
 
-Upgrading Stats require Stat Points, which can be purchased in the menu by using XP.
+Upgrading Stats require Stat Points, which can be purchased in the menu by using XP. The XP cost will increase by one level each time you purchase the stat point.

@@ -14,6 +14,8 @@ How to obtain upgraded furnaces.
 Upgraded Furnaces can be obtained by enchanting a furnace from an enchanting table. Various enchantments provide various upgrades.
 
 ## Enchantments
+![Furnace Enchants](./img/furnaces-enchants.png)
+
 - Efficiency: Increases the smelting speed, and uses more fuel.
 - Fortune: Chance to increase the result items. Only works on ores.
 - Unbreaking: Increases the duration that fuel lasts.

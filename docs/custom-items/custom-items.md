@@ -11,21 +11,28 @@ All about using, crafting, upgrading, and repairing custom items.
 
 ![Blacksmith](./img/blacksmith.png)
 
-The Blacksmith can craft and upgrade materials, weapons, repair stones/artifacts, and armor. The Blacksmith is located at spawn or at `/warp crafting`.
+You can craft and upgrade materials, weapons, repair stones/artifacts, and armor from the Blacksmith. The Blacksmith is located at spawn or at `/warp crafting`.
 
 ![Sorcerer](./img/sorcerer.png)
 
-The Sorcerer can craft potions, staffs, wands, catalysts, tomes, runes, and item essence. The Sorcerer is located next to the Blacksmith at spawn.
+You can craft potions, staffs, wands, catalysts, tomes, runes, and item essence from the Sorcerer. The Sorcerer is located next to the Blacksmith at `/warp crafting`.
 
 ## Types of Custom Items
 
 There are a variety of Custom Item types, which each corresponding to different attributes. For instance, Daggers have a fast attack speed but low attack damage, and Greatswords have a slow attack speed and are two-handed but have a high attack damage.
 
+Each type of Custom Items also have different upgrade scalings, which you can view [here](upgrade-scalings.md).
+
 :::warning
 Magic Items (from the Sorcerer) cannot be enchanted!
 :::
 
-## Attributes
+## Look up uses and recipes of Custom Items
+![Lookup](./img/lookup-1.png)
+
+You can use the `/lookup <Custom Item>` command to quickly look up the description, ways of obtaining, crafting recipe (if applicable), and uses of items.
+
+## Weapon and Armor Attributes
 
 ![Attributes](./img/attributes.png)
 
@@ -63,7 +70,7 @@ All Custom Items have various attributes assigned to them. This can be seen when
 |Skill Cooldown Reduction|The percentage of the cooldown timer for item skills.
 |Elemental Damage|See below.
 
-## Elemental Damage
+## Weapon Elemental Damage
 
 ![Elemental](./img/elemental.png)
 
@@ -78,13 +85,13 @@ Custom Items can have an Elemental Damage attribute. Elemental Damage (%) repres
 |Thunder|Deals 20% of the initial attack damage to nearby entities.
 |Water|Performs an AOE slow (Duration scales with attack damage).
 
-## Skills
+## Weapon and Armor Skills
 
 ![Skills](./img/skills.png)
 
-All Custom Items have their own **special skills**. This can be seen when you hover your mouse cursor over the item. Depending on the weapon, the skill may use mana or have a cooldown. Every skill is unique, so try it out for yourself! For the full list of item skills and the descriptions of them, visit the [Item Skills List](item-skills-list.md) page.
+All Custom Weapons and Armor have their own **special skills**. This can be seen when you hover your mouse cursor over the item. Depending on the weapon, the skill may use mana or have a cooldown. Every skill is unique, so try it out for yourself! For the full list of item skills and the descriptions of them, visit the [Item Skills List](item-skills-list.md) page.
 
-## Upgrading Items
+## Upgrading Weapons and Armor
 
 ![Upgrade](./img/upgrade-station.png)
 
@@ -106,11 +113,11 @@ Upgrade scaling is compounding, increasing based on its current value. For examp
 
 Item essence is used for upgrading items or repairing items. They can be crafted at the Sorcerer using Essence Powder, which is obtained by killing any normal or custom mobs.
 
-## Repairing Custom Items
+## Repairing Custom Weapons, Tools, and Armor
 
 ![Essence Crafting](./img/repairing.png)
 
-Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones only repair a certain amount of durability, while Repair Artifacts fully repair an item. Repairing items can be crafted from the Blacksmith under the Repairing section.
+Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones repair 30% of the item's max durability, while Repair Artifacts fully repair an item. Repairing items can be crafted from the Blacksmith under the Repairing section.
 
 ## Runes
 
@@ -128,6 +135,10 @@ Runes are used to upgrade stats on Custom Items. Depending on the type of the Ru
 |Wisdom|Grants 0.2-1.5 Mana Regeneration.
 |Defense|Grants 0.1-4 Defense.
 |Health|Grants 2 Health.
+
+:::tip
+Upgrading an item also upgrades runes applied it (if applicable). See the [Upgrading Items](#upgrading-items) section for more info.
+:::
 
 ## Armor Tiers
 Here are all the full armor sets ordered by the amount of defense from least to greatest.

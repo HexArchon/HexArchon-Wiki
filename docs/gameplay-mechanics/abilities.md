@@ -56,4 +56,4 @@ In this example, you would press the `2` key to cast Fire Storm, `3` to cast Min
 
 ![Mana](./img/abilities/mana.png)
 
-Most abilities require mana, which is displayed as the blue bar above your hotbar. To obtain more mana or to increase the regeneration speed of your mana, you can upgrade your intelligence stat in `/stats`, or craft custom items that increase your mana gain.
+Most abilities require mana, which is displayed as the blue bar above your hotbar. To obtain more mana or to increase the regeneration speed of your mana, you can upgrade your intelligence stat in `/stats`, or craft custom items or runes that increase your mana gain.
