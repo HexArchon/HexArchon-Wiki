@@ -11,7 +11,8 @@ title: Client Modifications
 **Optifine:** Increases FPS, reduces lag, supports various graphic changes such as shaders support, dynamic lights, configurable smooth lighting, and gives extra controls such as zoom. <br />
 **Better FPS:** Increases FPS, reduces lag, supports various graphic changes such as removing fog, removing the transparent layer of a beacon beam, and provides features such as Fast Search. <br />
 **Iris/Sodium/Starlight/Lithium:** Increases FPS, reduces lag, supports various graphic changes such as shaders support. <br />
-**Minimaps (WITH AN EXCEPTION):** Grants you a small map as a UI element. Minimaps are allowed as long as they don't give an unfair advantage - so no radars showing mobs, caves, spawners, etc.
+**Minimaps (WITH AN EXCEPTION):** Grants you a small map as a UI element. Minimaps are allowed as long as they don't give an unfair advantage - so no radars showing mobs, caves, spawners, etc. <br />
+**Litematica/Schematica (WITH AN EXCEPTION):** Displays a hologram version of structures for building references. Litematica/Schematica is allowed as long as you don't use them to build *for* you. <br />
 
 ## Allowed Clients
 

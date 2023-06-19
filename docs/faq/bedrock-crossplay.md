@@ -26,3 +26,8 @@ You can imagine two people speaking completely different languages, attempting t
 * Mobs are invisible in certain uncommon cases. Their nametag will still show though.
 * Links from chat cannot be clicked (this functionality does not exist on Bedrock Edition).
 * Issues with getting stuck when walking past Bamboo (limitations due to Bedrock Edition handling offset differently).
+
+## Bedrock Edition Changes
+To balance gameplay, those on Bedrock have these perks:
+- 20% incoming damage negation.
+- 10% outgoing damage boost.
