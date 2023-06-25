@@ -13,10 +13,10 @@ Fishing can be very interesting on HexArchon! Just try it and see... :)
 ## Chat Features
 Type these into the chat for various functions! <br />
 `[item]` - Showcases an item you are holding. <br />
-<!-- `[inv]` - Showcases your entire inventory. <br />
+`[inv]` - Showcases your entire inventory. <br />
 `[ender]` - Showcases your ender chest. <br />
 `[balance]` `[money]` - Showcases your balance. <br />
-`[teleport]` `[tp]` - Allows others to teleport to you. <br /> -->
+`[teleport]` `[tp]` - Allows others to teleport to you. <br />
 
 ## Sleep
 Skipping the night (by sleeping) only requires 30% of the players currently in *your world* to sleep.

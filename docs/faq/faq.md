@@ -102,6 +102,9 @@ Arrows will also bounce off if you are too far away from the mob (past the mob's
 ### Is Chat Reporting (1.19.1) enabled?
 Chat reporting is disabled due to compatibility and security issues.
 
+### Can I download the resource pack instead of having to load it every time I join?
+Unfortunately, we cannot provide the resource pack. The resource pack gets frequent updates, and your textures would appear broken.
+
 ### Are cracked accounts supported?
 Cracked accounts are not supported and will never be supported, as it is physically impossible to do so following the enormous amounts of internal complications and security vulnerabilities it brings. Some examples are:
 - No secure account authentication
