@@ -34,6 +34,9 @@ No, because that would make things too easy :)
 ### Is there a bank to store your money so you don't lose it?
 No, because again, that would make things too easy :)
 
+### What is the difference between Armor and Defense?
+Visit the [Defense vs. Armor - What's the difference?](../custom-items/custom-items.md/#defense-vs-armor---whats-the-difference) section of the wiki.
+
 ### Are TNT Explosions/Fire Tick on?
 TNT Explosions and Fire Tick is disabled, as they are frequently abused for griefing. However, bed explosions are enabled (only in the Nether).
 

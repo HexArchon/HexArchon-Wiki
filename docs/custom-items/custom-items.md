@@ -76,7 +76,7 @@ All Custom Items have various attributes assigned to them. This can be seen when
 Due to Minecraft limitations with high damage values, Defense had to be introduced. Defense is used in most custom armor, and is NOT to be confused with the Armor attribute - they are two completely different variables.
 
 Here is the formula used for the application of defense:
-```damage * (0.355 - (defense / (3.325 * (defense + 150)))) - 2```
+```damage * (0.355 - (defense / (3.325 * (defense + 150)))) - 2``` <br />
 This formula returns the final amount of damage dealt.
 
 ## Weapon Elemental Damage
