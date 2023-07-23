@@ -64,11 +64,20 @@ All Custom Items have various attributes assigned to them. This can be seen when
 |Parry Chance|The chance of dodging an incoming damage, knocking enemies back.
 |Health|The amount of extra health given.
 |Movement Speed|The amount of extra movement speed given.
-|Defense|The amount of defense points the item grants.
+|Defense|The amount of defense points the item grants (NOT to be confused with Armor). [Click here to read more](#defense-vs-armor---whats-the-difference).
 |Max Mana|The amount of extra mana the item can grant to your total mana.
 |Mana Regeneration|The speed of the mana regeneration.
 |Skill Cooldown Reduction|The percentage of the cooldown timer for item skills.
 |Elemental Damage|See below.
+
+## Defense vs. Armor - What's the difference?
+[Armor](https://minecraft.fandom.com/wiki/Armor#Damage_protection) is a vanilla Minecraft item attribute. You will see the Armor attribute used in vanilla armor, such as Iron and Diamond armor. 
+
+Due to Minecraft limitations with high damage values, Defense had to be introduced. Defense is used in most custom armor, and is NOT to be confused with the Armor attribute - they are two completely different variables.
+
+Here is the formula used for the application of defense:
+```damage * (0.355 - (defense / (3.325 * (defense + 150)))) - 2```
+This formula returns the final amount of damage dealt.
 
 ## Weapon Elemental Damage
 
@@ -117,7 +126,7 @@ Item essence is used for upgrading items or repairing items. They can be crafted
 
 ![Essence Crafting](./img/repairing.png)
 
-Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones repair 30% of the item's max durability, while Repair Artifacts fully repair an item. Repairing items can be crafted from the Blacksmith under the Repairing section.
+Custom Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones repair 30% of the item's max durability, while Repair Artifacts fully repair an item. Repairing items can be crafted from the Blacksmith under the Repairing section.
 
 ## Runes
 

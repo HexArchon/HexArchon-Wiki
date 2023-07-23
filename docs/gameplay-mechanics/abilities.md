@@ -36,7 +36,7 @@ While an ability is selected, you can choose to upgrade it by clicking on the mi
 
 ![Ability Slots](./img/abilities/ability-bind.png)
 
-While an ability is seleted, you can bind it to one of the 6 slots by left-clicking on an unactive slot. The slot you bind an ability to will determine the number you would press to activate the ability.
+While an ability is seleted, you can bind it to one of the 6 slots by left-clicking on an inactive slot. The slot you bind an ability to will determine the number you would press to activate the ability.
 To unbind an ability from a slot, you can right-click on an occupied slot.
 
 ## Using Abilities
