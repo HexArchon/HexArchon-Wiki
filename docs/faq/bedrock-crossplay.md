@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
-sidebar_label: 📱 Bedrock Crossplay
-title: Bedrock Crossplay
+sidebar_position: 6
+sidebar_label: 📱 Bedrock Issues
+title: Bedrock Issues
 ---
 
-# Bedrock Crossplay
+# Bedrock Issues
 You can join the server on Bedrock Edition using the IP `play.hexarchon.net` with Port `19132`. **Beware that Bedrock support has issues, because Mojang does not care to support 1:1 parity with Java on Bedrock Edition.** You will encounter many issues.
 
 ## Why are there so many issues on Bedrock Edition?

@@ -99,7 +99,7 @@ Arrows will also bounce off if you are too far away from the mob (past the mob's
 ### What is the World Size?
 **Overworld** - 24,000 x 24,000 <br />
 **Nether** - 8,000 x 8,000 <br />
-**End** - 8,000 x 8,000 <br />
+**End** - 24,000 x 24,000 <br />
 **Resource** - 24,000 x 24,000 <br />
 
 ### Is Chat Reporting (1.19.1) enabled?
