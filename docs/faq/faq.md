@@ -22,6 +22,9 @@ Alternatively, for an in-depth detail on how to obtain an item, visit the [Items
 
 This is caused by using shaders. Unfortunately, this is caused by limitations with [Optifine](https://github.com/sp614x/optifine/issues/6391) and [Iris](https://github.com/IrisShaders/Iris/issues/1042), and cannot be fixed.
 
+### Why do I not have a health bar?
+Visit the [HUD Issues](./hud-issues.md) section of the wiki.
+
 ### What is Item Essence used for?
 Visit the [Item Essence](../custom-items/custom-items.md/#item-essence) section of the wiki.
 

@@ -13,21 +13,21 @@ Minecraft Java and Bedrock is programmed using completely different programming 
 You can imagine two people speaking completely different languages, attempting to have a conversation. Some words that exist in a language doesn't exist in another language. Some words can have multiple definitions. Google Translate would mostly help, but it would still be inaccurate. While humans could use educated guesses to understand these word variations and incorrect translations, computer code cannot - which is why there are many issues playing on Bedrock Edition. While we try our best to ensure gameplay compatibility on Bedrock Edition, due to these reasons, full Bedrock support is impossible until Mojang makes Bedrock a 1:1 parity with Java. <br />
 
 ## Bedrock Edition Issues
-* As of 5/23/2023: With Bedrock 1.19.70, the Bedrock support developers completely broke being able to apply Custom Enchants in anvils on Bedrock Edition. If you play on Bedrock Edition and want to apply a Custom Enchant book, you can mention us on Discord and we'll apply it for you.
-* All custom textures don't show because Mojang didn't bother adding most technical features found in Java to Bedrock edition. This includes every item textures, armor textures, GUI textures, symbol textures, head textures, pet textures, mana bar... etc.
-* Custom HUD elements don't show (Bedrock deals with rendering completely differently from Java).
-* There is no tab completion for commands (this functionality does not exist on Bedrock Edition).
+* To apply custom enchantment books, you need to sneak-click an anvil. It will open up a custom menu, in which you can combine custom enchantments in.
+* All custom textures don't show because Mojang didn't bother adding most technical features found in Java to Bedrock edition. This includes every item textures, armor textures, GUI textures, symbol textures, pet textures, mana bar... etc.
+* Custom HUD elements don't show (Bedrock deals with game rendering completely differently from Java which makes this impossible).
 * Certain particles don't show, because not all particles from Java are found or can be translated to Bedrock.
 * Certain sounds are broken (sound does not play or is wrong).
 * There are issues with visual indicators while mining in the Miner's Mountain, because there is no way to manipulate packets on Bedrock. You may have to continue to break ores after it appears as broken.
 * Auctions cannot be opened, because the developer doesn't support it as it causes dupes due to how Bedrock inventories work.
-* Abilities cannot be used. This is because Mojang never added the swap item mechanic to Bedrock Edition, which is necessary for abilities to function.
 * Enchantments and Item descriptions may not always show properly due to how Bedrock shows item lore.
 * Mobs are invisible in certain uncommon cases. Their nametag will still show though.
 * Links from chat cannot be clicked (this functionality does not exist on Bedrock Edition).
 * Issues with getting stuck when walking past Bamboo (limitations due to Bedrock Edition handling offset differently).
 
-## Bedrock Edition Changes
+## Bedrock Edition Buffs
 To balance gameplay, those on Bedrock have these perks:
 - 20% incoming damage negation.
 - 10% outgoing damage boost.
+
+These perks can be toggled on or off in the `/settings` menu.

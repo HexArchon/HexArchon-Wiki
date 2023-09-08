@@ -39,7 +39,13 @@ While an ability is selected, you can choose to upgrade it by clicking on the mi
 While an ability is seleted, you can bind it to one of the 6 slots by left-clicking on an inactive slot. The slot you bind an ability to will determine the number you would press to activate the ability.
 To unbind an ability from a slot, you can right-click on an occupied slot.
 
-## Using Abilities
+## Mana
+
+![Mana](./img/abilities/mana.png)
+
+Most abilities require mana, which is displayed as the blue bar above your hotbar. To obtain more mana or to increase the regeneration speed of your mana, you can upgrade your intelligence stat in `/stats`, or craft custom items or runes that increase your mana gain.
+
+## Using Abilities (Java Edition)
 
 ### Tutorial Video:
 This tutorial video guides you on how to bind abilities, activate ability casting mode, and how to cast abilities.
@@ -52,8 +58,12 @@ To cast abilities, you must be in casting mode. You can toggle casting mode on/o
 
 In this example, you would press the `2` key to cast Fire Storm, `3` to cast Minor Healings, and `4` to cast Empowered Attack.
 
-## Mana
+## Using Abilities (Bedrock Edition)
 
-![Mana](./img/abilities/mana.png)
+### Tutorial Video:
+This tutorial video shows you how to activate ability casting mode, and cast abilities.
+<iframe width="509" height="286" src="https://www.youtube.com/watch?v=zabBbgu3Dlc" title="HexArchon - How to use Abilities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Most abilities require mana, which is displayed as the blue bar above your hotbar. To obtain more mana or to increase the regeneration speed of your mana, you can upgrade your intelligence stat in `/stats`, or craft custom items or runes that increase your mana gain.
+### Explanation:
+
+To cast abilities, you must be in casting mode. You can toggle casting mode on/off by using any emotes. From here, the binded abilities will be shown above your hotbar. To cast an ability, press the slot to the corresponding to the number shown to the left of the ability name. **For example: in the above video, you would press the 2nd slot to cast Fire Storm.**

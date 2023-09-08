@@ -22,6 +22,8 @@ You can quickly open the Custom Enchants menu with `/ce`.
 
 Custom Enchants can be applied to items by using an anvil, similar to vanilla Minecraft.
 
+**IMPORTANT: On Bedrock Edition, you need to use the custom anvil menu (sneak-click a normal anvil) to be able to apply custom enchants on items.**
+
 :::warning
 Some enchants may be incompatible with another enchant, preventing you from applying them together on one item. You can check if an enchant has any incompatibilities using the `/whatis <enchantment>` command.
 :::
