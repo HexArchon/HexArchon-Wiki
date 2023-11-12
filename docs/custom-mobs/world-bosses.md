@@ -17,7 +17,7 @@ World Bosses are bosses that can be fought in any of the survival worlds but req
 
 ### Summoning Steps
 
-Craft the Warden's Call to Archon from the Sorcerer. Upon crafting the item, you will be sent a coordinate in the chat. Navigate to the coordinate, enter the underground city, and locate the Warden's Well. While holding the Warden's Call to Archon, right-click next to the Warden's Well. Summon a Warden as usual, and while the Warden's Call to Archon is active, it will summon the Warden Anomaly.
+Craft the Warden's Call to Archon from the Sorcerer. Navigate to the coordinates [X: 0, Y: 0] in the main world (the world `/rtp` takes you), enter the underground city, and locate the Warden's Well. Hold the Warden's Call to Archon and right-click next to the Warden's Well. While the Warden's Call to Archon is active for 50s, summon a Warden as usual, and it will summon the Warden Anomaly.
 
 ## Acheron
 ![Acheron](./img/acheron.png)
