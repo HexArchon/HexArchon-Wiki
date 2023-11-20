@@ -178,3 +178,16 @@ Here are all the full armor sets ordered by the amount of defense from least to 
 
 ## Slate Armor Set
 Skipping from an Overworld armor set to the Slate armor set is **STRONGLY DISCOURAGED** due to the difficulty of the Basalt Deltas. You **WILL** suffer. **You have been warned!**
+
+## Item Merchant
+
+![Merchant](./img/merchant.png)
+
+The item merchant will offer you a range of randomized sell prices for random custom materials. Each day, the catalogue will refresh with new items and prices.
+
+Per each quantity of item sold, the sell price of the item will decrease by 1%. However, the sell price cannot be decreased below 20% of the original sell price for that day. 
+:::info
+For example, if the sell price of Toughstone for the day was $228 and you sold 32 Toughstone, you would earn $1,654 (sell price decreases by 1% per each quantity), and the sell price of the item cannot decrease below $46 ($45.60 rounded up to a whole dollar).
+:::
+
+You can also bribe the merchant to increase the sell price of a random item by 6-15%. There is no limit to bribing, and bribing bypasses any sell price limits, but the cost to bribe will increase exponentially until it resets the next day.
