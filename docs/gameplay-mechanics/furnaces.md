@@ -21,6 +21,12 @@ Upgraded Furnaces can be obtained by enchanting a furnace from an enchanting tab
 - Unbreaking: Increases the duration that fuel lasts.
 - Silk Touch: Causes furnaces to stop using fuel when not in use.
 
+:::info
+Ignore any enchantments that show in the enchanting table preview. They don't mean anything.
+
+![Furnace Preview](./img/furnaces-preview.png)
+:::
+
 ## Fortune Enchantment
 The fortune enchantment on a Furnace will increase the amount of resulting items from smelting. The chance (equation) for Fortune on Furnaces replicates the vanilla behavior of the Fortune enchantment. [You can read more about the vanilla behavior of Fortune (and thus, Fortune furnaces) here](https://minecraft.fandom.com/wiki/Fortune).
 

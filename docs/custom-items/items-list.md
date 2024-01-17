@@ -5,11 +5,15 @@ title: Items List
 ---
 
 # Items List
-A list of all materials, and how to obtain them.
+A list of all materials and how to obtain them.
+
+:::tip
+To learn all specific biomes a certain mob spawns in, use the `/lookup mob <mob name>` command.
+:::
 
 ## Obtaining Materials
 :::tip
-Use Ctrl+F (or CMD+F on macOS) to search for the material you're looking for!
+Use Ctrl+F (or CMD+F on macOS) to quickly search for the material you're looking for!
 :::
 
 ### Early Game Materials

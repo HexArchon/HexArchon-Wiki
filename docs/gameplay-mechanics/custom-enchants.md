@@ -25,10 +25,10 @@ Custom Enchants can be applied to items by using an anvil, similar to vanilla Mi
 **IMPORTANT: On Bedrock Edition, you need to use the custom anvil menu (sneak-click a normal anvil) to be able to apply custom enchants on items.**
 
 :::warning
-Some enchants may be incompatible with another enchant, preventing you from applying them together on one item. You can check if an enchant has any incompatibilities using the `/whatis <enchantment>` command.
+Some enchants may conflict with another enchant, preventing you from applying them together on one item. You can check if an enchant has any conflicts using the `/lookup enchant <enchantment>` command.
 :::
 :::warning
-Mending, Power, Indestructibility, and Repairing cannot be applied on custom items! This is due to the codebase being incompatible.
+Mending, Power, Indestructibility, and Repairing cannot be applied on custom items! This is due to limitations of non-modded Minecraft.
 :::
 
 ## Combining Custom Enchants
@@ -51,7 +51,7 @@ A more powerful & rare enchant. **You can only apply one special enchant on an i
 Enchants that require manual activation (usually in the form of shift + right click), with an activation cooldown. **You can only apply one spell enchant on an item.**<br />
 
 :::warning
-One MORE warning since a lot of people miss this: You can only apply ONE special and ONE spell enchant on an item.
+One MORE warning since a lot of people miss this: You can only apply **ONE** special and **ONE** spell enchant on an item.
 :::
 
 ## Rarities
@@ -66,7 +66,7 @@ You can stack enchantments for greater effects. For instance, stacking the Prosp
 ## Look up Enchantments
 ![Lookup Enchantments](./img/ce/ce-whatis.png)
 
-You can easily look up all about an enchantment by using the command `/whatis <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
+You can easily look up all about an enchantment by using the command `/lookup enchant <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
 
 ## Get the list of Enchantments of Held Item
 

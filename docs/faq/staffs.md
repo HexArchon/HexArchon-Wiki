@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 sidebar_label: 👨‍🔧 Staff Members
 title: Staff Members
 ---
@@ -33,11 +33,9 @@ Complex mostly works on:
 DR34 is the admin of the server, and is mostly responsible for the main content of the server.
 
 DR34 mostly works on:
-- Custom Textures
 - Custom Items
-- Custom Crafting
+- Custom Textures
 - Custom Mobs
 - Dungeons
 - Miner's Mountain
 - General Gameplay Progression
-- Custom Enchantments

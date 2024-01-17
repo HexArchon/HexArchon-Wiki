@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 sidebar_label: 💡 Suggestions and Bugs
 title: Suggestions and Bugs
 ---
@@ -12,10 +12,10 @@ Do you have a suggestion or a bug report for the server? Please submit them on t
 :::
 
 ## 💡 Submitting a Suggestion
-To submit a suggestion, head over to the #bot-commands channel on the [Discord](https://discord.hexarchon.net/) and use the `-suggest Your Suggestion Here` command. Please note that suggestions are a courtesy and are not guaranteed to be accepted - some suggestions may be out of reach or not be possible. Suggestions can take a while to be implemented, as we prioritize Bug Reports and other planned features first.
+To submit a suggestion, head over to the #bot-commands channel on the [Discord](https://discord.hexarchon.net/) and use the `/suggest` command. Please note that suggestions are a courtesy and are not guaranteed to be accepted - some suggestions may be out of reach or not be possible. Suggestions can take a while to be implemented, as we prioritize Bug Reports and other planned features first.
 
 ## 🐛 Submitting a Bug Report
-To submit a bug report, head over to the #bot-commands channel on the [Discord](https://discord.hexarchon.net/) and use the `-bugreport Your Bug Report Here` command.
+To submit a bug report, head over to the #bot-commands channel on the [Discord](https://discord.hexarchon.net/) and use the `/bugreport` command.
 
 ### ⭐ Important: PLEASE make sure that your bug report follows one of the following formats:
 1. **(Preferred)** Provide a short description of the bug, and add a link to a video/GIF of your game showing how to replicate the bug (Using YouTube, Imgur, Tenor, Gyazo, etc.)
