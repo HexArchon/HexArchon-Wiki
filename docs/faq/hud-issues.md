@@ -11,41 +11,28 @@ How to fix issues related to the Custom HUD.
 If your health bar is not loading or your HUD looks messed up, it is likely caused by a 3rd party Minecraft client settings or mods that tweak GUI scales or boss bars.
 
 ### Example of a broken HUD:
-![Lunar Client](./img/broken-hud.png) <br />
+![Lunar Client](./img/hud-issues/broken-hud.png) <br />
 
 ### Example of a properly functioning HUD:
-![Normal HUD](./img/normal-hud.png) <br />
+![Normal HUD](./img/hud-issues/normal-hud.png) <br />
 
 ## Lunar Client Fix:
-### Fix 1:
-Lunar Client has a setting to use a custom GUI scale different from vanilla Minecraft, which breaks the HUD.
+Make sure that ALL of these settings are set to fix the issue.
 
-![Lunar Client GUI Scale Setting](./img/lunarclient-setting-guiscale.png) <br />
-To fix this, in Lunar Client's settings tab, make sure that the "Use Minecraft GUI Scale" option is set to **mods** or **all** (not off).
+### 1. Lunar Options -> Settings Tab (at the top) -> Set Use Minecraft GUI Scale to "ALL"
+![Lunar Client GUI Scale Setting](./img/hud-issues/LC-setting-guiscale.png) <br />
 
-### Fix 2:
-Lunar Client has a setting to disable the boss bar, which also disables the HUD.
+### 2. Lunar Options -> Mods Tab (at the top) -> Set Boss Bar to "ENABLED"
+![Lunar Client Boss Bar Setting](./img/hud-issues/LC-setting-bossbar.png) <br />
 
-![Lunar Client Boss Bar Setting](./img/lunarclient-setting-bossbar.png) <br />
-In Lunar Client's HUD tab, make sure that you have boss bars enabled.
-
-### Fix 3:
-Lunar Client has a setting to customize the boss bar, which can break the HUD.
-
-![Lunar Client Boss Bar Setting](./img/lunarclient-setting-bossbarsetting.png) <br />
-To fix this, go to Lunar Client's HUD tab, and click the settings icon next to the boss bar option.
-
-![Lunar Client Boss Bar Setting](./img/lunarclient-setting-bossbarreset.png) <br />
-Then, at the top right corner, click BOTH **"Reset Position"** and **"Reset to Defaults"** buttons.
-
-### Fix 4:
-Lunar Client has an option to freely move around the boss bar, which can break the HUD.
-
-To fix this, open Lunar Client's options, and at the bottom left corner, click the blue **"Edit HUD Layout"** button.
-![Lunar Client Edit HUD Layout](./img/lunarclient-edithudlayout.png) <br />
-
-![Lunar Client Boss Bar Layout](./img/lunarclient-setting-bossbarlayout.png) <br />
-Then, drag the boss bar element to the position as shown.
+### 3. Lunar Options -> Mods Tab (at the top) -> Boss Bar Options
+![Lunar Client Boss Bar Setting](./img/hud-issues/LC-setting-bossbaroptions.png) <br />
+### Set Scale to "1.00", Set Use Custom Boss Bar to "OFF"
+![Lunar Client Boss Bar Setting](./img/hud-issues/LC-setting-bossbaroptionspage.png) <br />
+### Click EDIT HUD LAYOUT at the bottom left corner
+![Lunar Client Edit HUD Layout](./img/hud-issues/LC-setting-bossbarlayout1.png) <br />
+### Move the Boss Bar to the top center position as shown
+![Lunar Client Boss Bar Layout](./img/hud-issues/LC-setting-bossbarlayout2.png) <br />
 
 ## Other Clients Fix:
 Check your client settings to see if there are any settings that tweak GUI scales or boss bars. Try tweaking or disabling those options to see if the issue is fixed (refer to the Lunar Client fixes if necessary.)
