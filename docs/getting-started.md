@@ -19,20 +19,10 @@ The first step would be to use the `/rtp` command to teleport to a random place 
 
 Claiming Land is an important aspect of the server as it protects your builds from others.
 
-To claim land, first type the command `/claim`. Then, right-click two corners (blocks) of your intended claim. A confirmation menu will pop up, in which you can confirm your claim creation.
+To claim land, first type the command `/claim`. Click the golden shovel icon to get a golden shovel. While holding the golden shovel, right-click two corners (blocks) of your intended claim.
 
 ### Giving other players access to your claim
-#### Shortcut
-To share access of your claim to other players, use the `/trust PlayerNameHere` command. From there, you can grant permissions to build, open chests, interact with mobs, and more! <br />
-
-#### Detailed
-![Claim Player Grant Build Permission](./img/getting-started/claims-grant-build-permission.gif)
-
-You can give access of your claim to other players, such as a friend. To do this, type the command `/claims`. Select the claim you wish to share, then click Per Player Settings. Select the player you wish to add, and under the build permission, click Enable. If you want, you can also grant them the permission to open chests, interact with mobs, blocks, and more!
-
-:::warning
-The player that you want to add to your claim to must be in the same world for them to show up!
-:::
+To share access of your claim to other players, type `/claim` and click **Manage Permissions**. <br />
 
 ## Jobs
 

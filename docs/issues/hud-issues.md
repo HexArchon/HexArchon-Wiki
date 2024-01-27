@@ -10,8 +10,8 @@ How to fix issues related to the Custom HUD.
 ## Health bar not loading / HUD looks messed up
 If your health bar is not loading or your HUD looks messed up, it is likely caused by a 3rd party Minecraft client settings or mods that tweak GUI scales or boss bars.
 
-### [Lunar Client Fix](./hud-issues.md#lunar-client-fix-1)
-### [Feather Client Fix](./hud-issues.md#feather-client-fix-1)
+### [Lunar Client Fix](#lunar-client)
+### [Feather Client Fix](#feather-client)
 
 ### Example of a broken HUD:
 ![Lunar Client](./img/hud-issues/broken-hud.png) <br />
@@ -19,7 +19,7 @@ If your health bar is not loading or your HUD looks messed up, it is likely caus
 ### Example of a properly functioning HUD:
 ![Normal HUD](./img/hud-issues/normal-hud.png) <br />
 
-## Lunar Client Fix:
+## Lunar Client:
 Make sure that ALL of these settings are set to fix the issue.
 
 ### 1. Lunar Options -> Settings Tab (at the top) -> Set Use Minecraft GUI Scale to "ALL"
@@ -34,19 +34,19 @@ Make sure that ALL of these settings are set to fix the issue.
 ![Lunar Client Boss Bar Setting](./img/hud-issues/LC-setting-bossbaroptionspage.png) <br />
 ### Click EDIT HUD LAYOUT at the bottom left corner
 ![Lunar Client Edit HUD Layout](./img/hud-issues/LC-setting-bossbarlayout1.png) <br />
-### Move the Boss Bar to the top center position as shown
+### Move the Boss Bar to the top center position as shown. Leave a small gap at the top
 ![Lunar Client Boss Bar Layout](./img/hud-issues/LC-setting-bossbarlayout2.png) <br />
 
-## Feather Client Fix:
+## Feather Client:
 ### Feather Options -> Mod Menu Tab (to the left) -> Boss Bar -> Set Text Color to WHITE, Text Shadow to ENABLED, Overwrite Text Color to DISABLED
 ![Lunar Client Boss Bar Layout](./img/hud-issues/FC-setting-bossbar.png) <br />
 
-## Other Clients Fix:
+## Other Clients:
 Check your client settings to see if there are any settings that tweak GUI scales or boss bars. Try tweaking or disabling those options to see if the issue is fixed (refer to the Lunar Client fixes if necessary.)
 
 If you're using a client not listed on this wiki page and have found a solution, let us know on the [Discord](https://discord.hexarchon.net/) so we can add the solution to this wiki page.
 
-## Fabric/Forge/Quilt Fix:
+## Fabric/Forge/Quilt:
 If you are on a modded platform such as Fabric, Forge, or Quilt and are experiencing broken HUD, one of your installed mods are causing the issue.
 
 Check through your mods list to see if you have any mods that tweak GUI scales or boss bars. Try removing those mods, and see if the issue is fixed.

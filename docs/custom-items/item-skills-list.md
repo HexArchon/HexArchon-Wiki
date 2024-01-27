@@ -15,6 +15,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |**Name**|**Description**|**Utility**
 | :------------- |:-------------| :------------- 
 |Arcane Hail|Showers arcane projectiles in the target area, dealing *magic* damage on hit.|AOE Damage
+|Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
 |Archon's Strike|Send up to 3 entities locked airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
@@ -28,6 +29,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Deadly Poison|Deal *magic* damage to target entity over a few seconds.|Damage Increase
 |Deafening Impact|Dash toward a crosshair entity, jumping then smashing the ground dealing AOE *magic* damage.|AOE Damage, Mobility
 |Descending Storm|Casts a descending projectile, once it lands, calls a lightning strike dealing AOE *magic* damage. The radius increases with bonus Magic Damage.|AOE Damage
+|Disarray|Has three different casts, with each cast dashing you forward granting your next attack 25% extra damage. The first cast slashes downward. The second cast slashes horizontally. The third cast slams the ground, dealing AOE damage and knocking up enemies.|AOE Damage, Crowd Control, Mobility.
 |Divine Strike|Powerfully jump in the air, then dash toward a target on crosshair dealing AOE *magic damage* on impact. Additionally, your next attack sends a damaging wave of ice *(Not affected by magic/skill damage)*.|AOE Damage, Mobility
 |Double Strike|Deals extra *physical* damage after a delay.|Damage Increase
 |Enchanted Parry|Upon taking damage within 0.5 seconds of activating, deal *physical* damage to the damager and heal for 4 HP.|Sustain
@@ -47,13 +49,14 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Ice Bolt|Casts an icy projectile dealing *magic* damage on hit.|Range
 |Infernal Bloodlust|Jump in the air then smash the ground, then become stunned for a duration, draining up to 5 entities in radius 6 times for 1 HP. After the duration, strike all entities in radius dealing *magic* damage and igniting them.|AOE Damage, Sustain
 |Last Ring|After a delay, leap forward and deal *physical* and *magic* damage to entities in path.|AOE Damage, Mobility
+|Life From Death|Summons an Ally Whispering Phantom that fights alongside you.|Damage Increase, Horde Clearing
 |Light Dash|Dash toward crosshair direction, dealing *physical* damage to passing entities.|Mobility
 |Magma Fissure|Casts a targeted magma fissure dealing *magic* damage.|Range
 |Magic Bolt|Casts a projectile that deals *magic* damage on hit.|Range
 |Mighty Jump|Jump in the air and smash the ground dealing AOE *magic* damage.|AOE Damage
 |Minor Explosion|Creates an explosion at the location dealing *magic* damage.|AOE Damage, Crowd Control
 |Nether Strike|Strike a line slightly knocking up, igniting, and dealing *magic* damage to entities it passes through.|Range
-|Oblivion|Sends down a giant meteor from the sky dealing AOE *magic* damage and stunning for 2 seconds. Additionally, allows the caster to shoot meteors dealing *magic* damage when swinging.|AOE Damage, Damage Increase, Range
+|Oblivion|Sends down a giant meteor from the sky dealing AOE *magic* damage and stunning enemies for 2 seconds. Additionally, allows the caster to shoot meteors dealing *magic* damage when swinging.|AOE Damage, Damage Increase, Range
 |Overgrow|Casts a projectile volley of vines dealing *magic* damage on hit.|Horde Clearing, Range
 |Permafrost|Slows and deals *magic* damage to hit entity.|Damage Increase
 |Radar|Causes nearby entities to glow for a duration.|Vision
@@ -71,7 +74,8 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Spirit Shot|Lunge backwards, then shoot 2 projectile volleys dealing *magic* damage, then a shoot a ghost that explodes on impact dealing AOE *magic* damage.|AOE Damage, Range
 |Starfall|Casts a falling star on hit target dealing *magic* damage.|Damage Increase
 |Starstrikes|Alternates between *magical* and *physical* slashes dealing damage to all entities hit.|Damage Increase
-|Summon Wolf|Summons an Ally Firewolf that fights alongside in battle and can cast AOE fire slashes.|AOE Damage
+|Summon Aether Guard|Summons an Ally Aether Guard that fights alongside you. Periodically, the Aether Guard charges an attack, granting itself Speed, then knocks up its target on attack.|Damage Increase
+|Summon Wolf|Summons an Ally Firewolf that fights alongside you and can cast AOE fire slashes.|AOE Damage
 |Sweeping Slashes|Casts a projectile of slashes dealing *physical* damage.|Horde Clearing, Range
 |Sweeping Storm|Casts a tornado towards target direction, pulling nearby entities and dealing *magic* damage.|Crowd Control, Horde Clearing
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
@@ -83,4 +87,5 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Void Power Orb|Summons a Void Power Orb that pulls and deals damage to nearby entities *(Not affected by magic/skill damage)*.|AOE Damage, Crowd Control
 |Void Zapper|Casts a fast projectile that can bounce on surfaces, dealing *magic* damage and knockback to the first entity hit.|Range
 |Weaken Target|Weakens hit target, increasing subsequent damage. taken.|Damage Increase
+|Weakening Magic|Shoots two projectiles that slowly follow the nearest two enemies dealing *magic* damage and inflicting Weakness.|Debuffing, Range
 |Wind Missile|Casts a projectile dealing *magic* damage and throwing entities hit.|Crowd Control, Range

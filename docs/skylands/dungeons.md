@@ -27,8 +27,6 @@ To create a global broadcast for players to join your party, click the "Recruit 
 ## Runic Temple
 ![Runic Temple](./img/runictemple.png)
 
-**Difficulty:** ~40 Defense (before enchants, upgrades, runes)
-
 ### Bosses:
 - Runic Revenant (Mini-Boss)
 - Posessed Treasure
@@ -36,8 +34,6 @@ To create a global broadcast for players to join your party, click the "Recruit 
 
 ## Feriah Farlands
 ![Feriah Caverns](./img/feriahcaverns.png)
-
-**Difficulty:** ~220 Defense (before enchants, upgrades, runes)
 
 ### Bosses:
 - Lava Gatekeeper (Mini-Boss)
@@ -49,8 +45,6 @@ To create a global broadcast for players to join your party, click the "Recruit 
 
 ## Ancient Desert
 ![Ancient Desert](./img/ancientdesert.png)
-
-**Difficulty:** ~340 Defense (before enchants, upgrades, runes)
 
 ### Bosses:
 - Fallen Knight (Mini-Boss)

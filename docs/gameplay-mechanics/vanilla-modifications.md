@@ -30,7 +30,7 @@ The list of smaller modifications to vanilla Minecraft.
 * You can break half of full slab blocks by sneak + left-clicking.
 * Chests can still open with a full block above them.
 * Spawners can be deactivated with redstone power.
-* Farmland can be moistened from water blow.
+* Farmland can be moistened from water below.
 * Composters can be bulk processed by sneak + right-clicking with the item in hand.
 
 ### Entities

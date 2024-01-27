@@ -24,7 +24,7 @@ title: Client Modifications
 **Fabric (Without prohibited mods):** A Minecraft platform to add modifications. <br />
 
 :::warning
-Do note - Some of these clients (mostly Lunar Client) could possibly cause issues on the server. We have seen these clients cause issues such as text or UI elements not showing up properly, players getting randomly kicked, etc... They are rare occurrences, but they did happen. These issues are caused by the clients themselves, and we can't do anything about it server side.
+Do note - Some of these clients (mostly Lunar Client) could possibly cause issues on the server. We have seen these clients cause issues such as text or HUD elements not showing up properly [(HUD fix is here)](../issues/hud-issues.md), players getting randomly kicked, etc... They are rare occurrences, but they did happen. These issues are caused by the clients themselves, and we can't do anything about it server side.
 :::
 
 ## Prohibited Modifications
