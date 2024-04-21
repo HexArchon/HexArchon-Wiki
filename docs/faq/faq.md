@@ -14,8 +14,11 @@ Keep Inventory is on throughout the entire server. However, you will lose 10% of
 Use `/claim` to claim land. [Click here for more information such as sharing and managing claim permissions.](../getting-started.md/#claiming-land)
 
 ### How do I obtain X item? What is X item used for?
-Use the `/lookup` command to view how to obtain an item, and look up all recipes an item is used in.
+Use the `/lookup` command to view how to obtain an item, the description of the item, and see all recipes an item is used in.
 Alternatively, for an in-depth detail on how to obtain an item, visit the [Items List](../custom-items/items-list.md) section of the wiki.
+
+### Where does X mob spawn?
+Use the `/lookup` command to view which worlds and biomes a specific mob spawns in.
 
 ### What does X enchant do?
 Use the `/lookup` command to view the descriptions, max levels, rarities, and conflicts of custom enchantments.
@@ -117,7 +120,7 @@ Arrows will also bounce off if you are too far away from the mob (past the mob's
 **End** - 24,000 x 24,000 <br />
 **Resource** - 24,000 x 24,000 <br />
 
-### Is Chat Reporting (1.19.1) enabled?
+### Is Chat Reporting (1.19.1+) enabled?
 Chat reporting is disabled due to compatibility and security issues.
 
 ### Can I download the resource pack instead of having to load it every time I join?

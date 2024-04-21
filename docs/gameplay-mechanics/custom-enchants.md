@@ -56,7 +56,7 @@ One MORE warning since a lot of people miss this: You can only apply **ONE** spe
 
 ## Rarities
 
-Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, special, and very special. The higher rarity an enchant has, generally the more powerful it is, and more rare it is from enchanting tables, villagers, dungeons, crates, fishing, drops, daily rewards, events... etc.
+Various Custom Enchants have different rarities. They range from common, uncommon, rare, epic, legendary, and special. The higher rarity an enchant has, generally the more powerful it is, and the more rare it is from enchanting tables, villagers, dungeons, crates, fishing, drops, daily rewards, events... etc.
 
 ## Stacking Enchantments
 ![Stacking Enchantments](./img/ce/ce-stacking.gif)

@@ -26,7 +26,7 @@ To create a shop chest, follow the steps below.
 5. Your shop is now created!
 
 ## Getting Whitelisted (Player Shops World)
-If you would like to build and create your own shop at `/warp playershops`, you need to be whitelisted. To get whitelisted, you must meet the following requirements:
+If you would like to build and create your own shop at `/playershops`, you need to be whitelisted. To get whitelisted, you must meet the following requirements:
 - Minimum of one week since the first join date on the server.
 - Minimum playtime of 20 hours (can be seen in `/settings` -> click your head at the top)
 - No history of any rule violations.
@@ -41,10 +41,6 @@ Using excessive amounts of space (>40x40x40) in the player shops region is prohi
 
 :::warning
 Shop chests will be protected from any players. However, any non-shop chests in the player shops region (600x600) are **not protected.**
-:::
-
-:::warning
-If you are making a claim on your player shop, make sure to enable the "Interactions" permission in your Global Claim Settings (`/claimsettings`). Otherwise, no one will be able to use your shop!
 :::
 
 :::warning

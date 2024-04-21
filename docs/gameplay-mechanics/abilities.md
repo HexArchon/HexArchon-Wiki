@@ -26,18 +26,30 @@ This is the main abilities menu, which you can open by typing `/abilities` and c
 
 This is where you can scroll through and view all available abilities. Here you can click on an ability you own, which will select the ability.
 
+## Ability Types & Conditions
+![Ability Types](./img/abilities/ability-types.png)
+
+There are two types of abilities: Active and Passive. Active abilities require you to manually cast the ability. Passive abilities activate automatically.
+
+Some abilities may also have casting conditions. For example, the Fire Storm ability requires you to aim at a target to cast the ability.
+
 ## Upgrading Abilities
 
 ![Ability Upgrade](./img/abilities/ability-upgrade.png)
 
-While an ability is selected, you can choose to upgrade it by clicking on the middle item. To the left, you can view your selected ability's current level, and to the right, you can preview your selected ability's next level.
+While an ability is selected, you can choose to upgrade it by clicking on the middle glass item. To the left, you can view your selected ability's current level, and to the right, you can preview your selected ability's next level.
 
 ## Binding Abilities
 
 ![Ability Slots](./img/abilities/ability-bind.png)
 
-While an ability is seleted, you can bind it to one of the 6 slots by left-clicking on an inactive slot. The slot you bind an ability to will determine the number you would press to activate the ability.
-To unbind an ability from a slot, you can right-click on an occupied slot.
+While an ability is selected, you can bind it to one of the 8 slots by left-clicking on an inactive slot. 
+
+The first 6 slots are "Active Ability" slots - you can only bind active abilities to those slots. The last 2 slots are "Passive Ability" slots - you can only bind passive abilities to those slots.
+
+The slot you bind an ability to will determine the number you would press to activate the ability. For example: If you bind an ability to the second slot, you will press the [2] key to cast the ability.
+
+To unbind an ability from a slot, right-click on an occupied slot.
 
 ## Mana
 

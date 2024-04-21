@@ -16,7 +16,7 @@ To begin mining in the Miner's Mountain, you must first talk to Emmett at `/warp
 ![Archaic Reserves Menu](./img/minersmountain/archaic-reserves.png)
 
 ## Pickaxes
-To start mining in the Miner's Mountain, you first need to craft a Toughstone Pickaxe. You can obtain Toughstone outside of the Miner's Mountain by mining ores and killing Stone Golems in the overworld. You can craft the Toughstone Pickaxe and other special pickaxes in the Archaic Reserves menu at `/warp minersmountain` or the Blacksmith at `/warp crafting`.
+To start mining in the Miner's Mountain, you first need to craft a Toughstone Pickaxe. You can obtain Toughstone outside of the Miner's Mountain by mining ores and killing Stone Golems in the overworld. You can craft the Toughstone Pickaxe and other special pickaxes in the Archaic Reserves menu at `/minersmountain` or the Blacksmith at `/crafting`.
 
 ## Ore Index
 ![Ore Index](./img/minersmountain/ore-index.png)
@@ -35,7 +35,7 @@ The Ore Index displays all ores in the Miner's Mountain and pickaxes that can br
 |Purple Jewel Deposit|Blue Crystal|
 
 ## Locating Ores
-Ores in the Miner's Mountain are grouped together at certain parts of the cave at `/warp minersmountain`. There are hints throughout the cave that correspond to where certain ores are found - such as, dripstone for limestone deposits, red crystals for red jewel deposits, lava and magma for purple jewel deposits, etc.
+Ores in the Miner's Mountain are grouped together at certain parts of the cave at `/minersmountain`. There are hints throughout the cave that correspond to where certain ores are found - such as, dripstone for limestone deposits, red crystals for red jewel deposits, lava and magma for purple jewel deposits, etc.
 
 ## Relic Mining Time and Speed
 Relic Mining Time represents the time in ticks it takes for an ore to break. Relic Mining Speed decreases the Relic Mining Time (meaning you can break ores faster), and can be obtained by leveling up your Relic Discovery Level or unlocking certain perks in the Relic Discovery Tree.

@@ -17,7 +17,7 @@ World Bosses are bosses that can be fought in any of the survival worlds but req
 
 ### Summoning Steps
 
-Craft the Warden's Call to Archon from the Sorcerer. Navigate to the coordinates [X: 0, Y: 0] in the main world (the world `/rtp` takes you), enter the underground city, and locate the Warden's Well. Hold the Warden's Call to Archon and right-click next to the Warden's Well. While the Warden's Call to Archon is active for 50s, summon a Warden as usual, and it will summon the Warden Anomaly.
+Craft the Warden's Call to Archon from the Sorcerer. Navigate to the coordinates [X: 0, Y: 0] in the main world (the world `/rtp` takes you), enter the underground city, and locate the Warden's Well. Hold the Warden's Call to Archon and right-click next to the Warden's Well to summon the Warden Anomaly.
 
 ## Acheron
 ![Acheron](./img/acheron.png)
@@ -39,4 +39,6 @@ Craft the Crimson Crown from the Sorcerer. Head to the Acheron Arena located nea
 
 ![Voidkeeper Summon](./img/voidkeeperspawn.png)
 
-Upon killing Lesser Shadows, there is a very small chance of summoning a Corrupted Anchor which will deal damage within a radius. After destroying the Corrupted Anchor a ritual will spawn containing 4 Netherite Seals. Upon destroying all 4 seals the Voidkeeper will be summoned.
+Upon killing Lesser Shadows (Floating Chainmail Armor), there is a very small chance of summoning a Corrupted Anchor which will deal damage within a radius. After destroying the Corrupted Anchor, a ritual will spawn containing 4 Netherite Seals. Destroy all 4 seals to summon the Voidkeeper.
+
+Alternatively, you can also craft a Corrupted Anchor from the `/blacksmith` - albeit, at a very expensive price.

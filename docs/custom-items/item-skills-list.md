@@ -7,6 +7,10 @@ title: Item Skills List
 # Item Skills List
 The list and the descriptions of all of the skills of Custom Items.
 
+:::caution
+This list does not update automatically, and thus may not include newer item skills. If you cannot find an item skill on this page, please let us know on our [Discord](https://discord.hexarchon.net).
+:::
+
 :::tip
 Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 :::

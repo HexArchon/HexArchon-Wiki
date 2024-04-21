@@ -11,11 +11,11 @@ All about using, crafting, upgrading, and repairing custom items.
 
 ![Blacksmith](./img/blacksmith.png)
 
-You can craft and upgrade materials, weapons, repair stones/artifacts, and armor from the Blacksmith. The Blacksmith is located at spawn or at `/warp crafting`.
+You can craft and upgrade materials, weapons, repair stones/artifacts, and armor from the Blacksmith. The Blacksmith is located at spawn or at `/crafting`.
 
 ![Sorcerer](./img/sorcerer.png)
 
-You can craft potions, staffs, wands, catalysts, tomes, runes, and item essence from the Sorcerer. The Sorcerer is located next to the Blacksmith at `/warp crafting`.
+You can craft potions, staffs, wands, catalysts, tomes, runes, and item essence from the Sorcerer. The Sorcerer is located next to the Blacksmith at `/crafting`.
 
 ## Types of Custom Items
 
@@ -30,7 +30,7 @@ Magic Items (from the Sorcerer) cannot be enchanted!
 ## Look up uses and recipes of Custom Items
 ![Lookup](./img/lookup-1.png)
 
-You can use the `/lookup <Custom Item>` command to quickly look up the description, ways of obtaining, crafting recipe (if applicable), and uses of items.
+You can use the `/lookup item <Custom Item>` command to quickly look up the description, ways of obtaining, crafting recipe (if applicable), and uses of items.
 
 ## Weapon and Armor Attributes
 

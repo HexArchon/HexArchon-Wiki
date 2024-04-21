@@ -5,7 +5,7 @@ title: Bedrock Issues
 ---
 
 # Bedrock Issues
-You can join the server on Bedrock Edition using the IP `play.hexarchon.net` with Port `19132`. **Beware that Bedrock support has issues, because Mojang does not care to support 1:1 parity with Java on Bedrock Edition.** You will encounter many issues.
+Unfortunately, there are many issues on Bedrock, because Mojang does not care to support 1:1 parity with Java on Bedrock Edition. You will encounter many issues.
 
 ## Why are there so many issues on Bedrock Edition?
 Minecraft Java and Bedrock is programmed using completely different programming languages, with completely different programming formats, with many gameplay variations. Any data incoming from Bedrock players have to be translated to Java Edition for the server to understand the data, and Bedrock is unbelievably lacking in features compared to Java.

@@ -7,16 +7,17 @@ title: Items List
 # Items List
 A list of all materials and how to obtain them.
 
-:::tip
-To learn all specific biomes a certain mob spawns in, use the `/lookup mob <mob name>` command.
-:::
-
-## Obtaining Materials
-:::tip
-Use Ctrl+F (or CMD+F on macOS) to quickly search for the material you're looking for!
+:::caution
+This list does not update automatically, and thus may not include newer materials. If you cannot find a material on this page, please let us know on our [Discord](https://discord.hexarchon.net).
 :::
 
 ### Early Game Materials
+:::tip
+To learn all specific biomes a certain mob spawns in, use the `/lookup mob <mob name>` command.
+:::
+:::tip
+Use Ctrl+F (or CMD+F on macOS) to quickly search for the material you're looking for!
+:::
 |**Name**|**How to obtain**|
 | :------------- |:-------------
 Ancient Trident Fragment|Dropped by defeating Poseidon in `/boss`.
