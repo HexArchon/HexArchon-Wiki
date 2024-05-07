@@ -11,14 +11,8 @@ The list of smaller modifications to vanilla Minecraft.
 ### Keep Inventory
 * Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
 
-### Enchantments
-* Infinity can be put on crossbows.
-* Mending will always repair the most damaged equipment first.
-
 ### Items
 * Milk Buckets will clear the bad omen effect.
-* Elytras take 3x higher durability loss.
-* Diamond Items require more Netherite Ingots to upgrade. The amount depends on their crafting recipe. For example, Chestplates require 8 ingots, pickaxes require 3 ingots, etc.
 * Tridents thrown from the offhand will return to the offhand.
 * Redstone components are not craftable and can only be obtained from the shop, as they are extremely powerful tools of automation.
 * Tridents with Loyalty cannot be thrown through portals to avoid losing them.
@@ -27,25 +21,18 @@ The list of smaller modifications to vanilla Minecraft.
 
 ### Blocks
 * Spawners will drop using a silk touch pickaxe.
-* You can break half of full slab blocks by sneak + left-clicking.
-* Chests can still open with a full block above them.
-* Spawners can be deactivated with redstone power.
-* Farmland can be moistened from water below.
-* Composters can be bulk processed by sneak + right-clicking with the item in hand.
 
 ### Entities
-* Armor Stands have arms.
-* Phantoms are ridable and controllable.
-* Mobs from spawners do not have AI.
+* Mobs from spawners do not have AI (only in the main overworld.)
 
 ### Other Mechanics
 * End Portals exhibit safer teleporting.
 * Beds only require 30% of all active players to sleep to skip the night.
-* Flying Machines are disabled, as such a powerful automation tool cannot be balanced.
+* Flying machines are disabled, as such a powerful automation tool cannot be balanced.
 
 ### Villagers
 * Villagers may act slower to preserve ticks (technical: 4 brain-ticks).
-* Villager curing mechanism has been disabled due to balancing and technical limitations.
+* Villager curing mechanism has been disabled due to balancing and technical limitations with custom trades.
 * Villager trades have been nerfed (you need more items to trade for emeralds) as villagers can be used to obtain powerful custom items at huge discounts.
 
 #### Custom Enchantments from Villagers
@@ -93,7 +80,7 @@ Cow, pig, sheep, and chicken spawners require grass blocks for them to spawn on.
 Block limits are necessary for balancing automations and to prevent abuse and lag. Below are the block limits per chunk. <br />
 
 * Hoppers: 8/chunk
-* All redstone items: 32/chunk
+* All redstone items: 24/chunk
 * [Tiles (Block Entities)](https://minecraft.fandom.com/wiki/Block_entity): 192/chunk
 
 ### Spawners and Crops Modifications

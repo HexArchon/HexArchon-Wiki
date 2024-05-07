@@ -25,7 +25,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
 |Bouncy Fireball|Casts a bouncing fireball that explodes on 3rd impact, dealing AOE *magic* damage.|AOE Damage, Range
 |Burning Slashes|Leap toward a target on crosshair entity slashing rapidly dealing physical and *magic* damage.|AOE Damage, Mobility
-|Circular Slash|Slash your sword, dealing *physicmal* damage and knocking back surrounding entities.|AOE Damage, Crowd Control
+|Circular Slash|Slash your sword, dealing *physical* damage and knocking back surrounding entities.|AOE Damage, Crowd Control
 |Cosmic Cannon|Shoots a burst of projectiles dealing *magic* damage.|Horde Clearing, Range
 |Crystal Gaze|On cast, all entities in radius will aggro towards you. Additionally, gain resistance for 10 seconds.|Tank, Support, Resistance
 |Cut Down|Deals 10% max health *physical* damage. Caps at 1500 health and deals 150 damage instead.|Damage Increase

@@ -28,7 +28,7 @@ To create a shop chest, follow the steps below.
 ## Getting Whitelisted (Player Shops World)
 If you would like to build and create your own shop at `/playershops`, you need to be whitelisted. To get whitelisted, you must meet the following requirements:
 - Minimum of one week since the first join date on the server.
-- Minimum playtime of 20 hours (can be seen in `/settings` -> click your head at the top)
+- Minimum playtime of 20 hours (can be seen in `/help` -> click your head at the top)
 - No history of any rule violations.
 
 If you meet these requirements and would like to apply for the whitelist, you can do so by opening a ticket on our [Discord.](https://discord.hexarchon.net/)
