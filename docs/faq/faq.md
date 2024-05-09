@@ -89,7 +89,7 @@ See the [Suggestions and Bugs](../issues/suggestions-and-bugs.md) page. **THE CH
 Treasure maps are disabled as they cause severe lag spikes. Treasure maps load infinite chunks until it finds a structure - basically, imagine flying at light speed until it finds a treasure or the server crashes. Thanks Mojang.
 
 ### How do I use fancy colors in commands such as /nick, /rename, etc?
-Use these [color codes](https://i.redd.it/yldfhnb4xp411.png), or if you want to use gradients and hex colors, [use this website!](https://www.simplymc.art/Gradients)
+Use these [color codes](https://i.redd.it/yldfhnb4xp411.png), or if you want to use gradients and hex colors, [use this website!](https://www.birdflop.com/resources/rgb/)
 
 ### Are dungeon chests shared?
 Dungeon chests are not shared. They are per-player.
