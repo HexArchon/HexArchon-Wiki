@@ -8,6 +8,10 @@ title: Vanilla Modifications
 
 The list of smaller modifications to vanilla Minecraft.
 
+:::info
+If you are relying on vanilla Minecraft mechanics (such as building a farm), it is **strongly** recommended to review this wiki page.
+:::
+
 ### Keep Inventory
 * Keep Inventory is on throughout the entire server. However, you will lose 10% of your balance on death in the Overworld, Nether, The End, and the Skylands. You don't lose any in boss arenas, or dungeons.
 
