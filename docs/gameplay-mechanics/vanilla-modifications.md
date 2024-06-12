@@ -17,6 +17,7 @@ If you are relying on vanilla Minecraft mechanics (such as building a farm), it 
 
 ### Items
 * Milk Buckets will clear the bad omen effect.
+* Elytras take 3x higher durability loss.
 * Tridents thrown from the offhand will return to the offhand.
 * Redstone components are not craftable and can only be obtained from the shop, as they are extremely powerful tools of automation.
 * Tridents with Loyalty cannot be thrown through portals to avoid losing them.

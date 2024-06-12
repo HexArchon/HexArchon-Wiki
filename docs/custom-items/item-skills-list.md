@@ -20,39 +20,49 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 | :------------- |:-------------| :------------- 
 |Arcane Hail|Showers arcane projectiles in the target area, dealing *magic* damage on hit.|AOE Damage
 |Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
-|Archon's Strike|Send up to 3 entities locked airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
+|Archon's Strike|Send up to 3 entities airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
+|Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Support, Horde Clearing
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
 |Bouncy Fireball|Casts a bouncing fireball that explodes on 3rd impact, dealing AOE *magic* damage.|AOE Damage, Range
 |Burning Slashes|Leap toward a target on crosshair entity slashing rapidly dealing physical and *magic* damage.|AOE Damage, Mobility
 |Circular Slash|Slash your sword, dealing *physical* damage and knocking back surrounding entities.|AOE Damage, Crowd Control
 |Cosmic Cannon|Shoots a burst of projectiles dealing *magic* damage.|Horde Clearing, Range
 |Crystal Gaze|On cast, all entities in radius will aggro towards you. Additionally, gain resistance for 10 seconds.|Tank, Support, Resistance
+|Crystal Punch|Throw a punch forward, dealing *magic* damage to all enemies in a line. After 1 second the line cracks, dealing *magic* damage.|Damage Increase, Horde Clearing
 |Cut Down|Deals 10% max health *physical* damage. Caps at 1500 health and deals 150 damage instead.|Damage Increase
 |Dancing Fire|Casts a flurry of fire dealing *magic* damage to random entities in front of you.|Range
 |Deadly Poison|Deal *magic* damage to target entity over a few seconds.|Damage Increase
 |Deafening Impact|Dash toward a crosshair entity, jumping then smashing the ground dealing AOE *magic* damage.|AOE Damage, Mobility
 |Descending Storm|Casts a descending projectile, once it lands, calls a lightning strike dealing AOE *magic* damage. The radius increases with bonus Magic Damage.|AOE Damage
+|Diamond Dance|Shoots 3 homing projectiles to the nearest enemy in radius, dealing *magic* damage. Does nothing if no enemies in range.|Range
 |Disarray|Has three different casts, with each cast dashing you forward granting your next attack 25% extra damage. The first cast slashes downward. The second cast slashes horizontally. The third cast slams the ground, dealing AOE damage and knocking up enemies.|AOE Damage, Crowd Control, Mobility.
 |Divine Strike|Powerfully jump in the air, then dash toward a target on crosshair dealing AOE *magic damage* on impact. Additionally, your next attack sends a damaging wave of ice *(Not affected by magic/skill damage)*.|AOE Damage, Mobility
 |Double Strike|Deals extra *physical* damage after a delay.|Damage Increase
+|Double Punch|Strike twice dealing *physical* damage each hit.|Damage Increase
 |Enchanted Parry|Upon taking damage within 0.5 seconds of activating, deal *physical* damage to the damager and heal for 4 HP.|Sustain
 |Ender Shield|Grants absorption and a small heal when taking damage.|Resistance, Sustain
 |Firefly|Dash toward your crosshair exploding on contact with an entity dealing *magic* damage.|Mobility
 |Fire Resistance|Grants Fire Resistance for a few seconds.|Potion Effect
 |Flame Toss|Toss a desccending flame projectile forward, dealing small AOE *magic* damage on hit.|Range
+|Fracture|Deals *magic* damage, stunning the target for a duration.|Crowd Control, Damage Increase
 |Frozen Curse|Locks on to a target, after a delay, deals damage to surrounding entities.|AOE Damage
 |Freezing Strike|Casts a short projectile dealing *magic* damage.|Range
-|Goldbreaker|Emerge 3 gold blocks, after a few seconds, the blocks fly toward your crosshair direction dealing AOE *magic* damage on impact.|AOE Damage, Range
+|Godly Punches|Creates a chain missile on the target that can bounce to nearby enemies in radius, dealing *physical* and *magic* damage.|Damage Increase, Horde Clearing
+|Goldbreaker|Emerge 3 gold blocks, gaining Resistance III and Regeneration III. After a few seconds, the blocks fly toward your crosshair direction dealing AOE *magic* damage on impact.|AOE Damage, Range
 |Grand Heal|Heal yourself and nearby players instantly restoring HP.|Support, Sustain
 |Grapple|Grapple and leap towards target direction.|Mobility
 |Harvest|Heals for 2 HP and deals AOE *magic* damage.|AOE Damage, Sustain
-|Heal|Heal yourself instantly restoring HP.|Sustain
+|Heal|Instantly restores HP.|Sustain
 |Heavenly Stars|Readies a big slash dealing *magical* and *physical* damage.|AOE Damage
+|Heavy Charge|Charge forward, dealing *physical* damage and knocking back the first enemy hit|Mobility
 |Holy Missile|Casts a projectile dealing *magic* damage on hit.|Range
+|Ice Age|Deals *magic* damage to all enemies in radius, stunning them for a duration.|AOE Damage, Crowd Control
 |Ice Bolt|Casts an icy projectile dealing *magic* damage on hit.|Range
 |Infernal Bloodlust|Jump in the air then smash the ground, then become stunned for a duration, draining up to 5 entities in radius 6 times for 1 HP. After the duration, strike all entities in radius dealing *magic* damage and igniting them.|AOE Damage, Sustain
+|Infernal Power Orb|Summons an Infernal Power Orb, shooting bursts of projectiles at nearby enemies in radius dealing *magic* damage.|Horde Clearing
 |Last Ring|After a delay, leap forward and deal *physical* and *magic* damage to entities in path.|AOE Damage, Mobility
+|Leeching Claws|Deal *physical* damage to your target, marking them for a duration. If a marked enemy is hit with this ability, it deals bonus damage and heals you for a percentage of your max HP.|Damage Increase, Sustain
 |Life From Death|Summons an Ally Whispering Phantom that fights alongside you.|Damage Increase, Horde Clearing
 |Light Dash|Dash toward crosshair direction, dealing *physical* damage to passing entities.|Mobility
 |Magma Fissure|Casts a targeted magma fissure dealing *magic* damage.|Range
@@ -64,7 +74,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Overgrow|Casts a projectile volley of vines dealing *magic* damage on hit.|Horde Clearing, Range
 |Permafrost|Slows and deals *magic* damage to hit entity.|Damage Increase
 |Radar|Causes nearby entities to glow for a duration.|Vision
-|Rapidfire|Shoot several arrows rapidly.|Range
+|Rapidfire|Rapidly fire several arrows in succession, dealing *physical* damage.|Range
 |Sandstorm|Shoots a projectile, on impact, summons a sandstorm pulling nearby entities dealing damage *(Not affected by magic/skill damage)*.|AOE Damage, Crowd Control
 |Scarlet Slash|Casts an ascending projectile dealing *magic* damage on hit.|Range
 |Sky Smash|Strikes entities in front of you dealing *physical* damage and knocking them airborne.|Crowd Control
@@ -83,8 +93,10 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Sweeping Slashes|Casts a projectile of slashes dealing *physical* damage.|Horde Clearing, Range
 |Sweeping Storm|Casts a tornado towards target direction, pulling nearby entities and dealing *magic* damage.|Crowd Control, Horde Clearing
 |Test of Soul|Grants 2 wither skulls that orbit around you dealing *magic* damage on contact. Additionally, basic attacks wither enemies for a 5 seconds.|Ramping Damage
+|Thirst For War|Increases your On Hit Damage by a multiplier for a short duration after killing an entity.|Damage Increase
 |Thrust|Thrust your weapon forward, dealing *physical* damage.|Range
 |Tidal Wave|Send a tidal wave dealing *magic* damage to entities it passes through.|AOE Damage
+|Titanic Ascension|Deals *magic* damage and knocks back nearby enemies, and the following abilities are enhanced for a duration. Godly Punches deals bonus damage, bounces to additional enemies, and heals you for each enemy hit. Leeching Claws will always deal marked damage, deals bonus damage, and heals for double the amount.|Crowd Control, Damage Increase, Sustain
 |Tomahawk Throw|Throw your axe dealing *physical* damage on hit.|Range
 |Transcendence|Begin to spin, slashing and throwing enemies in a radius dealing *physical* and *magic* damage. Additionally, grants an aura of 3 obitals that deals 10% bonus *magic* damage on hit and through basic attacks.|AOE Damage, Damage Increase, Ramping Damage
 |Vampirism|Drains and steals health.|Sustain
