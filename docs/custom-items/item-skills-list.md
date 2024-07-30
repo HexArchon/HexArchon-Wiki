@@ -23,10 +23,14 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Archon's Strike|Send up to 3 entities airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
 |Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Support, Horde Clearing
+|Black Surge|Casts a volley of small black holes, dealing *magic* damage to enemies they pass through. After a few seconds, the black holes will explode, dealing AOE *magic* damage. |Horde Clearing, Range
+|Black Vortex|Casts a giant black hole, dealing *magic* and slowing nearby enemies every tick. After a few seconds, the black hole will explode dealing AOE *magic* damage.|AOE Damage, Crowd Control, DoT
 |Blade Dance|Levitate up, then dash toward crosshair entities three times slashing rapidly dealing *physical* damage.|AOE Damage, Mobility
+|Blade Surge|Casts a flurry of slashes, dealing *physical* damage each slash.|Horde Clearing
 |Bouncy Fireball|Casts a bouncing fireball that explodes on 3rd impact, dealing AOE *magic* damage.|AOE Damage, Range
 |Burning Slashes|Leap toward a target on crosshair entity slashing rapidly dealing physical and *magic* damage.|AOE Damage, Mobility
 |Circular Slash|Slash your sword, dealing *physical* damage and knocking back surrounding entities.|AOE Damage, Crowd Control
+|Cosmic Blaster|Charges up a giant projectile, dealing *magic* damage to nearby enemies on impact.|AOE Damage, Range
 |Cosmic Cannon|Shoots a burst of projectiles dealing *magic* damage.|Horde Clearing, Range
 |Crystal Gaze|On cast, all entities in radius will aggro towards you. Additionally, gain resistance for 10 seconds.|Tank, Support, Resistance
 |Crystal Punch|Throw a punch forward, dealing *magic* damage to all enemies in a line. After 1 second the line cracks, dealing *magic* damage.|Damage Increase, Horde Clearing
@@ -57,12 +61,16 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Heavenly Stars|Readies a big slash dealing *magical* and *physical* damage.|AOE Damage
 |Heavy Charge|Charge forward, dealing *physical* damage and knocking back the first enemy hit|Mobility
 |Holy Missile|Casts a projectile dealing *magic* damage on hit.|Range
+|Holy Pierce|Thrust forward, dealing *physical* damage to enemies in a line, followed by 3 explosions in the original trajectory dealing *physical* damage.|Horde Clearing, Range
+|Horned Slash|Slashes twice in an X, dealing *physical* damage and healing you. If the target is far, dash forward and slash down once, dealing triple damage and heal.|Mobility, Sustain
 |Ice Age|Deals *magic* damage to all enemies in radius, stunning them for a duration.|AOE Damage, Crowd Control
 |Ice Bolt|Casts an icy projectile dealing *magic* damage on hit.|Range
 |Infernal Bloodlust|Jump in the air then smash the ground, then become stunned for a duration, draining up to 5 entities in radius 6 times for 1 HP. After the duration, strike all entities in radius dealing *magic* damage and igniting them.|AOE Damage, Sustain
 |Infernal Power Orb|Summons an Infernal Power Orb, shooting bursts of projectiles at nearby enemies in radius dealing *magic* damage.|Horde Clearing
+|Large Slash|Slash horizontally, dealing *physical* damage.|Damage Increase
 |Last Ring|After a delay, leap forward and deal *physical* and *magic* damage to entities in path.|AOE Damage, Mobility
 |Leeching Claws|Deal *physical* damage to your target, marking them for a duration. If a marked enemy is hit with this ability, it deals bonus damage and heals you for a percentage of your max HP.|Damage Increase, Sustain
+|Life Ender|Summons a meteor at the target location dealing AOE *magic* damage and throwing nearby entities in the blast radius.|AOE Damage
 |Life From Death|Summons an Ally Whispering Phantom that fights alongside you.|Damage Increase, Horde Clearing
 |Light Dash|Dash toward crosshair direction, dealing *physical* damage to passing entities.|Mobility
 |Magma Fissure|Casts a targeted magma fissure dealing *magic* damage.|Range
@@ -72,9 +80,11 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Nether Strike|Strike a line slightly knocking up, igniting, and dealing *magic* damage to entities it passes through.|Range
 |Oblivion|Sends down a giant meteor from the sky dealing AOE *magic* damage and stunning enemies for 2 seconds. Additionally, allows the caster to shoot meteors dealing *magic* damage when swinging.|AOE Damage, Damage Increase, Range
 |Overgrow|Casts a projectile volley of vines dealing *magic* damage on hit.|Horde Clearing, Range
+|Overhead Slam|Deals 20% max health *physical* damage. Caps at 10000 health and deals 2000 damage instead.|Damage Increase
 |Permafrost|Slows and deals *magic* damage to hit entity.|Damage Increase
 |Radar|Causes nearby entities to glow for a duration.|Vision
 |Rapidfire|Rapidly fire several arrows in succession, dealing *physical* damage.|Range
+|Redflame Slash|Slash diagonally in front of you, dealing *physical* damage.|AOE Damage
 |Sandstorm|Shoots a projectile, on impact, summons a sandstorm pulling nearby entities dealing damage *(Not affected by magic/skill damage)*.|AOE Damage, Crowd Control
 |Scarlet Slash|Casts an ascending projectile dealing *magic* damage on hit.|Range
 |Sky Smash|Strikes entities in front of you dealing *physical* damage and knocking them airborne.|Crowd Control
@@ -83,11 +93,13 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 |Solidified Diversion|Slows surrounding entities in radius.|Crowd Control
 |Sonic Blaster|Shoots a projectile piercing through entities dealing *magic* damage.|Horde Clearing, Range
 |Sonic Boom|Casts a warden's sonic boom piercing through entities dealing *magic* and giving you speed on impact.|Mobility, Range
+|Soul Beam|Fires 2 beams in succession, dealing *magic* damage.|Horde Clearing, Range
 |Soul Devourer|Grants an aura causing attacks to heal for a percentage of your max HP.|Sustain
 |Spikes|Deals *physical* damage to entities within a short radius when hit.|AOE Damage
 |Spirit Shot|Lunge backwards, then shoot 2 projectile volleys dealing *magic* damage, then a shoot a ghost that explodes on impact dealing AOE *magic* damage.|AOE Damage, Range
 |Starfall|Casts a falling star on hit target dealing *magic* damage.|Damage Increase
 |Starstrikes|Alternates between *magical* and *physical* slashes dealing damage to all entities hit.|Damage Increase
+|Star Volley|Fires a volley stars, dealing *magic* damage to enemies they pass through.|Horde Clearing
 |Summon Aether Guard|Summons an Ally Aether Guard that fights alongside you. Periodically, the Aether Guard charges an attack, granting itself Speed, then knocks up its target on attack.|Damage Increase
 |Summon Wolf|Summons an Ally Firewolf that fights alongside you and can cast AOE fire slashes.|AOE Damage
 |Sweeping Slashes|Casts a projectile of slashes dealing *physical* damage.|Horde Clearing, Range

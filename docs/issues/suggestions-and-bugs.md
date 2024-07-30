@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 sidebar_label: 💡 Suggestions and Bugs
 title: Suggestions and Bugs
 ---

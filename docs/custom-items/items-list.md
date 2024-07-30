@@ -99,7 +99,7 @@ Skeleton Shaman Soul|Dropped by killing the Skeleton Shaman mini-boss in the Sou
 Snowland Soul|Dropped by Snowland Spirits in the Feriah Farlands.
 Sonic Shard|Dropped by Sculk Travelers in the Deep Dark biome.
 Stellar Core|Dropped from an extremely rare Fading Star event in the End.
-Unstable Fragment|Dropped from Cosmic Delusions and Corrupted Enderman in the outer End.
+Unstable Fragment|Dropped from Cosmic Delusions in the outer End.
 Unstable Matter|Crafted from the Matter Station in the outer End, spawns on a rare occasion.
 Void Essence|Dropped by Ender Revenants and Void Archers anywhere in the End.
 
