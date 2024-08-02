@@ -20,7 +20,7 @@ Use Ctrl+F (or CMD+F on macOS) to search for the skill you're looking for!
 | :------------- |:-------------| :------------- 
 |Arcane Hail|Showers arcane projectiles in the target area, dealing *magic* damage on hit.|AOE Damage
 |Arcane Surge|Grants an aura, allowing the caster to shoot a burst of projectiles dealing *magic* damage when shooting their bow.|Damage Increase, Range
-|Archon's Strike|Send up to 3 entities airborne dealing *magic* damage. Additionally, strike them twice dealing 2.5% of your MCMMO Axes level as *magic* damage.|Crowd Control
+|Archon's Strike|Send up to 3 entities airborne dealing *magic* damage. Additionally, strike them twice dealing the skill's damage and an additional 20% of your MCMMO Axes level as *magic* damage.|Crowd Control
 |Backstab|Deal extra damage when striking entities from behind.|Damage Increase
 |Battle Cry|Send a massive projectile forward, granting players Regeneration II and Resistance II, followed by an explosion dealing *magic* damage to enemies.|Support, Horde Clearing
 |Black Surge|Casts a volley of small black holes, dealing *magic* damage to enemies they pass through. After a few seconds, the black holes will explode, dealing AOE *magic* damage. |Horde Clearing, Range
