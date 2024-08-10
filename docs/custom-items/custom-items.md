@@ -75,8 +75,9 @@ All Custom Items have various attributes assigned to them. This can be seen when
 
 Due to Minecraft limitations with high damage values, Defense had to be introduced. Defense is used in most custom armor, and is NOT to be confused with the Armor attribute - they are two completely different variables.
 
-Here is the formula used for the application of defense:
+Here is the formula used for the application of defense: <br />
 ```damage * (0.355 - (defense / (3.325 * (defense + 150)))) - 2``` <br />
+
 This formula returns the final amount of damage dealt.
 
 ## Weapon Elemental Damage
@@ -128,6 +129,14 @@ Item essence is used for upgrading items or repairing items. They can be crafted
 
 Custom Items are repaired using Repair Stones and Artifacts based on their rarity. Repair Stones repair 30% of the item's max durability, while Repair Artifacts fully repair an item. Repairing items can be crafted from the Blacksmith under the Repairing section.
 
+## Mastery Levels
+
+![Mastery Levels](./img/mastery.png)
+
+Most Custom Items require certain Mastery Levels to use. Your Mastery Level is your mcMMO Power Level (`/mcstats`) minus your mcMMO Acrobatics (`/acrobatics`) level.
+
+You can check your mastery levels with `/mastery`.
+
 ## Runes
 
 ![Rune Crafting](./img/rune-crafting.png)
@@ -146,10 +155,10 @@ Runes are used to upgrade stats on Custom Items. Depending on the type of the Ru
 |Health|Grants 2 Health.
 
 :::tip
-Upgrading an item also upgrades runes applied it (if applicable). See the [Upgrading Items](#upgrading-items) section for more info.
+Upgrading an item also upgrades runes applied it (if applicable). See the [Upgrading Weapons and Armor](#upgrading-weapons-and-armor) section for more info.
 :::
 
-## Armor Tiers
+<!-- ## Armor Tiers
 Here are all the full armor sets ordered by the amount of defense from least to greatest.
 **Note that this order does NOT take full set bonuses, skills, items, or enchantments into account, which can all affect total defense greatly.**
 
@@ -174,10 +183,10 @@ Here are all the full armor sets ordered by the amount of defense from least to 
 |Void Warrior|219
 |Volcanic|289
 |Blizzard|340
-|Titanic|460
+|Titanic|460 -->
 
-## Slate Armor Set
-Skipping from an Overworld armor set to the Slate armor set is **STRONGLY DISCOURAGED** due to the difficulty of the Basalt Deltas. You **WILL** suffer. **You have been warned!**
+<!-- ## Slate Armor Set
+Skipping from an Overworld armor set to the Slate armor set is **STRONGLY DISCOURAGED** due to the difficulty of the Basalt Deltas. You **WILL** suffer. **You have been warned!** -->
 
 ## Item Merchant
 

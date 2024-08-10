@@ -71,17 +71,20 @@ import TabItem from '@theme/TabItem';
     - Durability: 4% per level <br />
     - Attack Damage: 2% per level <br />
     - Critical Strike Chance: +2% per level <br />
-    - Critical Strike Power: +4% per level <br />
+    - Critical Strike Power: +2% per level <br />
+    - Attack Speed: +2% per level <br />
     <b>Rare - Epic:</b> <br />
     - Durability: 8% per level <br />
-    - Attack Damage: 2.5% per level <br />
-    - Critical Strike Chance: +3% per level <br />
-    - Critical Strike Power: +5% per level <br />
+    - Attack Damage: 6% per level <br />
+    - Critical Strike Chance: +4% per level <br />
+    - Critical Strike Power: +3% per level <br />
+    - Attack Speed: +3% per level <br />
     <b>Legendary - Mythical:</b> <br />
     - Durability: 12% per level <br />
-    - Attack Damage: 3% per level <br />
-    - Critical Strike Chance: +4% per level <br />
-    - Critical Strike Power: +6% per level <br />
+    - Attack Damage: 8% per level <br />
+    - Critical Strike Chance: +5% per level <br />
+    - Critical Strike Power: +4% per level <br />
+    - Attack Speed: +4% per level <br />
   </TabItem>
   <TabItem value="thrusting_sword" label="Thrusting Swords">
     <b>Common - Uncommon:</b> <br />
