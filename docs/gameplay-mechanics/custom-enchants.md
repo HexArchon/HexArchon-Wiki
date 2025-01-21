@@ -69,5 +69,6 @@ You can stack enchantments for greater effects. For instance, stacking the Prosp
 You can easily look up all about an enchantment by using the command `/lookup enchant <enchantment>`. This will tell you what the enchantment does, the max level, and what it can be applied to.
 
 ## Get the list of Enchantments of Held Item
+Use the command `/enchantslist` to view the list of enchantments that are applied to the item that you are currently holding. After running this command, you can also click on an enchantment name to perform a quick `/lookup`.
 
-Are enchantments not showing (issue with shields/Bedrock Edition)? Use the command `/enchantslist` to view the list of enchantments that are applied to the item that you are currently holding.
+This command is useful if your screen resolution is small, and the enchantments get cut off your screen. You have to use this command to view enchantments on shields, as the developer is not interested in fixing enchantments not showing up on shields.

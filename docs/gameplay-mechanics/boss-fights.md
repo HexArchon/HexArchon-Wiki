@@ -17,7 +17,9 @@ Up to 4 players can join a single boss arena, in which the amount of rewards wil
 
 You can practice any Boss Fights **for free** in the practice realm. Use `/practice` to navigate to a practice range.
 
-**It is strongly encouraged** to practice for a Boss Fight before starting a real Boss Fight, so that you are prepared and you don't waste your entry costs by dying!
+:::warning
+**It is strongly encouraged** to practice before starting a real boss fight, so that you are prepared and you don't waste your entry costs by dying!
+:::
 
 ## Starting a Boss Fight
 To start a Boss Fight, open the boss menu using `/boss`. Select a boss to fight. Click "Start Arena" to start the boss fight solo, or co-op with up to 4 players _(must have a party setup before starting)._
@@ -45,7 +47,14 @@ To leave a boss fight, use the `/leave` command. **Warning: You will NOT get any
 
 ## Completing a Boss Fight
 ![Arena Complete](./img/bosses/boss-complete.png)
+
 Once you successfully complete a boss fight, the corresponding rewards will be given to you. If you kill the same boss again, you will now be given the rewards listed under "Repeat Rewards" instead.
+
+### Reward Distribution (Party)
+If you complete a boss fight with multiple players in a party, the following rules will apply:
+- If no one in the party has completed the boss yet, the boss will drop an emblem for each player.
+- If everyone in the party has already completed the boss, the boss will drop an emblem for each player.
+- If neither is the case, then the boss will only drop an emblem to players who have not yet completed the boss.
 
 ## Failing to Complete a Boss Fight
 If you fail to complete a boss fight (by dying or using `/leave`), you will keep your inventory, but **you will NOT get a refund on your entry cost.**

@@ -22,13 +22,10 @@ Type these into the chat for various functions! <br />
 Skipping the night (by sleeping) only requires 30% of the players currently in *your world* to sleep.
 
 ## Invisible Item Frames
-You can toggle an item frame's invisibility by facing it and using the command `/itf toggle`. To scan for nearby item frames, use `/itf scan <block radius>`.
+You can toggle an item frame's invisibility and glow effect by facing it and using the command `/itf`. To scan for nearby item frames, use `/itf scan <block radius>`.
 
 ## Armor Stand Tweaks
 You can easily edit armor stand poses in game! While holding a flint, shift and right-click air. A menu will pop up to which you can edit armor stand poses. Close the menu and right-click an armor stand to apply your poses.
 
 ## Waypoints
 You can use the command `/waypoint <x> <y> <z>` to set a waypoint for your compass to face to.
-
-## Achievements
-Various achievements in additions to vanilla achievements are available. The list of all achievements can be viewed with `/ach`.
